@@ -1,4 +1,3 @@
-Ins_id,Ins_name,Ins_email,Ins_phone ,Ins_city,Ins_gender,Dept_id
 1,Amira Kamal,amira.kamal@yahoo.com,1149231153,Cairo,Female,20
 2,Malek Hassan,malek.hassan@yahoo.com,1212345678,Alexandria,Male,10
 3,Nour Khaled,nour.khaled@yahoo.com,1113456789,Giza,Female,40

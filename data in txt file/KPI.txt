@@ -1,4 +1,3 @@
-KPI_id,Std_id,Std_FreelancingStatus,Freelance_Salary ,cert_status ,cert_website 
 1,1,1,1988,1,
 2,2,1,2031,0,
 3,3,1,1886,1,

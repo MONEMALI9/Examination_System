@@ -1,4 +1,3 @@
-Std_id,Crs_id,Crs_Material_helpful,Crs_Content,Crs_well-organised,Inst_ClassTime,Inst_Responce_Qus,Inst_GiveClearEx
 1.0,10.0,3,4,3,3,5,5
 1.0,9.0,2,3,5,7,4,5
 1.0,5.0,4,4,5,3,5,5

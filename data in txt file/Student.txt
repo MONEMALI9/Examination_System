@@ -1,4 +1,3 @@
-Std_id,Std_name,Std_email,Std_age,Std_gender,Std_City,Std_phone,Std_grad_year,Std_faculty
 1,Rahma Mostafa,rahmamostafa@gmail.com,23,Female,Cairo,1001234567,2023,Engineering
 2,Amira Ibrahim,amira.ibrahim@yahoo.com,27,Female,Cairo,1212345678,2018,Computer and Information Science
 3,Bassem Hassan,bassem.hassan@yahoo.com,23,Male,Alexandria,1113456789,2022,Computer and Information Science

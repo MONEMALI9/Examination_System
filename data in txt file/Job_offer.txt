@@ -1,4 +1,3 @@
-Job_offer_id,Std_id,Hiring_status,Job_title,Job_salary
 1,1,1,Full Stack Developer,17800
 2,2,1,Frontend Developer,13500
 3,3,0,None,0

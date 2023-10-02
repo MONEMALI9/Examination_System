@@ -1,4 +1,3 @@
-Std_id,Exam_id,Quest_id,Std_ans,Std_qs_grade
 1,987652,181,Ctrl + Z,5
 1,987652,182,Clone Stamp Tool,0
 1,987652,183,"Red, Green, Blue",5

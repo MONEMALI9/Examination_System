@@ -1,4 +1,3 @@
-Crs_id,Crs_name,Crs_duration,Topic_id ,Ins_id 
 1,OOP,60,1,5
 2,Java,80,1,9
 3,C++,50,1,1

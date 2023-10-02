@@ -1,4 +1,3 @@
-Choice_id,Choice_txt,Is_correct,Quest_id
 1,A specific instance of a class,1,1
 2,A function in a class,0,1
 3,A variable in a class,0,1

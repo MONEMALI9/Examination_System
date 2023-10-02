@@ -1,4 +1,3 @@
-Quest_id,Quest_txt,Quest_type,Quest_mark,Model_ans_id,Model_ans_txt
 1,What is an object in OOP?,mcq,5,1,A specific instance of a class
 2,What is encapsulation in OOP?,mcq,5,5,Binding data and methods that operate on the data
 3,What is inheritance in OOP?,mcq,5,10,The ability of a class to inherit properties and behavior from another class
