@@ -1,0 +1,6 @@
+Dept_id,Dept_name,Dept_location,Mgr_id
+10,Software Development,Cairo,2
+20,E-Learning,Mansoura,6
+30,Information System,Alex,8
+40,Digital Marketing,Cairo,9
+50,Content Development,Alex,10

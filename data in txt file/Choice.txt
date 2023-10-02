@@ -1,0 +1,1051 @@
+Choice_id,Choice_txt,Is_correct,Quest_id
+1,A specific instance of a class,1,1
+2,A function in a class,0,1
+3,A variable in a class,0,1
+4,A class constructor,0,1
+5,Binding data and methods that operate on the data,1,2
+6,Inheriting properties from a parent class,0,2
+7,Creating multiple instances of a class,0,2
+8,Hiding implementation details from the user,0,2
+9,The ability of a class to have multiple parent classes,0,3
+10,The ability of a class to inherit properties and behavior from another class,1,3
+11,The ability of a class to override methods from its parent class,0,3
+12,The ability of a class to have private members,0,3
+13,The ability of a class to have multiple forms or behaviors,1,4
+14,The ability of a class to be instantiated,0,4
+15,The ability of a class to have private members,0,4
+16,The ability of a class to override methods,0,4
+17,A method that creates an instance of a class,1,5
+18,A method that destroys an instance of a class,0,5
+19,A method that is used to update class properties,0,5
+20,A method that is inherited from a parent class,0,5
+21,A blueprint for creating objects,1,6
+22,A function in a program,0,6
+23,A specific instance of an object,0,6
+24,A variable in a program,0,6
+25,A function that belongs to a class,1,7
+26,A variable that belongs to a class,0,7
+27,A function that is independent of any class,0,7
+28,A variable that is independent of any class,0,7
+29,A design technique to model has-a relationships,1,8
+30,A design technique to model is-a relationships,0,8
+31,A design technique to create multiple instances of a class,0,8
+32,A design technique to create parent-child relationships,0,8
+33,A method that can be called without an instance of the class,1,9
+34,A method that can only be called by a subclass,0,9
+35,A method that cannot access class-level variables,0,9
+36,A method that cannot access instance-level variables,0,9
+37,Defining multiple methods with the same name but different parameters,1,10
+38,Defining multiple methods with different names,0,10
+39,Defining multiple methods with the same name and same parameters,0,10
+40,Defining a method inside another method,0,10
+41,Providing a new implementation for a method inherited from a parent class,1,11
+42,Hiding the implementation of a method,0,11
+43,Defining multiple methods with the same name but different parameters,0,11
+44,Defining a method inside another method,0,11
+45,A method that destroys an instance of a class,1,12
+46,A method that creates an instance of a class,0,12
+47,A method that updates class properties,0,12
+48,A method that is inherited from a parent class,0,12
+49,A function that can access private members of a class,1,13
+50,A function that is defined inside a class,0,13
+51,A function that can be called without an instance of the class,0,13
+52,A function that is inherited from a parent class,0,13
+53,A function that is defined in a base class and can be overridden by a subclass,1,14
+54,A function that can access private members of a class,0,14
+55,A function that is defined inside a class,0,14
+56,A function that is inherited from a parent class,0,14
+57,A virtual function that is not implemented in the base class,1,15
+58,A virtual function that is automatically called when an object is created,0,15
+59,A virtual function that is automatically called when an object is destroyed,0,15
+60,A virtual function that is inherited from a parent class,0,15
+61,True,0,16
+62,False,1,16
+63,True,0,17
+64,False,1,17
+65,True,0,18
+66,False,1,18
+67,True,0,19
+68,False,1,19
+69,True,0,20
+70,False,1,20
+71,Web Development,0,21
+72,Mobile App Development,0,21
+73,General-purpose Programming,1,21
+74,Game Development,0,21
+75,const,0,22
+76,final,1,22
+77,static,0,22
+78,private,0,22
+79,False,0,23
+80,,0,23
+81,True,0,23
+82,Depends on the data type,1,23
+83,int,0,24
+84,float,0,24
+85,decimal,1,24
+86,boolean,0,24
+87,16,0,25
+88,11,1,25
+89,10,0,25
+90,None of the above,0,25
+91,extends,1,26
+92,implements,0,26
+93,super,0,26
+94,this,0,26
+95,To create an instance of a class,0,27
+96,To declare a constant,0,27
+97,To indicate that a method or variable belongs to the class itself,1,27
+98,To prevent inheritance,0,27
+99,True,1,28
+100,False,0,28
+101,Compilation Error,0,28
+102,Runtime Error,0,28
+103,HashSet,0,29
+104,ArrayList,1,29
+105,TreeSet,0,29
+106,HashMap,0,29
+107,Exits the loop or switch statement,1,30
+108,Skips the current iteration of a loop,0,30
+109,Throws an exception,0,30
+110,Continues to the next iteration of a loop,0,30
+111,try,1,31
+112,catch,0,31
+113,throw,0,31
+114,finally,0,31
+115,A compiler,0,32
+116,An interpreter,0,32
+117,A virtual processor that executes Java bytecode,1,32
+118,A hardware component,0,32
+119,private,0,33
+120,protected,0,33
+121,package,1,33
+122,public,0,33
+123,To call a superclass method or constructor,1,34
+124,To access static members of a class,0,34
+125,To indicate that a variable is final,0,34
+126,To create an instance of a class,0,34
+127,try,0,35
+128,throw,1,35
+129,catch,0,35
+130,finally,0,35
+131,True,0,36
+132,False,1,36
+133,True,0,37
+134,False,1,37
+135,True,0,38
+136,False,1,38
+137,True,0,39
+138,False,1,39
+139,True,0,40
+140,False,1,40
+141,5 7,0,41
+142,6 7,1,41
+143,6 6,0,41
+144,5 6,0,41
+145,auto,0,42
+146,static,0,42
+147,constant,1,42
+148,register,0,42
+149,4,1,43
+150,8,0,43
+151,2,0,43
+152,Depends on the system,0,43
+153,Error,1,44
+154,Infinity,0,44
+155,Zero,0,44
+156,Depends on the compiler,0,44
+157,Allocate memory,1,45
+158,Deallocate memory,0,45
+159,Create a new object,0,45
+160,None of the above,0,45
+161,1 byte,1,46
+162,2 bytes,0,46
+163,4 bytes,0,46
+164,Depends on the system,0,46
+165,True,0,47
+166,2,0,47
+167,3,0,47
+168,Runtime error,1,47
+169,int* ptr;,1,48
+170,int ptr;,0,48
+171,int ptr[];,0,48
+172,Both A and C,0,48
+173,+,0,49
+174,-,1,49
+175,*,0,49
+176,/,0,49
+177,2 2.5,1,50
+178,2.5 2.5,0,50
+179,2 2,0,50
+180,2.5 2,0,50
+181,<stdio.h>,0,51
+182,<iostream>,1,51
+183,<conio.h>,0,51
+184,<stdlib.h>,0,51
+185,16,0,52
+186,11,1,52
+187,10,0,52
+188,None of the above,0,52
+189,To clear the input buffer,1,53
+190,To ignore errors in cin,0,53
+191,To skip a line in input,0,53
+192,None of the above,0,53
+193,for loop,1,54
+194,while loop,0,54
+195,do-while loop,0,54
+196,None of the above,0,54
+197,65,1,55
+198,B,0,55
+199,66,0,55
+200,Compiler Error,0,55
+201,True,0,56
+202,False,1,56
+203,True,0,57
+204,False,1,57
+205,True,0,58
+206,False,1,58
+207,True,0,59
+208,False,1,59
+209,True,0,60
+210,False,1,60
+211,Structured Query Language,0,61
+212,Structured Question Language,0,61
+213,Search Query Language,1,61
+214,Simple Query Language,0,61
+215,INSERT,0,62
+216,UPDATE,0,62
+217,SELECT,0,62
+218,DELETE,1,62
+219,A column that uniquely identifies each row in a table,0,63
+220,A column that stores the data types of the other columns,1,63
+221,A column that contains only numeric values,0,63
+222,A column that is used to sort the data in a table,0,63
+223,SELECT,0,64
+224,UPDATE,1,64
+225,DELETE,0,64
+226,INSERT,0,64
+227,Combines rows from two or more tables based on a related column between them,1,65
+228,Deletes all data from a table,0,65
+229,Updates existing data in a table,0,65
+230,Inserts new data into a table,0,65
+231,DELETE,1,66
+232,UPDATE,0,66
+233,SELECT,0,66
+234,INSERT,0,66
+235,To sort the result set in ascending or descending order,1,67
+236,To filter the result set based on a specified condition,0,67
+237,To join multiple tables together,0,67
+238,To limit the number of rows returned in a result set,0,67
+239,UPDATE,1,68
+240,DELETE,0,68
+241,SELECT,0,68
+242,INSERT,0,68
+243,To group rows based on a specified column,1,69
+244,To filter the result set based on a specified condition,0,69
+245,To join multiple tables together,0,69
+246,To limit the number of rows returned in a result set,0,69
+247,AVG(),1,70
+248,COUNT(),0,70
+249,SUM(),0,70
+250,MAX(),0,70
+251,To filter the result set based on a condition after the GROUP BY clause,1,71
+252,To filter the result set based on a condition before the GROUP BY clause,0,71
+253,To join multiple tables together,0,71
+254,To limit the number of rows returned in a result set,0,71
+255,AND,1,72
+256,OR,0,72
+257,NOT,0,72
+258,BETWEEN,0,72
+259,Returns only unique values from a specified column,1,73
+260,Deletes all data from a table,0,73
+261,Updates existing data in a table,0,73
+262,Inserts new data into a table,0,73
+263,COUNT(),1,74
+264,AVG(),0,74
+265,SUM(),0,74
+266,MAX(),0,74
+267,To filter the result set based on a specified condition,1,75
+268,To group rows based on a specified column,0,75
+269,To join multiple tables together,0,75
+270,To limit the number of rows returned in a result set,0,75
+271,True,0,76
+272,False,1,76
+273,True,0,77
+274,False,1,77
+275,True,0,78
+276,False,1,78
+277,True,0,79
+278,False,1,79
+279,True,0,80
+280,False,1,80
+281,A database management system,0,81
+282,A programming language,1,81
+283,An operating system,0,81
+284,A web browser,0,81
+285,Java,0,82
+286,Python,0,82
+287,SQL,1,82
+288,C++,0,82
+289,Concurrency control,0,83
+290,Automatic memory management,0,83
+291,Data encryption,0,83
+292,All of the above,1,83
+293,Structured Query Language,1,84
+294,Sequential Query Language,0,84
+295,Standard Query Language,0,84
+296,System Query Language,0,84
+297,Table,0,85
+298,View,0,85
+299,Index,0,85
+300,Procedure,1,85
+301,To store database records,0,86
+302,To improve query performance,1,86
+303,To enforce data integrity,0,86
+304,To create data backups,0,86
+305,UPDATE,0,87
+306,DELETE,0,87
+307,INSERT,1,87
+308,SELECT,0,87
+309,READ COMMITTED,1,88
+310,READ UNCOMMITTED,0,88
+311,REPEATABLE READ,0,88
+312,SERIALIZABLE,0,88
+313,255,0,89
+314,1000,0,89
+315,4000,1,89
+316,Unlimited,0,89
+317,VARCHAR2,0,90
+318,NUMBER,0,90
+319,BOOLEAN,1,90
+320,DATE,0,90
+321,To uniquely identify a row in a table,0,91
+322,To define a relationship between two tables,1,91
+323,To enforce data integrity constraints,0,91
+324,To create an index for faster searching,0,91
+325,CREATE,1,92
+326,ALTER,0,92
+327,DROP,0,92
+328,TRUNCATE,0,92
+329,To save changes made to the database,1,93
+330,To roll back a transaction,0,93
+331,To delete records from a table,0,93
+332,To update the schema definition,0,93
+333,PRIMARY KEY,0,94
+334,FOREIGN KEY,0,94
+335,CHECK,0,94
+336,INDEX,1,94
+337,To save changes made to the database,0,95
+338,To roll back a transaction,1,95
+339,To delete records from a table,0,95
+340,To update the schema definition,0,95
+341,True,1,96
+342,False,0,96
+343,True,1,97
+344,False,0,97
+345,True,1,98
+346,False,0,98
+347,True,1,99
+348,False,0,99
+349,True,0,100
+350,False,1,100
+351,A database management system,1,101
+352,A programming language,0,101
+353,An operating system,0,101
+354,A web browser,0,101
+355,They are only used for storing text data,0,102
+356,They can only be accessed locally,0,102
+357,They are not scalable,0,102
+358,They support relational database management,1,102
+359,A programming language,1,103
+360,A database management system,0,103
+361,An operating system,0,103
+362,A web browser,0,103
+363,It is a database management system,0,104
+364,It is a web server,1,104
+365,It is an operating system,0,104
+366,It is a programming language,0,104
+367,To secure and back up data,1,105
+368,To manage web services,0,105
+369,To optimize database performance,0,105
+370,To design user interfaces,0,105
+371,It is a programming language,0,106
+372,It is a database management system,0,106
+373,It is an operating system,0,106
+374,It is a cloud computing platform,1,106
+375,A programming language,0,107
+376,A database management system,0,107
+377,An integrated development environment,1,107
+378,A web browser,0,107
+379,It is a programming language,0,108
+380,It is a database management system,0,108
+381,It is an operating system,0,108
+382,It is an infrastructure software,1,108
+383,To secure and back up data,0,109
+384,To manage web services,0,109
+385,To optimize database performance,0,109
+386,To enable real-time data integration,1,109
+387,It is a programming language,0,110
+388,It is a database management system,0,110
+389,It is an operating system,0,110
+390,It is a hardware and software bundle,1,110
+391,A database management system,0,111
+392,A programming language,0,111
+393,An operating system,0,111
+394,An engineered system for running Oracle Database,1,111
+395,They are used for managing web services,0,112
+396,They are a database management system,0,112
+397,They are an operating system,0,112
+398,They are a scalable and customizable compute option,1,112
+399,A database management system,0,113
+400,A programming language,0,113
+401,An operating system,0,113
+402,A clustering database technology,1,113
+403,It is a programming language,0,114
+404,It is a database management system,0,114
+405,It is an operating system,0,114
+406,It is a comprehensive management solution,1,114
+407,A database management system,0,115
+408,A programming language,0,115
+409,An operating system,0,115
+410,A feature that reduces storage costs and improves performance,1,115
+411,True,0,116
+412,False,1,116
+413,True,1,117
+414,False,0,117
+415,True,1,118
+416,False,0,118
+417,True,1,119
+418,False,0,119
+419,True,1,120
+420,False,0,120
+421,A database management system,1,121
+422,A programming language,0,121
+423,An operating system,0,121
+424,A web framework,0,121
+425,Data encryption,0,122
+426,Data integrity constraints,0,122
+427,Automatic memory management,0,122
+428,Object-oriented programming,1,122
+429,To create web applications,0,123
+430,To manage database security,0,123
+431,To write stored procedures and functions,1,123
+432,To optimize query performance,0,123
+433,To synchronize data across multiple databases,1,124
+434,To backup and restore data,0,124
+435,To manage user access control,0,124
+436,To monitor database performance,0,124
+437,It is a single-tier architecture,0,125
+438,It is a two-tier architecture,0,125
+439,It is a three-tier architecture,1,125
+440,It is a four-tier architecture,0,125
+441,It ensures data integrity,1,126
+442,It provquestion_ides data encryption,0,126
+443,It allows for efficient data retrieval,0,126
+444,It enforces referential integrity,0,126
+445,Indexes,1,127
+446,Triggers,0,127
+447,Constraints,0,127
+448,Views,0,127
+449,To generate unique numbers,1,128
+450,To implement data valquestion_idation rules,0,128
+451,To define table relationships,0,128
+452,To store temporary data,0,128
+453,SQL*Plus,1,129
+454,Oracle Forms,0,129
+455,Oracle Reports,0,129
+456,Oracle APEX,0,129
+457,To develop web applications,0,130
+458,To manage database security,1,130
+459,To design user interfaces,0,130
+460,To perform system testing,0,130
+461,SGA (System Global Area),0,131
+462,PGA (Program Global Area),0,131
+463,SGA and PGA both,1,131
+464,None of the above,0,131
+465,To enforce referential integrity,0,132
+466,To perform automatic data backups,0,132
+467,To generate reports,0,132
+468,To automatically execute a set of SQL statements,1,132
+469,Materialized views,1,133
+470,Indexes,0,133
+471,Constraints,0,133
+472,Triggers,0,133
+473,To optimize database performance,1,134
+474,To manage data concurrency,0,134
+475,To enforce data integrity,0,134
+476,To generate database backups,0,134
+477,Tablespaces,0,135
+478,Datafiles,1,135
+479,Control files,0,135
+480,Redo logs,0,135
+481,True,0,136
+482,False,1,136
+483,True,1,137
+484,False,0,137
+485,True,1,138
+486,False,0,138
+487,True,0,139
+488,False,1,139
+489,True,0,140
+490,False,1,140
+491,The graphical user interface of Linux,0,141
+492,The core component of the Linux operating system,1,141
+493,A programming language used in Linux,0,141
+494,A command-line tool in Linux,0,141
+495,ls,0,142
+496,rm,0,142
+497,cd,0,142
+498,mkdir,1,142
+499,Bash,1,143
+500,Zsh,0,143
+501,Csh,0,143
+502,Fish,0,143
+503,date,1,144
+504,time,0,144
+505,clock,0,144
+506,datetime,0,144
+507,To change the ownership of a file,0,145
+508,To compress files into an archive,0,145
+509,To modify file permissions,1,145
+510,To search for files and directories,0,145
+511,ps,1,146
+512,ls,0,146
+513,top,0,146
+514,kill,0,146
+515,To search for files and directories,0,147
+516,To display the contents of a file,0,147
+517,To compress files into an archive,0,147
+518,To filter text based on patterns,1,147
+519,rmdir,0,148
+520,rm,1,148
+521,mv,0,148
+522,cd,0,148
+523,To display network interface configuration,1,149
+524,To manage user accounts,0,149
+525,To change file permissions,0,149
+526,To list directory contents,0,149
+527,cp,1,150
+528,mv,0,150
+529,rm,0,150
+530,cd,0,150
+531,To display the current user,0,151
+532,To check the system uptime,0,151
+533,To display the system information,1,151
+534,To list the logged-in users,0,151
+535,ls,0,152
+536,cd,1,152
+537,pwd,0,152
+538,mv,0,152
+539,To change file permissions,0,153
+540,To compress files into an archive,1,153
+541,To search for files and directories,0,153
+542,To display the contents of a file,0,153
+543,find,1,154
+544,search,0,154
+545,locate,0,154
+546,grep,0,154
+547,To display the current date and time,0,155
+548,To create a new file,0,155
+549,To print text or variables,1,155
+550,To remove files and directories,0,155
+551,True,1,156
+552,False,0,156
+553,True,1,157
+554,False,0,157
+555,True,1,158
+556,False,0,158
+557,True,1,159
+558,False,0,159
+559,True,0,160
+560,False,1,160
+561,Hyper Text Markup Language,1,161
+562,Home Tool Markup Language,0,161
+563,Hyperlinks and Text Markup Language,0,161
+564,None of the above,0,161
+565,<ul>,1,162
+566,<ol>,0,162
+567,<li>,0,162
+568,<dl>,0,162
+569,,1,163
+570,<break>,0,163
+571,<lb>,0,163
+572,<newline>,0,163
+573,id,1,164
+574,class,0,164
+575,name,0,164
+576,identifier,0,164
+577,<a>,1,165
+578,<link>,0,165
+579,<h>,0,165
+580,<hyperlink>,0,165
+581,<table>,1,166
+582,<tab>,0,166
+583,<tbl>,0,166
+584,<tr>,0,166
+585,<ol>,1,167
+586,<ul>,0,167
+587,<li>,0,167
+588,<list>,0,167
+589,<title>,1,168
+590,<head>,0,168
+591,<h1>,0,168
+592,<header>,0,168
+593,alt,1,169
+594,src,0,169
+595,image,0,169
+596,text,0,169
+597,<p>,1,170
+598,<para>,0,170
+599,<pg>,0,170
+600,<paragraph>,0,170
+601,<img src='image.jpg'>,1,171
+602,<image src='image.jpg'>,0,171
+603,<img alt='image.jpg'>,0,171
+604,<image alt='image.jpg'>,0,171
+605,width,1,172
+606,size,0,172
+607,length,0,172
+608,dimension,0,172
+609,<th>,1,173
+610,<thead>,0,173
+611,<table-header>,0,173
+612,<header>,0,173
+613,<input type='checkbox'>,1,174
+614,<checkbox>,0,174
+615,<input type='check'>,0,174
+616,<check>,0,174
+617,style,1,175
+618,css,0,175
+619,inline,0,175
+620,design,0,175
+621,True,0,176
+622,False,1,176
+623,True,0,177
+624,False,1,177
+625,True,0,178
+626,False,1,178
+627,True,0,179
+628,False,1,179
+629,True,0,180
+630,False,1,180
+631,Ctrl + Z,1,181
+632,Ctrl + Y,0,181
+633,Ctrl + X,0,181
+634,Ctrl + C,0,181
+635,Brush Tool,0,182
+636,Move Tool,1,182
+637,Eraser Tool,0,182
+638,Clone Stamp Tool,0,182
+639,"Red, Green, Blue",1,183
+640,Random Graphics Buffer,0,183
+641,"Rotate, Gradient, Blur",0,183
+642,"Resize, Gamma, Brightness",0,183
+643,JPEG,0,184
+644,BMP,0,184
+645,GIF,1,184
+646,TIFF,0,184
+647,Image > Adjustments > Canvas Size,1,185
+648,Edit > Transform > Scale,0,185
+649,File > Save As,0,185
+650,Layer > New > Layer,0,185
+651,A filter applied to a layer,0,186
+652,A tool for cropping images,0,186
+653,A non-destructive way to hide or reveal parts of a layer,1,186
+654,A technique for merging multiple layers into one,0,186
+655,Blur Tool,0,187
+656,Healing Brush Tool,1,187
+657,Dodge Tool,0,187
+658,Pen Tool,0,187
+659,To change the color temperature of an image,0,188
+660,To adjust the brightness and contrast of an image,1,188
+661,To apply special effects to an image,0,188
+662,To create custom brushes,0,188
+663,Lasso Tool,0,189
+664,Magic Wand Tool,1,189
+665,Quick Selection Tool,0,189
+666,Color Replacement Tool,0,189
+667,To change the size of an image,0,190
+668,To remove unwanted elements from an image,1,190
+669,To add text to an image,0,190
+670,To apply artistic filters to an image,0,190
+671,File > New > Layer,0,191
+672,Edit > Transform > Scale,0,191
+673,Image > Adjustments > Brightness/Contrast,0,191
+674,Layer > Duplicate Layer,1,191
+675,The size of a brush,0,192
+676,The transparency of a layer or tool,1,192
+677,The sharpness of an image,0,192
+678,The color mode of an image,0,192
+679,Brush Tool,0,193
+680,Shape Tool,1,193
+681,Crop Tool,0,193
+682,Gradient Tool,0,193
+683,Image > Adjustments > Brightness/Contrast,0,194
+684,Filter > Blur > Gaussian Blur,1,194
+685,Layer > New Adjustment Layer > Levels,0,194
+686,Edit > Transform > Scale,0,194
+687,To measure the size of an image,0,195
+688,To select and sample colors from an image,1,195
+689,To apply special effects to an image,0,195
+690,To create custom gradients,0,195
+691,True,0,196
+692,False,1,196
+693,True,0,197
+694,False,1,197
+695,True,0,198
+696,False,1,198
+697,True,0,199
+698,False,1,199
+699,True,0,200
+700,False,1,200
+701,Cascading Style Sheets,1,201
+702,Creative Style Sheets,0,201
+703,Computer Style Sheets,0,201
+704,Colorful Style Sheets,0,201
+705,background-color,1,202
+706,color,0,202
+707,bgcolor,0,202
+708,background,0,202
+709,font-size,1,203
+710,text-style,0,203
+711,text-size,0,203
+712,font-style,0,203
+713,margin,1,204
+714,padding,0,204
+715,spacing,0,204
+716,border,0,204
+717,font-weight,1,205
+718,font-style,0,205
+719,text-weight,0,205
+720,bold,0,205
+721,text-decoration,1,206
+722,underline,0,206
+723,decoration,0,206
+724,text-underline,0,206
+725,color,1,207
+726,font-color,0,207
+727,text-color,0,207
+728,font-fg,0,207
+729,list-style-type,1,208
+730,marker-style,0,208
+731,list-marker,0,208
+732,marker-type,0,208
+733,line-height,1,209
+734,text-spacing,0,209
+735,line-spacing,0,209
+736,text-height,0,209
+737,width,1,210
+738,size,0,210
+739,height,0,210
+740,length,0,210
+741,height,1,211
+742,size,0,211
+743,width,0,211
+744,length,0,211
+745,background-attachment,0,212
+746,background-image,1,212
+747,background,0,212
+748,background-fixed,0,212
+749,float,1,213
+750,align,0,213
+751,push,0,213
+752,side,0,213
+753,z-index,1,214
+754,top-index,0,214
+755,layer,0,214
+756,stack-order,0,214
+757,background-color,1,215
+758,bgcolor,0,215
+759,color,0,215
+760,bg-color,0,215
+761,True,0,216
+762,False,1,216
+763,True,0,217
+764,False,1,217
+765,True,0,218
+766,False,1,218
+767,True,0,219
+768,False,1,219
+769,True,0,220
+770,False,1,220
+771,A programming language,0,221
+772,A framework for building web applications,1,221
+773,A database management system,0,221
+774,A text editor,0,221
+775,Java,0,222
+776,Python,0,222
+777,TypeScript,1,222
+778,C#,0,222
+779,Angular 7,0,223
+780,Angular 8,0,223
+781,Angular 9,0,223
+782,Angular 10,1,223
+783,To write CSS code,0,224
+784,To generate a new Angular project,1,224
+785,To run server-side code,0,224
+786,To create animations,0,224
+787,A reusable piece of UI,1,225
+788,A type of service,0,225
+789,A built-in function,0,225
+790,A database table,0,225
+791,A way to bind data in both HTML and TypeScript,1,226
+792,A type of authentication,0,226
+793,A method for handling events,0,226
+794,A way to loop through an array,0,226
+795,To style the application,0,227
+796,To manage shared data or logic,1,227
+797,To create animations,0,227
+798,To define routes,0,227
+799,For fetching data from a server,0,228
+800,For handling navigation and routing,1,228
+801,For creating forms,0,228
+802,For styling components,0,228
+803,A library for building UI components,1,229
+804,A form of testing in Angular,0,229
+805,A built-in data storage system,0,229
+806,A type of animation,0,229
+807,To define routes,0,230
+808,To handle user input and perform two-way data binding,1,230
+809,To create animations,0,230
+810,To fetch data from a server,0,230
+811,To handle events,0,231
+812,To loop through an array and render elements,1,231
+813,To define routes,0,231
+814,To create animations,0,231
+815,A way to create custom HTML elements,0,232
+816,A way to control the behavior of DOM elements,1,232
+817,A type of animation,0,232
+818,A method for handling events,0,232
+819,A way to delay the loading of certain parts of the application,1,233
+820,A method for optimizing images,0,233
+821,A type of authentication,0,233
+822,A way to handle asynchronous code,0,233
+823,Ahead-of-Time compilation: A way to compile the application before it is deployed,1,234
+824,A method for handling errors,0,234
+825,A type of testing,0,234
+826,A way to optimize database queries,0,234
+827,To handle HTTP requests,0,235
+828,To initialize data or logic in a component,1,235
+829,To create animations,0,235
+830,To define routes,0,235
+831,True,0,236
+832,False,1,236
+833,True,0,237
+834,False,1,237
+835,True,0,238
+836,False,1,238
+837,True,0,239
+838,False,1,239
+839,True,0,240
+840,False,1,240
+841,User Interaction,0,241
+842,User Interface,1,241
+843,Unified Interface,0,241
+844,User Input,0,241
+845,Consistency,0,242
+846,Accessibility,0,242
+847,Familiarity,0,242
+848,Feedback,1,242
+849,To create a high-fidelity prototype,0,243
+850,To define the visual layout,0,243
+851,To showcase final design to clients,0,243
+852,To plan the structure and layout,1,243
+853,The visual design of a website,0,244
+854,The organization and structure of content,0,244
+855,The process of gathering user feedback,1,244
+856,The study of user behavior,0,244
+857,Analogous,0,245
+858,Monochromatic,1,245
+859,Triadic,0,245
+860,Complementary,0,245
+861,A fictional character representing a user type,0,246
+862,A type of wireframe,1,246
+863,A style of font,0,246
+864,A type of user interface element,0,246
+865,To identify and fix visual design issues,0,247
+866,To evaluate the effectiveness of a design with real users,0,247
+867,To create high-fidelity prototypes,1,247
+868,To conduct competitor analysis,0,247
+869,User Flow,0,248
+870,Aesthetic Appeal,0,248
+871,Functionality,1,248
+872,Accessibility,0,248
+873,The visual appearance of a user interface element,0,249
+874,The perceived usefulness or function of a UI element,0,249
+875,The ability to easily navigate a website,1,249
+876,The arrangement of elements on a page,0,249
+877,To define the visual and functional elements of a design,0,250
+878,To showcase design concepts to clients,1,250
+879,To create wireframes and prototypes,0,250
+880,To conduct user interviews,0,250
+881,The ease of use for people with disabilities,0,251
+882,The visual appeal of a design,1,251
+883,The speed at which a website loads,0,251
+884,The ability to adapt to different screen sizes,0,251
+885,To provide contact information,0,252
+886,To guide users towards a desired action,0,252
+887,To display advertisements,1,252
+888,To navigate to the homepage,0,252
+889,Studying the visual design of a website,0,253
+890,Gathering data to understand user behavior and needs,0,253
+891,Creating wireframes and prototypes,1,253
+892,Conducting usability testing,0,253
+893,Simplicity,0,254
+894,Consistency,1,254
+895,Hierarchy,0,254
+896,Feedback,0,254
+897,To compare two different versions of a design to determine which performs better,0,255
+898,To conduct user interviews,1,255
+899,To create wireframes,0,255
+900,To generate design concepts,0,255
+901,True,1,256
+902,False,0,256
+903,True,0,257
+904,False,1,257
+905,True,1,258
+906,False,0,258
+907,True,0,259
+908,False,1,259
+909,True,1,260
+910,False,0,260
+911,A programming language,0,261
+912,A distributed computing platform,1,261
+913,A type of database,0,261
+914,A web browser,0,261
+915,Google,0,262
+916,Microsoft,0,262
+917,Facebook,0,262
+918,Yahoo,1,262
+919,To process and analyze big data,1,263
+920,To play video games,0,263
+921,To browse the internet,0,263
+922,To send emails,0,263
+923,Java,1,264
+924,Python,0,264
+925,C++,0,264
+926,Ruby,0,264
+927,Hadoop Distributed File System (HDFS),1,265
+928,MapReduce,0,265
+929,YARN,0,265
+930,Hive,0,265
+931,Data storage,0,266
+932,Data processing,1,266
+933,Data visualization,0,266
+934,Data encryption,0,266
+935,To manage resources and schedule jobs,1,267
+936,To store and retrieve data,0,267
+937,To perform analytics,0,267
+938,To create web applications,0,267
+939,Structured data,1,268
+940,Audio files,0,268
+941,Images,0,268
+942,Executable programs,0,268
+943,Faster processing speed,0,269
+944,Lower cost,1,269
+945,Inability to handle large volumes of data,0,269
+946,Limited scalability,0,269
+947,Hive,1,270
+948,Pig,0,270
+949,Sqoop,0,270
+950,Flume,0,270
+951,Data storage,0,271
+952,Data processing,1,271
+953,Data visualization,0,271
+954,Data encryption,0,271
+955,Sqoop,1,272
+956,Hive,0,272
+957,Flume,0,272
+958,Pig,0,272
+959,Data storage,0,273
+960,Data processing,0,273
+961,Data warehousing,1,273
+962,Data encryption,0,273
+963,Flume,1,274
+964,Hive,0,274
+965,Pig,0,274
+966,Sqoop,0,274
+967,Data storage,0,275
+968,Data processing,1,275
+969,Data visualization,0,275
+970,Data encryption,0,275
+971,True,0,276
+972,False,1,276
+973,True,0,277
+974,False,1,277
+975,True,0,278
+976,False,1,278
+977,True,0,279
+978,False,1,279
+979,True,0,280
+980,False,1,280
+981,Preventing all cyberattacks,0,281
+982,Minimizing the impact of cyberattacks,1,281
+983,Detecting all cyberattacks,0,281
+984,Responding to cyberattacks after they occur,0,281
+985,password123,0,282
+986,P@ssw0rd!,0,282
+987,123456,0,282
+988,SecurePassword123!,1,282
+989,Sending unsolicited emails,0,283
+990,Tricking people into revealing sensitive information,0,283
+991,Installing malware on a computer,1,283
+992,Performing a DDoS attack,0,283
+993,Protects against viruses,0,284
+994,Secures communication over the internet,1,284
+995,Prevents phishing attacks,0,284
+996,Blocks unauthorized access to a network,0,284
+997,Blocks physical access to a computer,0,285
+998,Monitors network traffic and filters out unauthorized access,1,285
+999,Encrypts data in transit,0,285
+1000,Prevents software from being installed,0,285
+1001,Username and password,0,286
+1002,Fingerprint and facial recognition,0,286
+1003,Security questions,1,286
+1004,Retina scan and voice recognition,0,286
+1005,Hiding a computer's IP address,1,287
+1006,Blocking malicious websites,0,287
+1007,Encrypting physical files,0,287
+1008,Securing physical access to a building,0,287
+1009,Stealing sensitive information,0,288
+1010,Disrupting or disabling a target's services,1,288
+1011,Gaining unauthorized access to a network,0,288
+1012,Installing malware on a computer,0,288
+1013,Exploiting vulnerabilities in social media platforms,0,289
+1014,Manipulating people into revealing confidential information,1,289
+1015,Using advanced algorithms to predict social behavior,0,289
+1016,Hacking into social networks,0,289
+1017,Testing the strength of physical locks,0,290
+1018,Evaluating and assessing security measures and policies,1,290
+1019,Inspecting firewalls for vulnerabilities,0,290
+1020,Analyzing software code for bugs,0,290
+1021,Defining rules and guidelines for securing information and resources,1,291
+1022,Ensuring physical safety within the workplace,0,291
+1023,Regulating access to social media platforms,0,291
+1024,Creating backup copies of sensitive data,0,291
+1025,Spyware,0,292
+1026,Trojan horse,0,292
+1027,Ransomware,1,292
+1028,Worm,0,292
+1029,Assessing physical security measures,0,293
+1030,Simulating a cyberattack to identify vulnerabilities,1,293
+1031,Scanning for viruses on a computer,0,293
+1032,Encrypting data for secure transmission,0,293
+1033,Creating strong passwords for users,0,294
+1034,Outlining steps to take in the event of a security breach,1,294
+1035,Encrypting sensitive files on a computer,0,294
+1036,Preventing unauthorized access to a network,0,294
+1037,Monitors and filters incoming and outgoing network traffic,1,295
+1038,Scans for viruses on a computer's hard drive,0,295
+1039,Encrypts data for secure transmission,0,295
+1040,Prevents physical access to a computer,0,295
+1041,True,0,296
+1042,False,1,296
+1043,True,0,297
+1044,False,1,297
+1045,True,0,298
+1046,False,1,298
+1047,True,0,299
+1048,False,1,299
+1049,True,0,300
+1050,False,1,300

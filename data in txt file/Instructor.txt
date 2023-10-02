@@ -1,0 +1,11 @@
+Ins_id,Ins_name,Ins_email,Ins_phone ,Ins_city,Ins_gender,Dept_id
+1,Amira Kamal,amira.kamal@yahoo.com,1149231153,Cairo,Female,20
+2,Malek Hassan,malek.hassan@yahoo.com,1212345678,Alexandria,Male,10
+3,Nour Khaled,nour.khaled@yahoo.com,1113456789,Giza,Female,40
+4,Adham Ibrahim,adham.ibrahim@yahoo.com,1204593829,Cairo,Male,10
+5,Nour Mahmoud,nour.mahmoud@yahoo.com,1125678901,Aswan,Female,30
+6,Atef Abdelaziz,atef.abdelaziz@yahoo.com,1236789012,Sharm El Sheikh,Male,20
+7,Mariam Omar,mariam.omar@yahoo.com,1137890123,Cairo,Female,50
+8,Tamer Kamal,tamer.kamal@yahoo.com,1038901234,Mansoura,Male,30
+9,Alaa Mostafa,alaa.mostafa@yahoo.com,1249012345,Cairo,Female,40
+10,Hany Karim,hany.karim@yahoo.com,1014357351,Ismailia,Male,50

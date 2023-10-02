@@ -1,0 +1,30 @@
+1-Student [St_id (PK) - Std_name - Std_email - Std_age - Std_gender - Std_city - Std_phone -  Std_grad_year - Std_faculty ] 
+
+2-Department [Dept_id (PK) - Dpet_name - Dept_location - Mgr_id (FK) ] 
+
+3-Instructor [Ins_id (PK) - Ins_name - Ins_email - Ins_city - Ins_phone - Ins_gender - Dept_id (FK)] 
+
+4-Course [Crs_id (PK) - Crs_name - Crs_duration - Topic_id (FK) - Ins_id (FK)] 
+
+5-Topic [Topic_id (PK) - Topic_name ] 
+
+6-Question [Quest_id (PK) - Quest_txt - Quest_type - Quest_mark - Model_ans_id - Model_ans_txt]
+
+7-Exam [Exam_id (PK) - No_of_question - Exam_duration - Exam_grade - Exam_date - Crs_id (FK)] 
+
+8-Choice [Choice_id (PK) - Choice_txt - Is_correct - Quest_id (FK)]
+
+9- Exam_Question [ {Exam_id (FK) - Question_id (FK)} (PK) ] 
+ 
+10-Std_course [{Std_id (FK) - Crs_id (FK)} (PK) - Crs_grade ] 
+
+11-Std_answer [{Std_id (FK) - Exam_id (FK) - Quest_id (FK)} (PK) - Std_ans - Std_qs_grade] 
+
+12-ST_Exam_Grade [ {ST_ID(FK) - Exam_ID(FK)}(PK) - Grade] 
+
+13-Crs_Evaluation [ {Crs_id (FK) - Std_id (FK) } (PK) - Crs_Material_helpful - Crs_Content - Crs_well-organised - 
+			Inst_ClassTime - Inst_Responce_Qus - Inst_GiveClearEx - Crs_id (FK) - Std_id (FK)] 
+
+14- KPI [KPI_id - Std_id (FK) - Freelance_status - Freelance_Salary - cert_status ] 
+
+15- Job_offer [Jop_offer_id - Std_id (FK) - Hiring_status - Job_title - Job_salary ]

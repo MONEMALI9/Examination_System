@@ -1,0 +1,5701 @@
+Std_id,Exam_id,Quest_id,Std_ans,Std_qs_grade
+1,987652,181,Ctrl + Z,5
+1,987652,182,Clone Stamp Tool,0
+1,987652,183,"Red, Green, Blue",5
+1,987652,184,TIFF,0
+1,987652,185,Edit > Transform > Scale,0
+1,987652,186,A technique for merging multiple layers into one,0
+1,987652,187,Blur Tool,0
+1,987652,188,To apply special effects to an image,0
+1,987652,189,Magic Wand Tool,5
+1,987652,190,To apply artistic filters to an image,0
+1,987652,191,Edit > Transform > Scale,0
+1,987652,192,The color mode of an image,0
+1,987652,193,Brush Tool,0
+1,987652,194,Image > Adjustments > Brightness/Contrast,0
+1,987652,195,To measure the size of an image,0
+1,987652,196,False,5
+1,987652,197,True,0
+1,987652,198,False,5
+1,987652,199,True,0
+1,987652,200,True,0
+1,567890,161,None of the above,0
+1,567890,162,<li>,0
+1,567890,163,<lb>,0
+1,567890,164,id,5
+1,567890,165,<a>,5
+1,567890,166,<table>,5
+1,567890,167,<list>,0
+1,567890,168,<head>,0
+1,567890,169,src,0
+1,567890,170,<paragraph>,0
+1,567890,171,<img alt='image.jpg'>,0
+1,567890,172,dimension,0
+1,567890,173,<header>,0
+1,567890,174,<input type='checkbox'>,5
+1,567890,175,style,5
+1,567890,176,False,5
+1,567890,177,True,0
+1,567890,178,False,5
+1,567890,179,False,5
+1,567890,180,True,0
+1,345678,81,An operating system,0
+1,345678,82,Python,0
+1,345678,83,All of the above,5
+1,345678,84,Structured Query Language,5
+1,345678,85,Table,0
+1,345678,86,To store database records,0
+1,345678,87,SELECT,0
+1,345678,88,REPEATABLE READ,0
+1,345678,89,4000,5
+1,345678,90,NUMBER,0
+1,345678,91,To define a relationship between two tables,5
+1,345678,92,CREATE,5
+1,345678,93,To delete records from a table,0
+1,345678,94,CHECK,0
+1,345678,95,To delete records from a table,0
+1,345678,96,False,0
+1,345678,97,True,5
+1,345678,98,False,0
+1,345678,99,False,0
+1,345678,100,False,5
+2,789012,241,User Input,0
+2,789012,242,Feedback,5
+2,789012,243,To plan the structure and layout,5
+2,789012,244,The study of user behavior,0
+2,789012,245,Analogous,0
+2,789012,246,A fictional character representing a user type,0
+2,789012,247,To evaluate the effectiveness of a design with real users,0
+2,789012,248,Functionality,5
+2,789012,249,The arrangement of elements on a page,0
+2,789012,250,To create wireframes and prototypes,0
+2,789012,251,The ease of use for people with disabilities,0
+2,789012,252,To navigate to the homepage,0
+2,789012,253,Creating wireframes and prototypes,5
+2,789012,254,Hierarchy,0
+2,789012,255,To create wireframes,0
+2,789012,256,True,5
+2,789012,257,False,5
+2,789012,258,True,5
+2,789012,259,True,0
+2,789012,260,False,0
+2,119002,221,A framework for building web applications,5
+2,119002,222,C#,0
+2,119002,223,Angular 8,0
+2,119002,224,To write CSS code,0
+2,119002,225,A reusable piece of UI,5
+2,119002,226,A way to bind data in both HTML and TypeScript,5
+2,119002,227,To define routes,0
+2,119002,228,For creating forms,0
+2,119002,229,A built-in data storage system,0
+2,119002,230,To create animations,0
+2,119002,231,To loop through an array and render elements,5
+2,119002,232,A type of animation,0
+2,119002,233,A type of authentication,0
+2,119002,234,A method for handling errors,0
+2,119002,235,To create animations,0
+2,119002,236,False,5
+2,119002,237,False,5
+2,119002,238,True,0
+2,119002,239,False,5
+2,119002,240,False,5
+2,764269,1,A specific instance of a class,5
+2,764269,2,Inheriting properties from a parent class,0
+2,764269,3,The ability of a class to inherit properties and behavior from another class,5
+2,764269,4,The ability of a class to be instantiated,0
+2,764269,5,A method that is used to update class properties,0
+2,764269,6,A blueprint for creating objects,5
+2,764269,7,A variable that belongs to a class,0
+2,764269,8,A design technique to model is-a relationships,0
+2,764269,9,A method that cannot access instance-level variables,0
+2,764269,10,Defining a method inside another method,0
+2,764269,11,Hiding the implementation of a method,0
+2,764269,12,A method that destroys an instance of a class,5
+2,764269,13,A function that can access private members of a class,5
+2,764269,14,A function that is defined in a base class and can be overridden by a subclass,5
+2,764269,15,A virtual function that is automatically called when an object is created,0
+2,764269,16,True,0
+2,764269,17,True,0
+2,764269,18,False,5
+2,764269,19,True,0
+2,764269,20,False,5
+3,456789,121,A web framework,0
+3,456789,122,Data encryption,0
+3,456789,123,To write stored procedures and functions,5
+3,456789,124,To synchronize data across multiple databases,5
+3,456789,125,It is a two-tier architecture,0
+3,456789,126,It allows for efficient data retrieval,0
+3,456789,127,Indexes,5
+3,456789,128,To generate unique numbers,5
+3,456789,129,Oracle Forms,0
+3,456789,130,To perform system testing,0
+3,456789,131,PGA (Program Global Area),0
+3,456789,132,To perform automatic data backups,0
+3,456789,133,Constraints,0
+3,456789,134,To manage data concurrency,0
+3,456789,135,Control files,0
+3,456789,136,False,5
+3,456789,137,True,5
+3,456789,138,True,5
+3,456789,139,False,5
+3,456789,140,False,5
+3,128979,281,Preventing all cyberattacks,0
+3,128979,282,password123,0
+3,128979,283,Performing a DDoS attack,0
+3,128979,284,Blocks unauthorized access to a network,0
+3,128979,285,Encrypts data in transit,0
+3,128979,286,Username and password,0
+3,128979,287,Blocking malicious websites,0
+3,128979,288,Installing malware on a computer,0
+3,128979,289,Hacking into social networks,0
+3,128979,290,Inspecting firewalls for vulnerabilities,0
+3,128979,291,Regulating access to social media platforms,0
+3,128979,292,Ransomware,5
+3,128979,293,Encrypting data for secure transmission,0
+3,128979,294,Outlining steps to take in the event of a security breach,5
+3,128979,295,Monitors and filters incoming and outgoing network traffic,5
+3,128979,296,False,5
+3,128979,297,False,5
+3,128979,298,False,5
+3,128979,299,False,5
+3,128979,300,True,0
+3,765432,101,A database management system,5
+3,765432,102,They support relational database management,5
+3,765432,103,A programming language,5
+3,765432,104,It is a programming language,0
+3,765432,105,To manage web services,0
+3,765432,106,It is a programming language,0
+3,765432,107,A programming language,0
+3,765432,108,It is a database management system,0
+3,765432,109,To secure and back up data,0
+3,765432,110,It is a database management system,0
+3,765432,111,An operating system,0
+3,765432,112,They are a scalable and customizable compute option,5
+3,765432,113,A programming language,0
+3,765432,114,It is an operating system,0
+3,765432,115,A programming language,0
+3,765432,116,False,5
+3,765432,117,False,0
+3,765432,118,False,0
+3,765432,119,False,0
+3,765432,120,True,5
+3,234567,41,6 7,5
+3,234567,42,static,0
+3,234567,43,2,0
+3,234567,44,Infinity,0
+3,234567,45,None of the above,0
+3,234567,46,1 byte,5
+3,234567,47,Runtime error,5
+3,234567,48,int ptr[];,0
+3,234567,49,*,0
+3,234567,50,2.5 2,0
+3,234567,51,<stdlib.h>,0
+3,234567,52,None of the above,0
+3,234567,53,To ignore errors in cin,0
+3,234567,54,do-while loop,0
+3,234567,55,66,0
+3,234567,56,True,0
+3,234567,57,False,5
+3,234567,58,True,0
+3,234567,59,True,0
+3,234567,60,True,0
+4,876543,61,Structured Query Language,0
+4,876543,62,UPDATE,0
+4,876543,63,A column that contains only numeric values,0
+4,876543,64,DELETE,0
+4,876543,65,Deletes all data from a table,0
+4,876543,66,UPDATE,0
+4,876543,67,To sort the result set in ascending or descending order,5
+4,876543,68,UPDATE,5
+4,876543,69,To join multiple tables together,0
+4,876543,70,AVG(),5
+4,876543,71,To filter the result set based on a condition after the GROUP BY clause,5
+4,876543,72,AND,5
+4,876543,73,Returns only unique values from a specified column,5
+4,876543,74,AVG(),0
+4,876543,75,To join multiple tables together,0
+4,876543,76,False,5
+4,876543,77,False,5
+4,876543,78,True,0
+4,876543,79,False,5
+4,876543,80,False,5
+4,109024,201,Colorful Style Sheets,0
+4,109024,202,background-color,5
+4,109024,203,text-style,0
+4,109024,204,spacing,0
+4,109024,205,font-weight,5
+4,109024,206,text-decoration,5
+4,109024,207,color,5
+4,109024,208,marker-style,0
+4,109024,209,line-spacing,0
+4,109024,210,length,0
+4,109024,211,height,5
+4,109024,212,background-image,5
+4,109024,213,float,5
+4,109024,214,z-index,5
+4,109024,215,background-color,5
+4,109024,216,False,5
+4,109024,217,False,5
+4,109024,218,True,0
+4,109024,219,False,5
+4,109024,220,False,5
+4,987654,21,Game Development,0
+4,987654,22,private,0
+4,987654,23,False,0
+4,987654,24,float,0
+4,987654,25,11,5
+4,987654,26,super,0
+4,987654,27,To create an instance of a class,0
+4,987654,28,Runtime Error,0
+4,987654,29,TreeSet,0
+4,987654,30,Skips the current iteration of a loop,0
+4,987654,31,try,5
+4,987654,32,A compiler,0
+4,987654,33,protected,0
+4,987654,34,To create an instance of a class,0
+4,987654,35,catch,0
+4,987654,36,True,0
+4,987654,37,True,0
+4,987654,38,True,0
+4,987654,39,True,0
+4,987654,40,True,0
+5,654321,141,A programming language used in Linux,0
+5,654321,142,ls,0
+5,654321,143,Zsh,0
+5,654321,144,clock,0
+5,654321,145,To modify file permissions,5
+5,654321,146,ps,5
+5,654321,147,To filter text based on patterns,5
+5,654321,148,rmdir,0
+5,654321,149,To display network interface configuration,5
+5,654321,150,cp,5
+5,654321,151,To list the logged-in users,0
+5,654321,152,pwd,0
+5,654321,153,To search for files and directories,0
+5,654321,154,grep,0
+5,654321,155,To display the current date and time,0
+5,654321,156,True,5
+5,654321,157,True,5
+5,654321,158,False,0
+5,654321,159,True,5
+5,654321,160,True,0
+5,990465,261,A type of database,0
+5,990465,262,Microsoft,0
+5,990465,263,To browse the internet,0
+5,990465,264,Python,0
+5,990465,265,Hadoop Distributed File System (HDFS),5
+5,990465,266,Data encryption,0
+5,990465,267,To perform analytics,0
+5,990465,268,Images,0
+5,990465,269,Lower cost,5
+5,990465,270,Sqoop,0
+5,990465,271,Data encryption,0
+5,990465,272,Sqoop,5
+5,990465,273,Data encryption,0
+5,990465,274,Flume,5
+5,990465,275,Data encryption,0
+5,990465,276,True,0
+5,990465,277,True,0
+5,990465,278,True,0
+5,990465,279,False,5
+5,990465,280,False,5
+5,119002,221,A text editor,0
+5,119002,222,C#,0
+5,119002,223,Angular 7,0
+5,119002,224,To write CSS code,0
+5,119002,225,A database table,0
+5,119002,226,A type of authentication,0
+5,119002,227,To define routes,0
+5,119002,228,For creating forms,0
+5,119002,229,A library for building UI components,5
+5,119002,230,To create animations,0
+5,119002,231,To define routes,0
+5,119002,232,A way to control the behavior of DOM elements,5
+5,119002,233,A way to handle asynchronous code,0
+5,119002,234,A type of testing,0
+5,119002,235,To handle HTTP requests,0
+5,119002,236,False,5
+5,119002,237,True,0
+5,119002,238,False,5
+5,119002,239,False,5
+5,119002,240,True,0
+5,234567,41,5 6,0
+5,234567,42,constant,5
+5,234567,43,4,5
+5,234567,44,Error,5
+5,234567,45,Create a new object,0
+5,234567,46,Depends on the system,0
+5,234567,47,True,0
+5,234567,48,int ptr[];,0
+5,234567,49,+,0
+5,234567,50,2.5 2,0
+5,234567,51,<stdlib.h>,0
+5,234567,52,11,5
+5,234567,53,None of the above,0
+5,234567,54,while loop,0
+5,234567,55,Compiler Error,0
+5,234567,56,True,0
+5,234567,57,True,0
+5,234567,58,True,0
+5,234567,59,False,5
+5,234567,60,True,0
+6,765432,101,A web browser,0
+6,765432,102,They are only used for storing text data,0
+6,765432,103,A programming language,5
+6,765432,104,It is a programming language,0
+6,765432,105,To manage web services,0
+6,765432,106,It is a cloud computing platform,5
+6,765432,107,A web browser,0
+6,765432,108,It is an operating system,0
+6,765432,109,To manage web services,0
+6,765432,110,It is a hardware and software bundle,5
+6,765432,111,A database management system,0
+6,765432,112,They are an operating system,0
+6,765432,113,An operating system,0
+6,765432,114,It is a database management system,0
+6,765432,115,A programming language,0
+6,765432,116,True,0
+6,765432,117,True,5
+6,765432,118,False,0
+6,765432,119,False,0
+6,765432,120,False,0
+6,654321,141,A programming language used in Linux,0
+6,654321,142,mkdir,5
+6,654321,143,Fish,0
+6,654321,144,datetime,0
+6,654321,145,To compress files into an archive,0
+6,654321,146,ps,5
+6,654321,147,To filter text based on patterns,5
+6,654321,148,rmdir,0
+6,654321,149,To change file permissions,0
+6,654321,150,cp,5
+6,654321,151,To display the current user,0
+6,654321,152,ls,0
+6,654321,153,To compress files into an archive,5
+6,654321,154,search,0
+6,654321,155,To remove files and directories,0
+6,654321,156,True,5
+6,654321,157,True,5
+6,654321,158,False,0
+6,654321,159,True,5
+6,654321,160,True,0
+7,990465,261,A web browser,0
+7,990465,262,Facebook,0
+7,990465,263,To play video games,0
+7,990465,264,Ruby,0
+7,990465,265,YARN,0
+7,990465,266,Data encryption,0
+7,990465,267,To perform analytics,0
+7,990465,268,Images,0
+7,990465,269,Lower cost,5
+7,990465,270,Flume,0
+7,990465,271,Data visualization,0
+7,990465,272,Flume,0
+7,990465,273,Data processing,0
+7,990465,274,Sqoop,0
+7,990465,275,Data visualization,0
+7,990465,276,False,5
+7,990465,277,True,0
+7,990465,278,True,0
+7,990465,279,False,5
+7,990465,280,False,5
+7,987654,21,Game Development,0
+7,987654,22,static,0
+7,987654,23,False,0
+7,987654,24,boolean,0
+7,987654,25,10,0
+7,987654,26,super,0
+7,987654,27,To create an instance of a class,0
+7,987654,28,Compilation Error,0
+7,987654,29,TreeSet,0
+7,987654,30,Skips the current iteration of a loop,0
+7,987654,31,try,5
+7,987654,32,An interpreter,0
+7,987654,33,package,5
+7,987654,34,To indicate that a variable is final,0
+7,987654,35,try,0
+7,987654,36,False,5
+7,987654,37,False,5
+7,987654,38,True,0
+7,987654,39,True,0
+7,987654,40,True,0
+8,567890,161,Home Tool Markup Language,0
+8,567890,162,<ul>,5
+8,567890,163,<newline>,0
+8,567890,164,id,5
+8,567890,165,<hyperlink>,0
+8,567890,166,<tab>,0
+8,567890,167,<ol>,5
+8,567890,168,<title>,5
+8,567890,169,text,0
+8,567890,170,<p>,5
+8,567890,171,<image src='image.jpg'>,0
+8,567890,172,size,0
+8,567890,173,<thead>,0
+8,567890,174,<input type='check'>,0
+8,567890,175,style,5
+8,567890,176,True,0
+8,567890,177,False,5
+8,567890,178,False,5
+8,567890,179,True,0
+8,567890,180,True,0
+8,456789,121,A programming language,0
+8,456789,122,Automatic memory management,0
+8,456789,123,To optimize query performance,0
+8,456789,124,To synchronize data across multiple databases,5
+8,456789,125,It is a three-tier architecture,5
+8,456789,126,It ensures data integrity,5
+8,456789,127,Indexes,5
+8,456789,128,To generate unique numbers,5
+8,456789,129,Oracle Reports,0
+8,456789,130,To perform system testing,0
+8,456789,131,SGA (System Global Area),0
+8,456789,132,To generate reports,0
+8,456789,133,Materialized views,5
+8,456789,134,To optimize database performance,5
+8,456789,135,Datafiles,5
+8,456789,136,False,5
+8,456789,137,True,5
+8,456789,138,True,5
+8,456789,139,False,5
+8,456789,140,True,0
+8,789012,241,User Interaction,0
+8,789012,242,Familiarity,0
+8,789012,243,To plan the structure and layout,5
+8,789012,244,The process of gathering user feedback,5
+8,789012,245,Monochromatic,5
+8,789012,246,A type of user interface element,0
+8,789012,247,To evaluate the effectiveness of a design with real users,0
+8,789012,248,User Flow,0
+8,789012,249,The ability to easily navigate a website,5
+8,789012,250,To showcase design concepts to clients,5
+8,789012,251,The visual appeal of a design,5
+8,789012,252,To guide users towards a desired action,0
+8,789012,253,Creating wireframes and prototypes,5
+8,789012,254,Simplicity,0
+8,789012,255,To generate design concepts,0
+8,789012,256,True,5
+8,789012,257,True,0
+8,789012,258,False,0
+8,789012,259,False,5
+8,789012,260,True,5
+9,109024,201,Cascading Style Sheets,5
+9,109024,202,background,0
+9,109024,203,text-style,0
+9,109024,204,padding,0
+9,109024,205,font-weight,5
+9,109024,206,text-underline,0
+9,109024,207,font-fg,0
+9,109024,208,list-style-type,5
+9,109024,209,line-height,5
+9,109024,210,width,5
+9,109024,211,size,0
+9,109024,212,background,0
+9,109024,213,float,5
+9,109024,214,z-index,5
+9,109024,215,color,0
+9,109024,216,False,5
+9,109024,217,False,5
+9,109024,218,True,0
+9,109024,219,False,5
+9,109024,220,False,5
+9,987652,181,Ctrl + Y,0
+9,987652,182,Brush Tool,0
+9,987652,183,"Resize, Gamma, Brightness",0
+9,987652,184,BMP,0
+9,987652,185,File > Save As,0
+9,987652,186,A non-destructive way to hide or reveal parts of a layer,5
+9,987652,187,Healing Brush Tool,5
+9,987652,188,To adjust the brightness and contrast of an image,5
+9,987652,189,Quick Selection Tool,0
+9,987652,190,To apply artistic filters to an image,0
+9,987652,191,Image > Adjustments > Brightness/Contrast,0
+9,987652,192,The sharpness of an image,0
+9,987652,193,Shape Tool,5
+9,987652,194,Image > Adjustments > Brightness/Contrast,0
+9,987652,195,To select and sample colors from an image,5
+9,987652,196,True,0
+9,987652,197,True,0
+9,987652,198,True,0
+9,987652,199,True,0
+9,987652,200,False,5
+9,876543,61,Simple Query Language,0
+9,876543,62,INSERT,0
+9,876543,63,A column that uniquely identifies each row in a table,0
+9,876543,64,INSERT,0
+9,876543,65,Inserts new data into a table,0
+9,876543,66,INSERT,0
+9,876543,67,To join multiple tables together,0
+9,876543,68,UPDATE,5
+9,876543,69,To join multiple tables together,0
+9,876543,70,SUM(),0
+9,876543,71,To join multiple tables together,0
+9,876543,72,AND,5
+9,876543,73,Returns only unique values from a specified column,5
+9,876543,74,MAX(),0
+9,876543,75,To join multiple tables together,0
+9,876543,76,True,0
+9,876543,77,False,5
+9,876543,78,False,5
+9,876543,79,False,5
+9,876543,80,False,5
+9,764269,1,A specific instance of a class,5
+9,764269,2,Inheriting properties from a parent class,0
+9,764269,3,The ability of a class to have multiple parent classes,0
+9,764269,4,The ability of a class to be instantiated,0
+9,764269,5,A method that is used to update class properties,0
+9,764269,6,A function in a program,0
+9,764269,7,A function that belongs to a class,5
+9,764269,8,A design technique to model has-a relationships,5
+9,764269,9,A method that can only be called by a subclass,0
+9,764269,10,Defining multiple methods with the same name and same parameters,0
+9,764269,11,Providing a new implementation for a method inherited from a parent class,5
+9,764269,12,A method that is inherited from a parent class,0
+9,764269,13,A function that can be called without an instance of the class,0
+9,764269,14,A function that is inherited from a parent class,0
+9,764269,15,A virtual function that is automatically called when an object is destroyed,0
+9,764269,16,False,5
+9,764269,17,False,5
+9,764269,18,True,0
+9,764269,19,True,0
+9,764269,20,False,5
+10,128979,281,Preventing all cyberattacks,0
+10,128979,282,password123,0
+10,128979,283,Performing a DDoS attack,0
+10,128979,284,Prevents phishing attacks,0
+10,128979,285,Monitors network traffic and filters out unauthorized access,5
+10,128979,286,Security questions,5
+10,128979,287,Hiding a computer's IP address,5
+10,128979,288,Disrupting or disabling a target's services,5
+10,128979,289,Hacking into social networks,0
+10,128979,290,Analyzing software code for bugs,0
+10,128979,291,Regulating access to social media platforms,0
+10,128979,292,Ransomware,5
+10,128979,293,Simulating a cyberattack to identify vulnerabilities,5
+10,128979,294,Preventing unauthorized access to a network,0
+10,128979,295,Monitors and filters incoming and outgoing network traffic,5
+10,128979,296,False,5
+10,128979,297,True,0
+10,128979,298,False,5
+10,128979,299,False,5
+10,128979,300,False,5
+10,345678,81,A programming language,5
+10,345678,82,C++,0
+10,345678,83,Data encryption,0
+10,345678,84,Sequential Query Language,0
+10,345678,85,Index,0
+10,345678,86,To create data backups,0
+10,345678,87,DELETE,0
+10,345678,88,REPEATABLE READ,0
+10,345678,89,255,0
+10,345678,90,NUMBER,0
+10,345678,91,To uniquely identify a row in a table,0
+10,345678,92,CREATE,5
+10,345678,93,To save changes made to the database,5
+10,345678,94,CHECK,0
+10,345678,95,To save changes made to the database,0
+10,345678,96,False,0
+10,345678,97,False,0
+10,345678,98,True,5
+10,345678,99,False,0
+10,345678,100,True,0
+11,234567,41,5 6,0
+11,234567,42,register,0
+11,234567,43,8,0
+11,234567,44,Infinity,0
+11,234567,45,Allocate memory,5
+11,234567,46,1 byte,5
+11,234567,47,3,0
+11,234567,48,int* ptr;,5
+11,234567,49,*,0
+11,234567,50,2 2.5,5
+11,234567,51,<stdlib.h>,0
+11,234567,52,16,0
+11,234567,53,To clear the input buffer,5
+11,234567,54,do-while loop,0
+11,234567,55,Compiler Error,0
+11,234567,56,False,5
+11,234567,57,True,0
+11,234567,58,True,0
+11,234567,59,False,5
+11,234567,60,True,0
+11,128979,281,Detecting all cyberattacks,0
+11,128979,282,SecurePassword123!,5
+11,128979,283,Sending unsolicited emails,0
+11,128979,284,Secures communication over the internet,5
+11,128979,285,Prevents software from being installed,0
+11,128979,286,Security questions,5
+11,128979,287,Encrypting physical files,0
+11,128979,288,Disrupting or disabling a target's services,5
+11,128979,289,Manipulating people into revealing confidential information,5
+11,128979,290,Evaluating and assessing security measures and policies,5
+11,128979,291,Regulating access to social media platforms,0
+11,128979,292,Spyware,0
+11,128979,293,Simulating a cyberattack to identify vulnerabilities,5
+11,128979,294,Preventing unauthorized access to a network,0
+11,128979,295,Monitors and filters incoming and outgoing network traffic,5
+11,128979,296,False,5
+11,128979,297,True,0
+11,128979,298,True,0
+11,128979,299,False,5
+11,128979,300,False,5
+11,876543,61,Simple Query Language,0
+11,876543,62,SELECT,0
+11,876543,63,A column that uniquely identifies each row in a table,0
+11,876543,64,SELECT,0
+11,876543,65,Deletes all data from a table,0
+11,876543,66,INSERT,0
+11,876543,67,To limit the number of rows returned in a result set,0
+11,876543,68,UPDATE,5
+11,876543,69,To group rows based on a specified column,5
+11,876543,70,MAX(),0
+11,876543,71,To filter the result set based on a condition before the GROUP BY clause,0
+11,876543,72,BETWEEN,0
+11,876543,73,Updates existing data in a table,0
+11,876543,74,SUM(),0
+11,876543,75,To join multiple tables together,0
+11,876543,76,False,5
+11,876543,77,True,0
+11,876543,78,True,0
+11,876543,79,True,0
+11,876543,80,True,0
+11,987652,181,Ctrl + X,0
+11,987652,182,Move Tool,5
+11,987652,183,"Red, Green, Blue",5
+11,987652,184,JPEG,0
+11,987652,185,File > Save As,0
+11,987652,186,A filter applied to a layer,0
+11,987652,187,Blur Tool,0
+11,987652,188,To adjust the brightness and contrast of an image,5
+11,987652,189,Magic Wand Tool,5
+11,987652,190,To apply artistic filters to an image,0
+11,987652,191,Image > Adjustments > Brightness/Contrast,0
+11,987652,192,The color mode of an image,0
+11,987652,193,Shape Tool,5
+11,987652,194,Image > Adjustments > Brightness/Contrast,0
+11,987652,195,To measure the size of an image,0
+11,987652,196,True,0
+11,987652,197,False,5
+11,987652,198,True,0
+11,987652,199,True,0
+11,987652,200,True,0
+12,987654,21,General-purpose Programming,5
+12,987654,22,static,0
+12,987654,23,Depends on the data type,5
+12,987654,24,float,0
+12,987654,25,16,0
+12,987654,26,implements,0
+12,987654,27,To indicate that a method or variable belongs to the class itself,5
+12,987654,28,True,5
+12,987654,29,ArrayList,5
+12,987654,30,Continues to the next iteration of a loop,0
+12,987654,31,throw,0
+12,987654,32,A compiler,0
+12,987654,33,private,0
+12,987654,34,To access static members of a class,0
+12,987654,35,finally,0
+12,987654,36,False,5
+12,987654,37,False,5
+12,987654,38,True,0
+12,987654,39,True,0
+12,987654,40,True,0
+12,345678,81,A database management system,0
+12,345678,82,Java,0
+12,345678,83,Concurrency control,0
+12,345678,84,Sequential Query Language,0
+12,345678,85,View,0
+12,345678,86,To improve query performance,5
+12,345678,87,DELETE,0
+12,345678,88,READ UNCOMMITTED,0
+12,345678,89,255,0
+12,345678,90,VARCHAR2,0
+12,345678,91,To create an index for faster searching,0
+12,345678,92,DROP,0
+12,345678,93,To delete records from a table,0
+12,345678,94,CHECK,0
+12,345678,95,To delete records from a table,0
+12,345678,96,False,0
+12,345678,97,False,0
+12,345678,98,False,0
+12,345678,99,True,5
+12,345678,100,True,0
+12,567890,161,None of the above,0
+12,567890,162,<dl>,0
+12,567890,163,<break>,0
+12,567890,164,name,0
+12,567890,165,<h>,0
+12,567890,166,<tr>,0
+12,567890,167,<list>,0
+12,567890,168,<h1>,0
+12,567890,169,src,0
+12,567890,170,<para>,0
+12,567890,171,<image alt='image.jpg'>,0
+12,567890,172,length,0
+12,567890,173,<header>,0
+12,567890,174,<input type='check'>,0
+12,567890,175,inline,0
+12,567890,176,False,5
+12,567890,177,False,5
+12,567890,178,False,5
+12,567890,179,False,5
+12,567890,180,False,5
+13,764269,1,A class constructor,0
+13,764269,2,Creating multiple instances of a class,0
+13,764269,3,The ability of a class to have multiple parent classes,0
+13,764269,4,The ability of a class to have multiple forms or behaviors,5
+13,764269,5,A method that is inherited from a parent class,0
+13,764269,6,A specific instance of an object,0
+13,764269,7,A function that belongs to a class,5
+13,764269,8,A design technique to create multiple instances of a class,0
+13,764269,9,A method that cannot access class-level variables,0
+13,764269,10,Defining multiple methods with the same name and same parameters,0
+13,764269,11,Providing a new implementation for a method inherited from a parent class,5
+13,764269,12,A method that creates an instance of a class,0
+13,764269,13,A function that can be called without an instance of the class,0
+13,764269,14,A function that is defined inside a class,0
+13,764269,15,A virtual function that is inherited from a parent class,0
+13,764269,16,False,5
+13,764269,17,True,0
+13,764269,18,False,5
+13,764269,19,False,5
+13,764269,20,True,0
+13,654321,141,The graphical user interface of Linux,0
+13,654321,142,ls,0
+13,654321,143,Bash,5
+13,654321,144,clock,0
+13,654321,145,To compress files into an archive,0
+13,654321,146,kill,0
+13,654321,147,To search for files and directories,0
+13,654321,148,mv,0
+13,654321,149,To list directory contents,0
+13,654321,150,mv,0
+13,654321,151,To check the system uptime,0
+13,654321,152,ls,0
+13,654321,153,To compress files into an archive,5
+13,654321,154,grep,0
+13,654321,155,To display the current date and time,0
+13,654321,156,True,5
+13,654321,157,False,0
+13,654321,158,True,5
+13,654321,159,True,5
+13,654321,160,False,5
+13,990465,261,A distributed computing platform,5
+13,990465,262,Google,0
+13,990465,263,To play video games,0
+13,990465,264,Python,0
+13,990465,265,MapReduce,0
+13,990465,266,Data processing,5
+13,990465,267,To manage resources and schedule jobs,5
+13,990465,268,Structured data,5
+13,990465,269,Limited scalability,0
+13,990465,270,Flume,0
+13,990465,271,Data visualization,0
+13,990465,272,Pig,0
+13,990465,273,Data storage,0
+13,990465,274,Pig,0
+13,990465,275,Data processing,5
+13,990465,276,True,0
+13,990465,277,False,5
+13,990465,278,True,0
+13,990465,279,False,5
+13,990465,280,True,0
+14,119002,221,A framework for building web applications,5
+14,119002,222,Java,0
+14,119002,223,Angular 8,0
+14,119002,224,To write CSS code,0
+14,119002,225,A database table,0
+14,119002,226,A way to loop through an array,0
+14,119002,227,To style the application,0
+14,119002,228,For fetching data from a server,0
+14,119002,229,A built-in data storage system,0
+14,119002,230,To handle user input and perform two-way data binding,5
+14,119002,231,To loop through an array and render elements,5
+14,119002,232,A method for handling events,0
+14,119002,233,A way to handle asynchronous code,0
+14,119002,234,A type of testing,0
+14,119002,235,To create animations,0
+14,119002,236,False,5
+14,119002,237,True,0
+14,119002,238,False,5
+14,119002,239,True,0
+14,119002,240,False,5
+14,765432,101,A database management system,5
+14,765432,102,They support relational database management,5
+14,765432,103,A programming language,5
+14,765432,104,It is a web server,5
+14,765432,105,To optimize database performance,0
+14,765432,106,It is a database management system,0
+14,765432,107,An integrated development environment,5
+14,765432,108,It is a programming language,0
+14,765432,109,To secure and back up data,0
+14,765432,110,It is a database management system,0
+14,765432,111,An engineered system for running Oracle Database,5
+14,765432,112,They are a scalable and customizable compute option,5
+14,765432,113,A programming language,0
+14,765432,114,It is an operating system,0
+14,765432,115,An operating system,0
+14,765432,116,True,0
+14,765432,117,True,5
+14,765432,118,False,0
+14,765432,119,False,0
+14,765432,120,True,5
+14,109024,201,Cascading Style Sheets,5
+14,109024,202,background,0
+14,109024,203,text-style,0
+14,109024,204,border,0
+14,109024,205,bold,0
+14,109024,206,decoration,0
+14,109024,207,text-color,0
+14,109024,208,marker-type,0
+14,109024,209,line-spacing,0
+14,109024,210,width,5
+14,109024,211,height,5
+14,109024,212,background-fixed,0
+14,109024,213,float,5
+14,109024,214,stack-order,0
+14,109024,215,background-color,5
+14,109024,216,True,0
+14,109024,217,True,0
+14,109024,218,True,0
+14,109024,219,False,5
+14,109024,220,True,0
+15,128979,281,Responding to cyberattacks after they occur,0
+15,128979,282,SecurePassword123!,5
+15,128979,283,Sending unsolicited emails,0
+15,128979,284,Prevents phishing attacks,0
+15,128979,285,Blocks physical access to a computer,0
+15,128979,286,Fingerprint and facial recognition,0
+15,128979,287,Blocking malicious websites,0
+15,128979,288,Stealing sensitive information,0
+15,128979,289,Hacking into social networks,0
+15,128979,290,Inspecting firewalls for vulnerabilities,0
+15,128979,291,Defining rules and guidelines for securing information and resources,5
+15,128979,292,Trojan horse,0
+15,128979,293,Encrypting data for secure transmission,0
+15,128979,294,Encrypting sensitive files on a computer,0
+15,128979,295,Prevents physical access to a computer,0
+15,128979,296,True,0
+15,128979,297,False,5
+15,128979,298,True,0
+15,128979,299,False,5
+15,128979,300,False,5
+15,789012,241,Unified Interface,0
+15,789012,242,Feedback,5
+15,789012,243,To showcase final design to clients,0
+15,789012,244,The visual design of a website,0
+15,789012,245,Complementary,0
+15,789012,246,A fictional character representing a user type,0
+15,789012,247,To identify and fix visual design issues,0
+15,789012,248,Aesthetic Appeal,0
+15,789012,249,The perceived usefulness or function of a UI element,0
+15,789012,250,To define the visual and functional elements of a design,0
+15,789012,251,The visual appeal of a design,5
+15,789012,252,To guide users towards a desired action,0
+15,789012,253,Studying the visual design of a website,0
+15,789012,254,Feedback,0
+15,789012,255,To compare two different versions of a design to determine which performs better,0
+15,789012,256,False,0
+15,789012,257,True,0
+15,789012,258,True,5
+15,789012,259,True,0
+15,789012,260,True,5
+16,456789,121,An operating system,0
+16,456789,122,Automatic memory management,0
+16,456789,123,To write stored procedures and functions,5
+16,456789,124,To synchronize data across multiple databases,5
+16,456789,125,It is a two-tier architecture,0
+16,456789,126,It provquestion_ides data encryption,0
+16,456789,127,Views,0
+16,456789,128,To define table relationships,0
+16,456789,129,SQL*Plus,5
+16,456789,130,To design user interfaces,0
+16,456789,131,None of the above,0
+16,456789,132,To automatically execute a set of SQL statements,5
+16,456789,133,Constraints,0
+16,456789,134,To manage data concurrency,0
+16,456789,135,Tablespaces,0
+16,456789,136,False,5
+16,456789,137,False,0
+16,456789,138,False,0
+16,456789,139,True,0
+16,456789,140,False,5
+16,987652,181,Ctrl + Y,0
+16,987652,182,Eraser Tool,0
+16,987652,183,"Red, Green, Blue",5
+16,987652,184,GIF,5
+16,987652,185,Layer > New > Layer,0
+16,987652,186,A tool for cropping images,0
+16,987652,187,Pen Tool,0
+16,987652,188,To apply special effects to an image,0
+16,987652,189,Color Replacement Tool,0
+16,987652,190,To apply artistic filters to an image,0
+16,987652,191,Layer > Duplicate Layer,5
+16,987652,192,The size of a brush,0
+16,987652,193,Shape Tool,5
+16,987652,194,Layer > New Adjustment Layer > Levels,0
+16,987652,195,To apply special effects to an image,0
+16,987652,196,False,5
+16,987652,197,True,0
+16,987652,198,True,0
+16,987652,199,False,5
+16,987652,200,False,5
+16,765432,101,A database management system,5
+16,765432,102,They are not scalable,0
+16,765432,103,An operating system,0
+16,765432,104,It is a programming language,0
+16,765432,105,To optimize database performance,0
+16,765432,106,It is a cloud computing platform,5
+16,765432,107,A programming language,0
+16,765432,108,It is an infrastructure software,5
+16,765432,109,To enable real-time data integration,5
+16,765432,110,It is a programming language,0
+16,765432,111,An engineered system for running Oracle Database,5
+16,765432,112,They are used for managing web services,0
+16,765432,113,An operating system,0
+16,765432,114,It is a programming language,0
+16,765432,115,A feature that reduces storage costs and improves performance,5
+16,765432,116,True,0
+16,765432,117,True,5
+16,765432,118,True,5
+16,765432,119,False,0
+16,765432,120,True,5
+16,764269,1,A class constructor,0
+16,764269,2,Creating multiple instances of a class,0
+16,764269,3,The ability of a class to have multiple parent classes,0
+16,764269,4,The ability of a class to be instantiated,0
+16,764269,5,A method that is used to update class properties,0
+16,764269,6,A function in a program,0
+16,764269,7,A function that is independent of any class,0
+16,764269,8,A design technique to model has-a relationships,5
+16,764269,9,A method that cannot access instance-level variables,0
+16,764269,10,Defining a method inside another method,0
+16,764269,11,Defining a method inside another method,0
+16,764269,12,A method that updates class properties,0
+16,764269,13,A function that is inherited from a parent class,0
+16,764269,14,A function that is inherited from a parent class,0
+16,764269,15,A virtual function that is automatically called when an object is destroyed,0
+16,764269,16,True,0
+16,764269,17,False,5
+16,764269,18,True,0
+16,764269,19,True,0
+16,764269,20,True,0
+17,654321,141,A programming language used in Linux,0
+17,654321,142,cd,0
+17,654321,143,Zsh,0
+17,654321,144,datetime,0
+17,654321,145,To compress files into an archive,0
+17,654321,146,top,0
+17,654321,147,To search for files and directories,0
+17,654321,148,rmdir,0
+17,654321,149,To change file permissions,0
+17,654321,150,rm,0
+17,654321,151,To display the current user,0
+17,654321,152,mv,0
+17,654321,153,To change file permissions,0
+17,654321,154,find,5
+17,654321,155,To create a new file,0
+17,654321,156,False,0
+17,654321,157,False,0
+17,654321,158,False,0
+17,654321,159,True,5
+17,654321,160,True,0
+17,234567,41,5 7,0
+17,234567,42,auto,0
+17,234567,43,2,0
+17,234567,44,Error,5
+17,234567,45,Allocate memory,5
+17,234567,46,4 bytes,0
+17,234567,47,Runtime error,5
+17,234567,48,Both A and C,0
+17,234567,49,+,0
+17,234567,50,2.5 2,0
+17,234567,51,<conio.h>,0
+17,234567,52,16,0
+17,234567,53,None of the above,0
+17,234567,54,while loop,0
+17,234567,55,66,0
+17,234567,56,True,0
+17,234567,57,False,5
+17,234567,58,True,0
+17,234567,59,True,0
+17,234567,60,False,5
+17,876543,61,Simple Query Language,0
+17,876543,62,SELECT,0
+17,876543,63,A column that stores the data types of the other columns,5
+17,876543,64,SELECT,0
+17,876543,65,Inserts new data into a table,0
+17,876543,66,DELETE,5
+17,876543,67,To filter the result set based on a specified condition,0
+17,876543,68,SELECT,0
+17,876543,69,To group rows based on a specified column,5
+17,876543,70,AVG(),5
+17,876543,71,To filter the result set based on a condition after the GROUP BY clause,5
+17,876543,72,OR,0
+17,876543,73,Deletes all data from a table,0
+17,876543,74,MAX(),0
+17,876543,75,To group rows based on a specified column,0
+17,876543,76,True,0
+17,876543,77,True,0
+17,876543,78,True,0
+17,876543,79,True,0
+17,876543,80,False,5
+18,567890,161,Hyper Text Markup Language,5
+18,567890,162,<ol>,0
+18,567890,163,<break>,0
+18,567890,164,identifier,0
+18,567890,165,<link>,0
+18,567890,166,<tr>,0
+18,567890,167,<list>,0
+18,567890,168,<h1>,0
+18,567890,169,alt,5
+18,567890,170,<paragraph>,0
+18,567890,171,<image src='image.jpg'>,0
+18,567890,172,dimension,0
+18,567890,173,<header>,0
+18,567890,174,<input type='checkbox'>,5
+18,567890,175,style,5
+18,567890,176,True,0
+18,567890,177,False,5
+18,567890,178,False,5
+18,567890,179,False,5
+18,567890,180,True,0
+18,987654,21,Mobile App Development,0
+18,987654,22,const,0
+18,987654,23,,0
+18,987654,24,decimal,5
+18,987654,25,11,5
+18,987654,26,super,0
+18,987654,27,To declare a constant,0
+18,987654,28,Compilation Error,0
+18,987654,29,TreeSet,0
+18,987654,30,Throws an exception,0
+18,987654,31,catch,0
+18,987654,32,A virtual processor that executes Java bytecode,5
+18,987654,33,private,0
+18,987654,34,To create an instance of a class,0
+18,987654,35,throw,5
+18,987654,36,True,0
+18,987654,37,True,0
+18,987654,38,True,0
+18,987654,39,True,0
+18,987654,40,False,5
+18,789012,241,User Interaction,0
+18,789012,242,Familiarity,0
+18,789012,243,To showcase final design to clients,0
+18,789012,244,The process of gathering user feedback,5
+18,789012,245,Triadic,0
+18,789012,246,A fictional character representing a user type,0
+18,789012,247,To conduct competitor analysis,0
+18,789012,248,Aesthetic Appeal,0
+18,789012,249,The arrangement of elements on a page,0
+18,789012,250,To define the visual and functional elements of a design,0
+18,789012,251,The ease of use for people with disabilities,0
+18,789012,252,To display advertisements,5
+18,789012,253,Gathering data to understand user behavior and needs,0
+18,789012,254,Feedback,0
+18,789012,255,To create wireframes,0
+18,789012,256,True,5
+18,789012,257,False,5
+18,789012,258,True,5
+18,789012,259,False,5
+18,789012,260,True,5
+18,109024,201,Computer Style Sheets,0
+18,109024,202,color,0
+18,109024,203,font-size,5
+18,109024,204,padding,0
+18,109024,205,text-weight,0
+18,109024,206,text-underline,0
+18,109024,207,text-color,0
+18,109024,208,marker-style,0
+18,109024,209,line-spacing,0
+18,109024,210,length,0
+18,109024,211,width,0
+18,109024,212,background-fixed,0
+18,109024,213,push,0
+18,109024,214,stack-order,0
+18,109024,215,color,0
+18,109024,216,False,5
+18,109024,217,True,0
+18,109024,218,True,0
+18,109024,219,False,5
+18,109024,220,True,0
+19,345678,81,A web browser,0
+19,345678,82,SQL,5
+19,345678,83,Concurrency control,0
+19,345678,84,Standard Query Language,0
+19,345678,85,Index,0
+19,345678,86,To store database records,0
+19,345678,87,INSERT,5
+19,345678,88,READ UNCOMMITTED,0
+19,345678,89,Unlimited,0
+19,345678,90,BOOLEAN,5
+19,345678,91,To uniquely identify a row in a table,0
+19,345678,92,ALTER,0
+19,345678,93,To delete records from a table,0
+19,345678,94,INDEX,5
+19,345678,95,To roll back a transaction,5
+19,345678,96,False,0
+19,345678,97,True,5
+19,345678,98,False,0
+19,345678,99,True,5
+19,345678,100,False,5
+19,990465,261,A distributed computing platform,5
+19,990465,262,Facebook,0
+19,990465,263,To process and analyze big data,5
+19,990465,264,Java,5
+19,990465,265,Hadoop Distributed File System (HDFS),5
+19,990465,266,Data encryption,0
+19,990465,267,To create web applications,0
+19,990465,268,Audio files,0
+19,990465,269,Faster processing speed,0
+19,990465,270,Flume,0
+19,990465,271,Data visualization,0
+19,990465,272,Hive,0
+19,990465,273,Data warehousing,5
+19,990465,274,Pig,0
+19,990465,275,Data processing,5
+19,990465,276,True,0
+19,990465,277,True,0
+19,990465,278,True,0
+19,990465,279,False,5
+19,990465,280,False,5
+19,119002,221,A database management system,0
+19,119002,222,TypeScript,5
+19,119002,223,Angular 7,0
+19,119002,224,To create animations,0
+19,119002,225,A database table,0
+19,119002,226,A method for handling events,0
+19,119002,227,To style the application,0
+19,119002,228,For fetching data from a server,0
+19,119002,229,A built-in data storage system,0
+19,119002,230,To handle user input and perform two-way data binding,5
+19,119002,231,To loop through an array and render elements,5
+19,119002,232,A way to control the behavior of DOM elements,5
+19,119002,233,A method for optimizing images,0
+19,119002,234,Ahead-of-Time compilation: A way to compile the application before it is deployed,5
+19,119002,235,To create animations,0
+19,119002,236,True,0
+19,119002,237,True,0
+19,119002,238,True,0
+19,119002,239,True,0
+19,119002,240,True,0
+19,128979,281,Responding to cyberattacks after they occur,0
+19,128979,282,P@ssw0rd!,0
+19,128979,283,Performing a DDoS attack,0
+19,128979,284,Secures communication over the internet,5
+19,128979,285,Encrypts data in transit,0
+19,128979,286,Username and password,0
+19,128979,287,Blocking malicious websites,0
+19,128979,288,Installing malware on a computer,0
+19,128979,289,Exploiting vulnerabilities in social media platforms,0
+19,128979,290,Evaluating and assessing security measures and policies,5
+19,128979,291,Defining rules and guidelines for securing information and resources,5
+19,128979,292,Ransomware,5
+19,128979,293,Simulating a cyberattack to identify vulnerabilities,5
+19,128979,294,Preventing unauthorized access to a network,0
+19,128979,295,Scans for viruses on a computer's hard drive,0
+19,128979,296,False,5
+19,128979,297,True,0
+19,128979,298,True,0
+19,128979,299,False,5
+19,128979,300,True,0
+20,765432,101,A programming language,0
+20,765432,102,They support relational database management,5
+20,765432,103,A database management system,0
+20,765432,104,It is a database management system,0
+20,765432,105,To optimize database performance,0
+20,765432,106,It is a programming language,0
+20,765432,107,A web browser,0
+20,765432,108,It is a database management system,0
+20,765432,109,To enable real-time data integration,5
+20,765432,110,It is a database management system,0
+20,765432,111,An operating system,0
+20,765432,112,They are used for managing web services,0
+20,765432,113,An operating system,0
+20,765432,114,It is a programming language,0
+20,765432,115,A database management system,0
+20,765432,116,True,0
+20,765432,117,False,0
+20,765432,118,True,5
+20,765432,119,True,5
+20,765432,120,True,5
+20,764269,1,A specific instance of a class,5
+20,764269,2,Creating multiple instances of a class,0
+20,764269,3,The ability of a class to inherit properties and behavior from another class,5
+20,764269,4,The ability of a class to be instantiated,0
+20,764269,5,A method that is used to update class properties,0
+20,764269,6,A function in a program,0
+20,764269,7,A function that belongs to a class,5
+20,764269,8,A design technique to create parent-child relationships,0
+20,764269,9,A method that can be called without an instance of the class,5
+20,764269,10,Defining multiple methods with the same name but different parameters,5
+20,764269,11,Hiding the implementation of a method,0
+20,764269,12,A method that updates class properties,0
+20,764269,13,A function that can be called without an instance of the class,0
+20,764269,14,A function that is defined inside a class,0
+20,764269,15,A virtual function that is automatically called when an object is created,0
+20,764269,16,False,5
+20,764269,17,True,0
+20,764269,18,False,5
+20,764269,19,True,0
+20,764269,20,True,0
+20,119002,221,A text editor,0
+20,119002,222,Python,0
+20,119002,223,Angular 9,0
+20,119002,224,To write CSS code,0
+20,119002,225,A built-in function,0
+20,119002,226,A way to loop through an array,0
+20,119002,227,To define routes,0
+20,119002,228,For creating forms,0
+20,119002,229,A library for building UI components,5
+20,119002,230,To fetch data from a server,0
+20,119002,231,To define routes,0
+20,119002,232,A method for handling events,0
+20,119002,233,A method for optimizing images,0
+20,119002,234,A method for handling errors,0
+20,119002,235,To handle HTTP requests,0
+20,119002,236,False,5
+20,119002,237,True,0
+20,119002,238,False,5
+20,119002,239,False,5
+20,119002,240,False,5
+20,876543,61,Structured Query Language,0
+20,876543,62,INSERT,0
+20,876543,63,A column that uniquely identifies each row in a table,0
+20,876543,64,UPDATE,5
+20,876543,65,Combines rows from two or more tables based on a related column between them,5
+20,876543,66,SELECT,0
+20,876543,67,To filter the result set based on a specified condition,0
+20,876543,68,INSERT,0
+20,876543,69,To group rows based on a specified column,5
+20,876543,70,AVG(),5
+20,876543,71,To filter the result set based on a condition after the GROUP BY clause,5
+20,876543,72,AND,5
+20,876543,73,Returns only unique values from a specified column,5
+20,876543,74,SUM(),0
+20,876543,75,To limit the number of rows returned in a result set,0
+20,876543,76,True,0
+20,876543,77,False,5
+20,876543,78,False,5
+20,876543,79,False,5
+20,876543,80,False,5
+21,654321,141,The core component of the Linux operating system,5
+21,654321,142,rm,0
+21,654321,143,Fish,0
+21,654321,144,date,5
+21,654321,145,To change the ownership of a file,0
+21,654321,146,kill,0
+21,654321,147,To display the contents of a file,0
+21,654321,148,mv,0
+21,654321,149,To display network interface configuration,5
+21,654321,150,cp,5
+21,654321,151,To check the system uptime,0
+21,654321,152,mv,0
+21,654321,153,To display the contents of a file,0
+21,654321,154,find,5
+21,654321,155,To print text or variables,5
+21,654321,156,False,0
+21,654321,157,False,0
+21,654321,158,True,5
+21,654321,159,True,5
+21,654321,160,True,0
+21,987654,21,General-purpose Programming,5
+21,987654,22,const,0
+21,987654,23,Depends on the data type,5
+21,987654,24,decimal,5
+21,987654,25,11,5
+21,987654,26,super,0
+21,987654,27,To indicate that a method or variable belongs to the class itself,5
+21,987654,28,Compilation Error,0
+21,987654,29,TreeSet,0
+21,987654,30,Exits the loop or switch statement,5
+21,987654,31,throw,0
+21,987654,32,A compiler,0
+21,987654,33,public,0
+21,987654,34,To call a superclass method or constructor,5
+21,987654,35,try,0
+21,987654,36,False,5
+21,987654,37,False,5
+21,987654,38,True,0
+21,987654,39,True,0
+21,987654,40,True,0
+22,567890,161,None of the above,0
+22,567890,162,<li>,0
+22,567890,163,<lb>,0
+22,567890,164,class,0
+22,567890,165,<h>,0
+22,567890,166,<tr>,0
+22,567890,167,<ul>,0
+22,567890,168,<h1>,0
+22,567890,169,image,0
+22,567890,170,<p>,5
+22,567890,171,<image src='image.jpg'>,0
+22,567890,172,length,0
+22,567890,173,<table-header>,0
+22,567890,174,<input type='check'>,0
+22,567890,175,design,0
+22,567890,176,False,5
+22,567890,177,True,0
+22,567890,178,True,0
+22,567890,179,True,0
+22,567890,180,True,0
+22,109024,201,Computer Style Sheets,0
+22,109024,202,color,0
+22,109024,203,text-style,0
+22,109024,204,margin,5
+22,109024,205,text-weight,0
+22,109024,206,decoration,0
+22,109024,207,font-color,0
+22,109024,208,list-marker,0
+22,109024,209,line-height,5
+22,109024,210,length,0
+22,109024,211,width,0
+22,109024,212,background-fixed,0
+22,109024,213,push,0
+22,109024,214,top-index,0
+22,109024,215,color,0
+22,109024,216,False,5
+22,109024,217,False,5
+22,109024,218,False,5
+22,109024,219,True,0
+22,109024,220,False,5
+22,345678,81,A web browser,0
+22,345678,82,Java,0
+22,345678,83,All of the above,5
+22,345678,84,Structured Query Language,5
+22,345678,85,Table,0
+22,345678,86,To enforce data integrity,0
+22,345678,87,INSERT,5
+22,345678,88,READ COMMITTED,5
+22,345678,89,Unlimited,0
+22,345678,90,BOOLEAN,5
+22,345678,91,To create an index for faster searching,0
+22,345678,92,DROP,0
+22,345678,93,To delete records from a table,0
+22,345678,94,INDEX,5
+22,345678,95,To update the schema definition,0
+22,345678,96,True,5
+22,345678,97,True,5
+22,345678,98,True,5
+22,345678,99,False,0
+22,345678,100,True,0
+22,234567,41,6 6,0
+22,234567,42,register,0
+22,234567,43,4,5
+22,234567,44,Error,5
+22,234567,45,Create a new object,0
+22,234567,46,2 bytes,0
+22,234567,47,3,0
+22,234567,48,int* ptr;,5
+22,234567,49,+,0
+22,234567,50,2 2,0
+22,234567,51,<conio.h>,0
+22,234567,52,11,5
+22,234567,53,None of the above,0
+22,234567,54,None of the above,0
+22,234567,55,B,0
+22,234567,56,True,0
+22,234567,57,False,5
+22,234567,58,False,5
+22,234567,59,False,5
+22,234567,60,True,0
+23,990465,261,A web browser,0
+23,990465,262,Yahoo,5
+23,990465,263,To browse the internet,0
+23,990465,264,Ruby,0
+23,990465,265,Hadoop Distributed File System (HDFS),5
+23,990465,266,Data visualization,0
+23,990465,267,To perform analytics,0
+23,990465,268,Structured data,5
+23,990465,269,Faster processing speed,0
+23,990465,270,Hive,5
+23,990465,271,Data processing,5
+23,990465,272,Hive,0
+23,990465,273,Data encryption,0
+23,990465,274,Flume,5
+23,990465,275,Data storage,0
+23,990465,276,True,0
+23,990465,277,True,0
+23,990465,278,False,5
+23,990465,279,True,0
+23,990465,280,True,0
+23,789012,241,Unified Interface,0
+23,789012,242,Accessibility,0
+23,789012,243,To define the visual layout,0
+23,789012,244,The visual design of a website,0
+23,789012,245,Monochromatic,5
+23,789012,246,A type of wireframe,5
+23,789012,247,To identify and fix visual design issues,0
+23,789012,248,Accessibility,0
+23,789012,249,The perceived usefulness or function of a UI element,0
+23,789012,250,To showcase design concepts to clients,5
+23,789012,251,The visual appeal of a design,5
+23,789012,252,To guide users towards a desired action,0
+23,789012,253,Gathering data to understand user behavior and needs,0
+23,789012,254,Simplicity,0
+23,789012,255,To compare two different versions of a design to determine which performs better,0
+23,789012,256,True,5
+23,789012,257,False,5
+23,789012,258,True,5
+23,789012,259,False,5
+23,789012,260,False,0
+24,456789,121,A database management system,5
+24,456789,122,Data integrity constraints,0
+24,456789,123,To manage database security,0
+24,456789,124,To monitor database performance,0
+24,456789,125,It is a three-tier architecture,5
+24,456789,126,It enforces referential integrity,0
+24,456789,127,Views,0
+24,456789,128,To generate unique numbers,5
+24,456789,129,Oracle APEX,0
+24,456789,130,To manage database security,5
+24,456789,131,SGA and PGA both,5
+24,456789,132,To enforce referential integrity,0
+24,456789,133,Constraints,0
+24,456789,134,To generate database backups,0
+24,456789,135,Redo logs,0
+24,456789,136,False,5
+24,456789,137,False,0
+24,456789,138,False,0
+24,456789,139,True,0
+24,456789,140,False,5
+24,128979,281,Minimizing the impact of cyberattacks,5
+24,128979,282,password123,0
+24,128979,283,Performing a DDoS attack,0
+24,128979,284,Prevents phishing attacks,0
+24,128979,285,Monitors network traffic and filters out unauthorized access,5
+24,128979,286,Fingerprint and facial recognition,0
+24,128979,287,Encrypting physical files,0
+24,128979,288,Installing malware on a computer,0
+24,128979,289,Manipulating people into revealing confidential information,5
+24,128979,290,Testing the strength of physical locks,0
+24,128979,291,Creating backup copies of sensitive data,0
+24,128979,292,Worm,0
+24,128979,293,Simulating a cyberattack to identify vulnerabilities,5
+24,128979,294,Outlining steps to take in the event of a security breach,5
+24,128979,295,Monitors and filters incoming and outgoing network traffic,5
+24,128979,296,False,5
+24,128979,297,False,5
+24,128979,298,False,5
+24,128979,299,False,5
+24,128979,300,False,5
+24,987652,181,Ctrl + Y,0
+24,987652,182,Brush Tool,0
+24,987652,183,Random Graphics Buffer,0
+24,987652,184,GIF,5
+24,987652,185,Image > Adjustments > Canvas Size,5
+24,987652,186,A filter applied to a layer,0
+24,987652,187,Pen Tool,0
+24,987652,188,To create custom brushes,0
+24,987652,189,Magic Wand Tool,5
+24,987652,190,To add text to an image,0
+24,987652,191,Edit > Transform > Scale,0
+24,987652,192,The transparency of a layer or tool,5
+24,987652,193,Shape Tool,5
+24,987652,194,Layer > New Adjustment Layer > Levels,0
+24,987652,195,To select and sample colors from an image,5
+24,987652,196,True,0
+24,987652,197,False,5
+24,987652,198,False,5
+24,987652,199,True,0
+24,987652,200,True,0
+24,987654,21,Web Development,0
+24,987654,22,final,5
+24,987654,23,Depends on the data type,5
+24,987654,24,float,0
+24,987654,25,11,5
+24,987654,26,implements,0
+24,987654,27,To create an instance of a class,0
+24,987654,28,Runtime Error,0
+24,987654,29,HashMap,0
+24,987654,30,Exits the loop or switch statement,5
+24,987654,31,throw,0
+24,987654,32,An interpreter,0
+24,987654,33,public,0
+24,987654,34,To create an instance of a class,0
+24,987654,35,catch,0
+24,987654,36,True,0
+24,987654,37,True,0
+24,987654,38,False,5
+24,987654,39,False,5
+24,987654,40,False,5
+25,654321,141,The core component of the Linux operating system,5
+25,654321,142,cd,0
+25,654321,143,Fish,0
+25,654321,144,clock,0
+25,654321,145,To change the ownership of a file,0
+25,654321,146,top,0
+25,654321,147,To display the contents of a file,0
+25,654321,148,mv,0
+25,654321,149,To manage user accounts,0
+25,654321,150,cd,0
+25,654321,151,To display the current user,0
+25,654321,152,ls,0
+25,654321,153,To compress files into an archive,5
+25,654321,154,locate,0
+25,654321,155,To display the current date and time,0
+25,654321,156,False,0
+25,654321,157,False,0
+25,654321,158,True,5
+25,654321,159,True,5
+25,654321,160,False,5
+25,109024,201,Computer Style Sheets,0
+25,109024,202,bgcolor,0
+25,109024,203,text-size,0
+25,109024,204,spacing,0
+25,109024,205,bold,0
+25,109024,206,text-decoration,5
+25,109024,207,text-color,0
+25,109024,208,marker-type,0
+25,109024,209,text-height,0
+25,109024,210,height,0
+25,109024,211,height,5
+25,109024,212,background,0
+25,109024,213,align,0
+25,109024,214,top-index,0
+25,109024,215,bg-color,0
+25,109024,216,False,5
+25,109024,217,True,0
+25,109024,218,True,0
+25,109024,219,True,0
+25,109024,220,True,0
+26,764269,1,A function in a class,0
+26,764269,2,Inheriting properties from a parent class,0
+26,764269,3,The ability of a class to have multiple parent classes,0
+26,764269,4,The ability of a class to have multiple forms or behaviors,5
+26,764269,5,A method that is used to update class properties,0
+26,764269,6,A variable in a program,0
+26,764269,7,A function that is independent of any class,0
+26,764269,8,A design technique to model is-a relationships,0
+26,764269,9,A method that can be called without an instance of the class,5
+26,764269,10,Defining a method inside another method,0
+26,764269,11,Providing a new implementation for a method inherited from a parent class,5
+26,764269,12,A method that updates class properties,0
+26,764269,13,A function that can access private members of a class,5
+26,764269,14,A function that is inherited from a parent class,0
+26,764269,15,A virtual function that is not implemented in the base class,5
+26,764269,16,True,0
+26,764269,17,True,0
+26,764269,18,True,0
+26,764269,19,True,0
+26,764269,20,False,5
+26,128979,281,Minimizing the impact of cyberattacks,5
+26,128979,282,SecurePassword123!,5
+26,128979,283,Tricking people into revealing sensitive information,0
+26,128979,284,Protects against viruses,0
+26,128979,285,Prevents software from being installed,0
+26,128979,286,Fingerprint and facial recognition,0
+26,128979,287,Blocking malicious websites,0
+26,128979,288,Stealing sensitive information,0
+26,128979,289,Exploiting vulnerabilities in social media platforms,0
+26,128979,290,Inspecting firewalls for vulnerabilities,0
+26,128979,291,Regulating access to social media platforms,0
+26,128979,292,Spyware,0
+26,128979,293,Encrypting data for secure transmission,0
+26,128979,294,Preventing unauthorized access to a network,0
+26,128979,295,Encrypts data for secure transmission,0
+26,128979,296,False,5
+26,128979,297,True,0
+26,128979,298,True,0
+26,128979,299,False,5
+26,128979,300,False,5
+27,345678,81,A programming language,5
+27,345678,82,C++,0
+27,345678,83,Concurrency control,0
+27,345678,84,Structured Query Language,5
+27,345678,85,Procedure,5
+27,345678,86,To improve query performance,5
+27,345678,87,DELETE,0
+27,345678,88,SERIALIZABLE,0
+27,345678,89,1000,0
+27,345678,90,DATE,0
+27,345678,91,To uniquely identify a row in a table,0
+27,345678,92,CREATE,5
+27,345678,93,To delete records from a table,0
+27,345678,94,FOREIGN KEY,0
+27,345678,95,To delete records from a table,0
+27,345678,96,True,5
+27,345678,97,False,0
+27,345678,98,False,0
+27,345678,99,True,5
+27,345678,100,False,5
+27,567890,161,Hyperlinks and Text Markup Language,0
+27,567890,162,<ul>,5
+27,567890,163,<lb>,0
+27,567890,164,name,0
+27,567890,165,<a>,5
+27,567890,166,<tr>,0
+27,567890,167,<li>,0
+27,567890,168,<h1>,0
+27,567890,169,src,0
+27,567890,170,<para>,0
+27,567890,171,<img alt='image.jpg'>,0
+27,567890,172,width,5
+27,567890,173,<th>,5
+27,567890,174,<check>,0
+27,567890,175,inline,0
+27,567890,176,True,0
+27,567890,177,False,5
+27,567890,178,True,0
+27,567890,179,False,5
+27,567890,180,True,0
+27,876543,61,Structured Query Language,0
+27,876543,62,UPDATE,0
+27,876543,63,A column that stores the data types of the other columns,5
+27,876543,64,INSERT,0
+27,876543,65,Inserts new data into a table,0
+27,876543,66,INSERT,0
+27,876543,67,To limit the number of rows returned in a result set,0
+27,876543,68,SELECT,0
+27,876543,69,To filter the result set based on a specified condition,0
+27,876543,70,AVG(),5
+27,876543,71,To limit the number of rows returned in a result set,0
+27,876543,72,OR,0
+27,876543,73,Deletes all data from a table,0
+27,876543,74,AVG(),0
+27,876543,75,To filter the result set based on a specified condition,5
+27,876543,76,True,0
+27,876543,77,False,5
+27,876543,78,True,0
+27,876543,79,False,5
+27,876543,80,True,0
+28,789012,241,User Interaction,0
+28,789012,242,Consistency,0
+28,789012,243,To showcase final design to clients,0
+28,789012,244,The visual design of a website,0
+28,789012,245,Complementary,0
+28,789012,246,A type of wireframe,5
+28,789012,247,To conduct competitor analysis,0
+28,789012,248,User Flow,0
+28,789012,249,The arrangement of elements on a page,0
+28,789012,250,To showcase design concepts to clients,5
+28,789012,251,The ease of use for people with disabilities,0
+28,789012,252,To guide users towards a desired action,0
+28,789012,253,Creating wireframes and prototypes,5
+28,789012,254,Feedback,0
+28,789012,255,To compare two different versions of a design to determine which performs better,0
+28,789012,256,False,0
+28,789012,257,False,5
+28,789012,258,False,0
+28,789012,259,False,5
+28,789012,260,True,5
+28,119002,221,A database management system,0
+28,119002,222,Java,0
+28,119002,223,Angular 8,0
+28,119002,224,To generate a new Angular project,5
+28,119002,225,A type of service,0
+28,119002,226,A way to loop through an array,0
+28,119002,227,To define routes,0
+28,119002,228,For handling navigation and routing,5
+28,119002,229,A library for building UI components,5
+28,119002,230,To create animations,0
+28,119002,231,To loop through an array and render elements,5
+28,119002,232,A method for handling events,0
+28,119002,233,A way to delay the loading of certain parts of the application,5
+28,119002,234,Ahead-of-Time compilation: A way to compile the application before it is deployed,5
+28,119002,235,To initialize data or logic in a component,5
+28,119002,236,False,5
+28,119002,237,False,5
+28,119002,238,True,0
+28,119002,239,False,5
+28,119002,240,True,0
+29,234567,41,6 6,0
+29,234567,42,constant,5
+29,234567,43,2,0
+29,234567,44,Error,5
+29,234567,45,Deallocate memory,0
+29,234567,46,2 bytes,0
+29,234567,47,True,0
+29,234567,48,Both A and C,0
+29,234567,49,/,0
+29,234567,50,2.5 2.5,0
+29,234567,51,<stdio.h>,0
+29,234567,52,None of the above,0
+29,234567,53,To clear the input buffer,5
+29,234567,54,do-while loop,0
+29,234567,55,B,0
+29,234567,56,False,5
+29,234567,57,True,0
+29,234567,58,True,0
+29,234567,59,True,0
+29,234567,60,False,5
+29,456789,121,A web framework,0
+29,456789,122,Data encryption,0
+29,456789,123,To write stored procedures and functions,5
+29,456789,124,To monitor database performance,0
+29,456789,125,It is a two-tier architecture,0
+29,456789,126,It allows for efficient data retrieval,0
+29,456789,127,Triggers,0
+29,456789,128,To implement data valquestion_idation rules,0
+29,456789,129,Oracle Reports,0
+29,456789,130,To design user interfaces,0
+29,456789,131,None of the above,0
+29,456789,132,To perform automatic data backups,0
+29,456789,133,Triggers,0
+29,456789,134,To optimize database performance,5
+29,456789,135,Control files,0
+29,456789,136,False,5
+29,456789,137,False,0
+29,456789,138,True,5
+29,456789,139,True,0
+29,456789,140,False,5
+29,990465,261,A web browser,0
+29,990465,262,Google,0
+29,990465,263,To play video games,0
+29,990465,264,Python,0
+29,990465,265,Hadoop Distributed File System (HDFS),5
+29,990465,266,Data processing,5
+29,990465,267,To store and retrieve data,0
+29,990465,268,Executable programs,0
+29,990465,269,Lower cost,5
+29,990465,270,Pig,0
+29,990465,271,Data encryption,0
+29,990465,272,Pig,0
+29,990465,273,Data encryption,0
+29,990465,274,Flume,5
+29,990465,275,Data visualization,0
+29,990465,276,True,0
+29,990465,277,True,0
+29,990465,278,True,0
+29,990465,279,False,5
+29,990465,280,False,5
+30,765432,101,A web browser,0
+30,765432,102,They support relational database management,5
+30,765432,103,A database management system,0
+30,765432,104,It is a database management system,0
+30,765432,105,To optimize database performance,0
+30,765432,106,It is a cloud computing platform,5
+30,765432,107,An integrated development environment,5
+30,765432,108,It is a database management system,0
+30,765432,109,To secure and back up data,0
+30,765432,110,It is an operating system,0
+30,765432,111,An engineered system for running Oracle Database,5
+30,765432,112,They are an operating system,0
+30,765432,113,A clustering database technology,5
+30,765432,114,It is a programming language,0
+30,765432,115,A feature that reduces storage costs and improves performance,5
+30,765432,116,False,5
+30,765432,117,True,5
+30,765432,118,False,0
+30,765432,119,False,0
+30,765432,120,True,5
+30,987652,181,Ctrl + X,0
+30,987652,182,Clone Stamp Tool,0
+30,987652,183,Random Graphics Buffer,0
+30,987652,184,TIFF,0
+30,987652,185,Layer > New > Layer,0
+30,987652,186,A tool for cropping images,0
+30,987652,187,Blur Tool,0
+30,987652,188,To create custom brushes,0
+30,987652,189,Magic Wand Tool,5
+30,987652,190,To remove unwanted elements from an image,5
+30,987652,191,File > New > Layer,0
+30,987652,192,The transparency of a layer or tool,5
+30,987652,193,Gradient Tool,0
+30,987652,194,Layer > New Adjustment Layer > Levels,0
+30,987652,195,To create custom gradients,0
+30,987652,196,False,5
+30,987652,197,False,5
+30,987652,198,True,0
+30,987652,199,True,0
+30,987652,200,False,5
+31,654321,141,The graphical user interface of Linux,0
+31,654321,142,ls,0
+31,654321,143,Fish,0
+31,654321,144,datetime,0
+31,654321,145,To search for files and directories,0
+31,654321,146,ls,0
+31,654321,147,To filter text based on patterns,5
+31,654321,148,cd,0
+31,654321,149,To manage user accounts,0
+31,654321,150,mv,0
+31,654321,151,To check the system uptime,0
+31,654321,152,pwd,0
+31,654321,153,To search for files and directories,0
+31,654321,154,grep,0
+31,654321,155,To display the current date and time,0
+31,654321,156,False,0
+31,654321,157,True,5
+31,654321,158,False,0
+31,654321,159,True,5
+31,654321,160,False,5
+31,987654,21,Web Development,0
+31,987654,22,static,0
+31,987654,23,Depends on the data type,5
+31,987654,24,decimal,5
+31,987654,25,10,0
+31,987654,26,extends,5
+31,987654,27,To declare a constant,0
+31,987654,28,Compilation Error,0
+31,987654,29,HashSet,0
+31,987654,30,Skips the current iteration of a loop,0
+31,987654,31,try,5
+31,987654,32,An interpreter,0
+31,987654,33,protected,0
+31,987654,34,To indicate that a variable is final,0
+31,987654,35,throw,5
+31,987654,36,True,0
+31,987654,37,False,5
+31,987654,38,True,0
+31,987654,39,False,5
+31,987654,40,True,0
+31,764269,1,A specific instance of a class,5
+31,764269,2,Hiding implementation details from the user,0
+31,764269,3,The ability of a class to override methods from its parent class,0
+31,764269,4,The ability of a class to have private members,0
+31,764269,5,A method that is inherited from a parent class,0
+31,764269,6,A variable in a program,0
+31,764269,7,A variable that is independent of any class,0
+31,764269,8,A design technique to model is-a relationships,0
+31,764269,9,A method that cannot access class-level variables,0
+31,764269,10,Defining multiple methods with the same name and same parameters,0
+31,764269,11,Defining multiple methods with the same name but different parameters,0
+31,764269,12,A method that updates class properties,0
+31,764269,13,A function that is inherited from a parent class,0
+31,764269,14,A function that is defined inside a class,0
+31,764269,15,A virtual function that is inherited from a parent class,0
+31,764269,16,True,0
+31,764269,17,False,5
+31,764269,18,True,0
+31,764269,19,False,5
+31,764269,20,False,5
+32,109024,201,Colorful Style Sheets,0
+32,109024,202,background,0
+32,109024,203,font-size,5
+32,109024,204,margin,5
+32,109024,205,font-style,0
+32,109024,206,underline,0
+32,109024,207,font-color,0
+32,109024,208,list-marker,0
+32,109024,209,text-spacing,0
+32,109024,210,height,0
+32,109024,211,height,5
+32,109024,212,background-attachment,0
+32,109024,213,push,0
+32,109024,214,layer,0
+32,109024,215,bg-color,0
+32,109024,216,True,0
+32,109024,217,False,5
+32,109024,218,False,5
+32,109024,219,False,5
+32,109024,220,True,0
+32,128979,281,Responding to cyberattacks after they occur,0
+32,128979,282,123456,0
+32,128979,283,Sending unsolicited emails,0
+32,128979,284,Prevents phishing attacks,0
+32,128979,285,Encrypts data in transit,0
+32,128979,286,Fingerprint and facial recognition,0
+32,128979,287,Encrypting physical files,0
+32,128979,288,Installing malware on a computer,0
+32,128979,289,Using advanced algorithms to predict social behavior,0
+32,128979,290,Evaluating and assessing security measures and policies,5
+32,128979,291,Ensuring physical safety within the workplace,0
+32,128979,292,Spyware,0
+32,128979,293,Assessing physical security measures,0
+32,128979,294,Outlining steps to take in the event of a security breach,5
+32,128979,295,Scans for viruses on a computer's hard drive,0
+32,128979,296,False,5
+32,128979,297,False,5
+32,128979,298,True,0
+32,128979,299,True,0
+32,128979,300,False,5
+33,567890,161,Home Tool Markup Language,0
+33,567890,162,<dl>,0
+33,567890,163,,5
+33,567890,164,identifier,0
+33,567890,165,<link>,0
+33,567890,166,<tbl>,0
+33,567890,167,<list>,0
+33,567890,168,<head>,0
+33,567890,169,image,0
+33,567890,170,<pg>,0
+33,567890,171,<image alt='image.jpg'>,0
+33,567890,172,width,5
+33,567890,173,<th>,5
+33,567890,174,<input type='check'>,0
+33,567890,175,css,0
+33,567890,176,True,0
+33,567890,177,False,5
+33,567890,178,True,0
+33,567890,179,False,5
+33,567890,180,True,0
+33,234567,41,6 6,0
+33,234567,42,static,0
+33,234567,43,4,5
+33,234567,44,Infinity,0
+33,234567,45,Deallocate memory,0
+33,234567,46,4 bytes,0
+33,234567,47,True,0
+33,234567,48,int ptr[];,0
+33,234567,49,*,0
+33,234567,50,2.5 2,0
+33,234567,51,<iostream>,5
+33,234567,52,None of the above,0
+33,234567,53,To ignore errors in cin,0
+33,234567,54,while loop,0
+33,234567,55,66,0
+33,234567,56,True,0
+33,234567,57,False,5
+33,234567,58,False,5
+33,234567,59,True,0
+33,234567,60,True,0
+33,876543,61,Simple Query Language,0
+33,876543,62,SELECT,0
+33,876543,63,A column that stores the data types of the other columns,5
+33,876543,64,UPDATE,5
+33,876543,65,Deletes all data from a table,0
+33,876543,66,INSERT,0
+33,876543,67,To filter the result set based on a specified condition,0
+33,876543,68,UPDATE,5
+33,876543,69,To limit the number of rows returned in a result set,0
+33,876543,70,SUM(),0
+33,876543,71,To filter the result set based on a condition before the GROUP BY clause,0
+33,876543,72,AND,5
+33,876543,73,Returns only unique values from a specified column,5
+33,876543,74,COUNT(),5
+33,876543,75,To filter the result set based on a specified condition,5
+33,876543,76,False,5
+33,876543,77,False,5
+33,876543,78,False,5
+33,876543,79,False,5
+33,876543,80,True,0
+34,345678,81,A web browser,0
+34,345678,82,SQL,5
+34,345678,83,Data encryption,0
+34,345678,84,Standard Query Language,0
+34,345678,85,View,0
+34,345678,86,To improve query performance,5
+34,345678,87,SELECT,0
+34,345678,88,REPEATABLE READ,0
+34,345678,89,Unlimited,0
+34,345678,90,VARCHAR2,0
+34,345678,91,To define a relationship between two tables,5
+34,345678,92,CREATE,5
+34,345678,93,To update the schema definition,0
+34,345678,94,PRIMARY KEY,0
+34,345678,95,To roll back a transaction,5
+34,345678,96,True,5
+34,345678,97,True,5
+34,345678,98,True,5
+34,345678,99,False,0
+34,345678,100,False,5
+34,789012,241,User Interaction,0
+34,789012,242,Accessibility,0
+34,789012,243,To plan the structure and layout,5
+34,789012,244,The organization and structure of content,0
+34,789012,245,Analogous,0
+34,789012,246,A type of user interface element,0
+34,789012,247,To conduct competitor analysis,0
+34,789012,248,User Flow,0
+34,789012,249,The visual appearance of a user interface element,0
+34,789012,250,To showcase design concepts to clients,5
+34,789012,251,The speed at which a website loads,0
+34,789012,252,To display advertisements,5
+34,789012,253,Conducting usability testing,0
+34,789012,254,Simplicity,0
+34,789012,255,To create wireframes,0
+34,789012,256,False,0
+34,789012,257,False,5
+34,789012,258,False,0
+34,789012,259,True,0
+34,789012,260,False,0
+34,119002,221,A programming language,0
+34,119002,222,Java,0
+34,119002,223,Angular 8,0
+34,119002,224,To create animations,0
+34,119002,225,A built-in function,0
+34,119002,226,A way to bind data in both HTML and TypeScript,5
+34,119002,227,To manage shared data or logic,5
+34,119002,228,For fetching data from a server,0
+34,119002,229,A form of testing in Angular,0
+34,119002,230,To define routes,0
+34,119002,231,To define routes,0
+34,119002,232,A way to create custom HTML elements,0
+34,119002,233,A method for optimizing images,0
+34,119002,234,A method for handling errors,0
+34,119002,235,To handle HTTP requests,0
+34,119002,236,True,0
+34,119002,237,True,0
+34,119002,238,False,5
+34,119002,239,True,0
+34,119002,240,False,5
+35,990465,261,A type of database,0
+35,990465,262,Google,0
+35,990465,263,To send emails,0
+35,990465,264,Ruby,0
+35,990465,265,MapReduce,0
+35,990465,266,Data encryption,0
+35,990465,267,To manage resources and schedule jobs,5
+35,990465,268,Audio files,0
+35,990465,269,Lower cost,5
+35,990465,270,Flume,0
+35,990465,271,Data encryption,0
+35,990465,272,Flume,0
+35,990465,273,Data encryption,0
+35,990465,274,Flume,5
+35,990465,275,Data storage,0
+35,990465,276,True,0
+35,990465,277,False,5
+35,990465,278,True,0
+35,990465,279,False,5
+35,990465,280,False,5
+35,456789,121,An operating system,0
+35,456789,122,Data encryption,0
+35,456789,123,To optimize query performance,0
+35,456789,124,To monitor database performance,0
+35,456789,125,It is a three-tier architecture,5
+35,456789,126,It enforces referential integrity,0
+35,456789,127,Constraints,0
+35,456789,128,To store temporary data,0
+35,456789,129,Oracle APEX,0
+35,456789,130,To manage database security,5
+35,456789,131,SGA (System Global Area),0
+35,456789,132,To perform automatic data backups,0
+35,456789,133,Constraints,0
+35,456789,134,To enforce data integrity,0
+35,456789,135,Tablespaces,0
+35,456789,136,False,5
+35,456789,137,False,0
+35,456789,138,True,5
+35,456789,139,False,5
+35,456789,140,False,5
+36,345678,81,A web browser,0
+36,345678,82,SQL,5
+36,345678,83,All of the above,5
+36,345678,84,Standard Query Language,0
+36,345678,85,Procedure,5
+36,345678,86,To create data backups,0
+36,345678,87,DELETE,0
+36,345678,88,READ COMMITTED,5
+36,345678,89,Unlimited,0
+36,345678,90,DATE,0
+36,345678,91,To uniquely identify a row in a table,0
+36,345678,92,TRUNCATE,0
+36,345678,93,To delete records from a table,0
+36,345678,94,CHECK,0
+36,345678,95,To save changes made to the database,0
+36,345678,96,True,5
+36,345678,97,False,0
+36,345678,98,False,0
+36,345678,99,True,5
+36,345678,100,True,0
+36,456789,121,A database management system,5
+36,456789,122,Data integrity constraints,0
+36,456789,123,To manage database security,0
+36,456789,124,To synchronize data across multiple databases,5
+36,456789,125,It is a three-tier architecture,5
+36,456789,126,It allows for efficient data retrieval,0
+36,456789,127,Indexes,5
+36,456789,128,To store temporary data,0
+36,456789,129,SQL*Plus,5
+36,456789,130,To design user interfaces,0
+36,456789,131,PGA (Program Global Area),0
+36,456789,132,To perform automatic data backups,0
+36,456789,133,Constraints,0
+36,456789,134,To optimize database performance,5
+36,456789,135,Datafiles,5
+36,456789,136,False,5
+36,456789,137,True,5
+36,456789,138,True,5
+36,456789,139,True,0
+36,456789,140,True,0
+36,876543,61,Simple Query Language,0
+36,876543,62,DELETE,5
+36,876543,63,A column that is used to sort the data in a table,0
+36,876543,64,UPDATE,5
+36,876543,65,Updates existing data in a table,0
+36,876543,66,SELECT,0
+36,876543,67,To sort the result set in ascending or descending order,5
+36,876543,68,INSERT,0
+36,876543,69,To join multiple tables together,0
+36,876543,70,AVG(),5
+36,876543,71,To filter the result set based on a condition after the GROUP BY clause,5
+36,876543,72,OR,0
+36,876543,73,Updates existing data in a table,0
+36,876543,74,MAX(),0
+36,876543,75,To limit the number of rows returned in a result set,0
+36,876543,76,True,0
+36,876543,77,False,5
+36,876543,78,True,0
+36,876543,79,False,5
+36,876543,80,True,0
+37,234567,41,5 6,0
+37,234567,42,static,0
+37,234567,43,2,0
+37,234567,44,Zero,0
+37,234567,45,None of the above,0
+37,234567,46,Depends on the system,0
+37,234567,47,True,0
+37,234567,48,int* ptr;,5
+37,234567,49,*,0
+37,234567,50,2.5 2,0
+37,234567,51,<stdio.h>,0
+37,234567,52,None of the above,0
+37,234567,53,To ignore errors in cin,0
+37,234567,54,None of the above,0
+37,234567,55,65,5
+37,234567,56,False,5
+37,234567,57,False,5
+37,234567,58,True,0
+37,234567,59,True,0
+37,234567,60,True,0
+37,765432,101,A programming language,0
+37,765432,102,They support relational database management,5
+37,765432,103,A programming language,5
+37,765432,104,It is a database management system,0
+37,765432,105,To manage web services,0
+37,765432,106,It is an operating system,0
+37,765432,107,A programming language,0
+37,765432,108,It is a database management system,0
+37,765432,109,To manage web services,0
+37,765432,110,It is a database management system,0
+37,765432,111,A database management system,0
+37,765432,112,They are used for managing web services,0
+37,765432,113,A programming language,0
+37,765432,114,It is a comprehensive management solution,5
+37,765432,115,A feature that reduces storage costs and improves performance,5
+37,765432,116,False,5
+37,765432,117,False,0
+37,765432,118,False,0
+37,765432,119,True,5
+37,765432,120,False,0
+37,567890,161,Home Tool Markup Language,0
+37,567890,162,<li>,0
+37,567890,163,,5
+37,567890,164,identifier,0
+37,567890,165,<h>,0
+37,567890,166,<tr>,0
+37,567890,167,<li>,0
+37,567890,168,<h1>,0
+37,567890,169,alt,5
+37,567890,170,<para>,0
+37,567890,171,<image src='image.jpg'>,0
+37,567890,172,width,5
+37,567890,173,<table-header>,0
+37,567890,174,<check>,0
+37,567890,175,css,0
+37,567890,176,True,0
+37,567890,177,False,5
+37,567890,178,False,5
+37,567890,179,True,0
+37,567890,180,True,0
+38,128979,281,Responding to cyberattacks after they occur,0
+38,128979,282,SecurePassword123!,5
+38,128979,283,Performing a DDoS attack,0
+38,128979,284,Blocks unauthorized access to a network,0
+38,128979,285,Encrypts data in transit,0
+38,128979,286,Fingerprint and facial recognition,0
+38,128979,287,Blocking malicious websites,0
+38,128979,288,Gaining unauthorized access to a network,0
+38,128979,289,Hacking into social networks,0
+38,128979,290,Evaluating and assessing security measures and policies,5
+38,128979,291,Defining rules and guidelines for securing information and resources,5
+38,128979,292,Worm,0
+38,128979,293,Encrypting data for secure transmission,0
+38,128979,294,Outlining steps to take in the event of a security breach,5
+38,128979,295,Monitors and filters incoming and outgoing network traffic,5
+38,128979,296,False,5
+38,128979,297,False,5
+38,128979,298,True,0
+38,128979,299,False,5
+38,128979,300,False,5
+38,987652,181,Ctrl + X,0
+38,987652,182,Move Tool,5
+38,987652,183,Random Graphics Buffer,0
+38,987652,184,BMP,0
+38,987652,185,File > Save As,0
+38,987652,186,A filter applied to a layer,0
+38,987652,187,Dodge Tool,0
+38,987652,188,To adjust the brightness and contrast of an image,5
+38,987652,189,Lasso Tool,0
+38,987652,190,To remove unwanted elements from an image,5
+38,987652,191,Image > Adjustments > Brightness/Contrast,0
+38,987652,192,The sharpness of an image,0
+38,987652,193,Gradient Tool,0
+38,987652,194,Filter > Blur > Gaussian Blur,5
+38,987652,195,To apply special effects to an image,0
+38,987652,196,False,5
+38,987652,197,False,5
+38,987652,198,False,5
+38,987652,199,False,5
+38,987652,200,True,0
+39,654321,141,A command-line tool in Linux,0
+39,654321,142,rm,0
+39,654321,143,Fish,0
+39,654321,144,datetime,0
+39,654321,145,To search for files and directories,0
+39,654321,146,ls,0
+39,654321,147,To compress files into an archive,0
+39,654321,148,rmdir,0
+39,654321,149,To list directory contents,0
+39,654321,150,mv,0
+39,654321,151,To check the system uptime,0
+39,654321,152,cd,5
+39,654321,153,To display the contents of a file,0
+39,654321,154,find,5
+39,654321,155,To remove files and directories,0
+39,654321,156,False,0
+39,654321,157,True,5
+39,654321,158,False,0
+39,654321,159,True,5
+39,654321,160,False,5
+39,789012,241,User Interaction,0
+39,789012,242,Accessibility,0
+39,789012,243,To define the visual layout,0
+39,789012,244,The visual design of a website,0
+39,789012,245,Analogous,0
+39,789012,246,A type of wireframe,5
+39,789012,247,To conduct competitor analysis,0
+39,789012,248,User Flow,0
+39,789012,249,The ability to easily navigate a website,5
+39,789012,250,To conduct user interviews,0
+39,789012,251,The ability to adapt to different screen sizes,0
+39,789012,252,To display advertisements,5
+39,789012,253,Conducting usability testing,0
+39,789012,254,Consistency,5
+39,789012,255,To create wireframes,0
+39,789012,256,True,5
+39,789012,257,False,5
+39,789012,258,False,0
+39,789012,259,False,5
+39,789012,260,True,5
+40,764269,1,A variable in a class,0
+40,764269,2,Creating multiple instances of a class,0
+40,764269,3,The ability of a class to override methods from its parent class,0
+40,764269,4,The ability of a class to have multiple forms or behaviors,5
+40,764269,5,A method that creates an instance of a class,5
+40,764269,6,A specific instance of an object,0
+40,764269,7,A function that is independent of any class,0
+40,764269,8,A design technique to create parent-child relationships,0
+40,764269,9,A method that cannot access class-level variables,0
+40,764269,10,Defining multiple methods with the same name and same parameters,0
+40,764269,11,Hiding the implementation of a method,0
+40,764269,12,A method that creates an instance of a class,0
+40,764269,13,A function that is defined inside a class,0
+40,764269,14,A function that is defined inside a class,0
+40,764269,15,A virtual function that is inherited from a parent class,0
+40,764269,16,True,0
+40,764269,17,True,0
+40,764269,18,False,5
+40,764269,19,False,5
+40,764269,20,False,5
+40,990465,261,A web browser,0
+40,990465,262,Yahoo,5
+40,990465,263,To send emails,0
+40,990465,264,Python,0
+40,990465,265,Hive,0
+40,990465,266,Data processing,5
+40,990465,267,To perform analytics,0
+40,990465,268,Audio files,0
+40,990465,269,Inability to handle large volumes of data,0
+40,990465,270,Flume,0
+40,990465,271,Data processing,5
+40,990465,272,Hive,0
+40,990465,273,Data warehousing,5
+40,990465,274,Hive,0
+40,990465,275,Data processing,5
+40,990465,276,False,5
+40,990465,277,False,5
+40,990465,278,True,0
+40,990465,279,True,0
+40,990465,280,True,0
+40,987654,21,Game Development,0
+40,987654,22,private,0
+40,987654,23,True,0
+40,987654,24,boolean,0
+40,987654,25,10,0
+40,987654,26,extends,5
+40,987654,27,To indicate that a method or variable belongs to the class itself,5
+40,987654,28,False,0
+40,987654,29,HashSet,0
+40,987654,30,Throws an exception,0
+40,987654,31,throw,0
+40,987654,32,A compiler,0
+40,987654,33,public,0
+40,987654,34,To access static members of a class,0
+40,987654,35,finally,0
+40,987654,36,True,0
+40,987654,37,False,5
+40,987654,38,False,5
+40,987654,39,True,0
+40,987654,40,True,0
+41,119002,221,A database management system,0
+41,119002,222,Java,0
+41,119002,223,Angular 7,0
+41,119002,224,To create animations,0
+41,119002,225,A built-in function,0
+41,119002,226,A method for handling events,0
+41,119002,227,To manage shared data or logic,5
+41,119002,228,For fetching data from a server,0
+41,119002,229,A form of testing in Angular,0
+41,119002,230,To create animations,0
+41,119002,231,To handle events,0
+41,119002,232,A way to create custom HTML elements,0
+41,119002,233,A way to delay the loading of certain parts of the application,5
+41,119002,234,A way to optimize database queries,0
+41,119002,235,To create animations,0
+41,119002,236,False,5
+41,119002,237,False,5
+41,119002,238,True,0
+41,119002,239,True,0
+41,119002,240,True,0
+41,109024,201,Creative Style Sheets,0
+41,109024,202,color,0
+41,109024,203,font-size,5
+41,109024,204,margin,5
+41,109024,205,font-weight,5
+41,109024,206,text-decoration,5
+41,109024,207,font-color,0
+41,109024,208,marker-type,0
+41,109024,209,line-height,5
+41,109024,210,size,0
+41,109024,211,width,0
+41,109024,212,background-fixed,0
+41,109024,213,side,0
+41,109024,214,stack-order,0
+41,109024,215,bg-color,0
+41,109024,216,True,0
+41,109024,217,False,5
+41,109024,218,False,5
+41,109024,219,False,5
+41,109024,220,False,5
+42,765432,101,A web browser,0
+42,765432,102,They are only used for storing text data,0
+42,765432,103,A database management system,0
+42,765432,104,It is a database management system,0
+42,765432,105,To optimize database performance,0
+42,765432,106,It is a database management system,0
+42,765432,107,A programming language,0
+42,765432,108,It is an infrastructure software,5
+42,765432,109,To secure and back up data,0
+42,765432,110,It is a hardware and software bundle,5
+42,765432,111,An operating system,0
+42,765432,112,They are an operating system,0
+42,765432,113,A clustering database technology,5
+42,765432,114,It is an operating system,0
+42,765432,115,An operating system,0
+42,765432,116,False,5
+42,765432,117,False,0
+42,765432,118,True,5
+42,765432,119,True,5
+42,765432,120,False,0
+42,789012,241,Unified Interface,0
+42,789012,242,Consistency,0
+42,789012,243,To plan the structure and layout,5
+42,789012,244,The study of user behavior,0
+42,789012,245,Analogous,0
+42,789012,246,A type of wireframe,5
+42,789012,247,To conduct competitor analysis,0
+42,789012,248,User Flow,0
+42,789012,249,The arrangement of elements on a page,0
+42,789012,250,To showcase design concepts to clients,5
+42,789012,251,The visual appeal of a design,5
+42,789012,252,To guide users towards a desired action,0
+42,789012,253,Studying the visual design of a website,0
+42,789012,254,Simplicity,0
+42,789012,255,To compare two different versions of a design to determine which performs better,0
+42,789012,256,False,0
+42,789012,257,True,0
+42,789012,258,True,5
+42,789012,259,False,5
+42,789012,260,True,5
+43,234567,41,5 6,0
+43,234567,42,static,0
+43,234567,43,8,0
+43,234567,44,Infinity,0
+43,234567,45,Deallocate memory,0
+43,234567,46,1 byte,5
+43,234567,47,2,0
+43,234567,48,int* ptr;,5
+43,234567,49,*,0
+43,234567,50,2 2,0
+43,234567,51,<iostream>,5
+43,234567,52,16,0
+43,234567,53,To skip a line in input,0
+43,234567,54,do-while loop,0
+43,234567,55,65,5
+43,234567,56,False,5
+43,234567,57,True,0
+43,234567,58,True,0
+43,234567,59,True,0
+43,234567,60,True,0
+43,987652,181,Ctrl + Z,5
+43,987652,182,Move Tool,5
+43,987652,183,"Red, Green, Blue",5
+43,987652,184,BMP,0
+43,987652,185,Layer > New > Layer,0
+43,987652,186,A filter applied to a layer,0
+43,987652,187,Dodge Tool,0
+43,987652,188,To change the color temperature of an image,0
+43,987652,189,Magic Wand Tool,5
+43,987652,190,To remove unwanted elements from an image,5
+43,987652,191,File > New > Layer,0
+43,987652,192,The transparency of a layer or tool,5
+43,987652,193,Shape Tool,5
+43,987652,194,Edit > Transform > Scale,0
+43,987652,195,To apply special effects to an image,0
+43,987652,196,True,0
+43,987652,197,True,0
+43,987652,198,True,0
+43,987652,199,False,5
+43,987652,200,False,5
+43,119002,221,A text editor,0
+43,119002,222,TypeScript,5
+43,119002,223,Angular 10,5
+43,119002,224,To write CSS code,0
+43,119002,225,A type of service,0
+43,119002,226,A way to loop through an array,0
+43,119002,227,To define routes,0
+43,119002,228,For fetching data from a server,0
+43,119002,229,A built-in data storage system,0
+43,119002,230,To define routes,0
+43,119002,231,To define routes,0
+43,119002,232,A way to create custom HTML elements,0
+43,119002,233,A way to handle asynchronous code,0
+43,119002,234,A type of testing,0
+43,119002,235,To initialize data or logic in a component,5
+43,119002,236,False,5
+43,119002,237,False,5
+43,119002,238,False,5
+43,119002,239,False,5
+43,119002,240,False,5
+44,567890,161,Home Tool Markup Language,0
+44,567890,162,<ul>,5
+44,567890,163,<break>,0
+44,567890,164,class,0
+44,567890,165,<h>,0
+44,567890,166,<tr>,0
+44,567890,167,<list>,0
+44,567890,168,<header>,0
+44,567890,169,src,0
+44,567890,170,<p>,5
+44,567890,171,<img src='image.jpg'>,5
+44,567890,172,width,5
+44,567890,173,<thead>,0
+44,567890,174,<checkbox>,0
+44,567890,175,style,5
+44,567890,176,True,0
+44,567890,177,False,5
+44,567890,178,True,0
+44,567890,179,False,5
+44,567890,180,False,5
+44,987654,21,General-purpose Programming,5
+44,987654,22,static,0
+44,987654,23,False,0
+44,987654,24,float,0
+44,987654,25,None of the above,0
+44,987654,26,super,0
+44,987654,27,To create an instance of a class,0
+44,987654,28,False,0
+44,987654,29,HashMap,0
+44,987654,30,Skips the current iteration of a loop,0
+44,987654,31,finally,0
+44,987654,32,A hardware component,0
+44,987654,33,private,0
+44,987654,34,To call a superclass method or constructor,5
+44,987654,35,finally,0
+44,987654,36,True,0
+44,987654,37,True,0
+44,987654,38,True,0
+44,987654,39,False,5
+44,987654,40,True,0
+44,654321,141,The graphical user interface of Linux,0
+44,654321,142,mkdir,5
+44,654321,143,Zsh,0
+44,654321,144,time,0
+44,654321,145,To search for files and directories,0
+44,654321,146,ps,5
+44,654321,147,To search for files and directories,0
+44,654321,148,mv,0
+44,654321,149,To change file permissions,0
+44,654321,150,cp,5
+44,654321,151,To list the logged-in users,0
+44,654321,152,ls,0
+44,654321,153,To search for files and directories,0
+44,654321,154,grep,0
+44,654321,155,To remove files and directories,0
+44,654321,156,True,5
+44,654321,157,False,0
+44,654321,158,False,0
+44,654321,159,False,0
+44,654321,160,False,5
+45,345678,81,A web browser,0
+45,345678,82,C++,0
+45,345678,83,Automatic memory management,0
+45,345678,84,Sequential Query Language,0
+45,345678,85,View,0
+45,345678,86,To store database records,0
+45,345678,87,DELETE,0
+45,345678,88,READ UNCOMMITTED,0
+45,345678,89,Unlimited,0
+45,345678,90,VARCHAR2,0
+45,345678,91,To enforce data integrity constraints,0
+45,345678,92,CREATE,5
+45,345678,93,To save changes made to the database,5
+45,345678,94,FOREIGN KEY,0
+45,345678,95,To update the schema definition,0
+45,345678,96,True,5
+45,345678,97,False,0
+45,345678,98,True,5
+45,345678,99,True,5
+45,345678,100,False,5
+45,128979,281,Detecting all cyberattacks,0
+45,128979,282,P@ssw0rd!,0
+45,128979,283,Installing malware on a computer,5
+45,128979,284,Blocks unauthorized access to a network,0
+45,128979,285,Monitors network traffic and filters out unauthorized access,5
+45,128979,286,Username and password,0
+45,128979,287,Securing physical access to a building,0
+45,128979,288,Gaining unauthorized access to a network,0
+45,128979,289,Manipulating people into revealing confidential information,5
+45,128979,290,Inspecting firewalls for vulnerabilities,0
+45,128979,291,Defining rules and guidelines for securing information and resources,5
+45,128979,292,Spyware,0
+45,128979,293,Assessing physical security measures,0
+45,128979,294,Encrypting sensitive files on a computer,0
+45,128979,295,Encrypts data for secure transmission,0
+45,128979,296,False,5
+45,128979,297,True,0
+45,128979,298,True,0
+45,128979,299,True,0
+45,128979,300,True,0
+46,456789,121,A web framework,0
+46,456789,122,Automatic memory management,0
+46,456789,123,To write stored procedures and functions,5
+46,456789,124,To manage user access control,0
+46,456789,125,It is a four-tier architecture,0
+46,456789,126,It allows for efficient data retrieval,0
+46,456789,127,Constraints,0
+46,456789,128,To implement data valquestion_idation rules,0
+46,456789,129,Oracle APEX,0
+46,456789,130,To manage database security,5
+46,456789,131,None of the above,0
+46,456789,132,To generate reports,0
+46,456789,133,Constraints,0
+46,456789,134,To manage data concurrency,0
+46,456789,135,Redo logs,0
+46,456789,136,False,5
+46,456789,137,True,5
+46,456789,138,True,5
+46,456789,139,True,0
+46,456789,140,False,5
+46,990465,261,A type of database,0
+46,990465,262,Facebook,0
+46,990465,263,To browse the internet,0
+46,990465,264,Python,0
+46,990465,265,Hadoop Distributed File System (HDFS),5
+46,990465,266,Data processing,5
+46,990465,267,To manage resources and schedule jobs,5
+46,990465,268,Images,0
+46,990465,269,Limited scalability,0
+46,990465,270,Hive,5
+46,990465,271,Data storage,0
+46,990465,272,Sqoop,5
+46,990465,273,Data storage,0
+46,990465,274,Hive,0
+46,990465,275,Data storage,0
+46,990465,276,True,0
+46,990465,277,True,0
+46,990465,278,True,0
+46,990465,279,False,5
+46,990465,280,False,5
+46,764269,1,A specific instance of a class,5
+46,764269,2,Inheriting properties from a parent class,0
+46,764269,3,The ability of a class to have multiple parent classes,0
+46,764269,4,The ability of a class to be instantiated,0
+46,764269,5,A method that is inherited from a parent class,0
+46,764269,6,A blueprint for creating objects,5
+46,764269,7,A function that belongs to a class,5
+46,764269,8,A design technique to model has-a relationships,5
+46,764269,9,A method that cannot access class-level variables,0
+46,764269,10,Defining multiple methods with different names,0
+46,764269,11,Defining multiple methods with the same name but different parameters,0
+46,764269,12,A method that creates an instance of a class,0
+46,764269,13,A function that is inherited from a parent class,0
+46,764269,14,A function that is defined in a base class and can be overridden by a subclass,5
+46,764269,15,A virtual function that is automatically called when an object is destroyed,0
+46,764269,16,True,0
+46,764269,17,False,5
+46,764269,18,False,5
+46,764269,19,True,0
+46,764269,20,True,0
+47,876543,61,Search Query Language,5
+47,876543,62,UPDATE,0
+47,876543,63,A column that uniquely identifies each row in a table,0
+47,876543,64,INSERT,0
+47,876543,65,Inserts new data into a table,0
+47,876543,66,SELECT,0
+47,876543,67,To join multiple tables together,0
+47,876543,68,SELECT,0
+47,876543,69,To filter the result set based on a specified condition,0
+47,876543,70,SUM(),0
+47,876543,71,To filter the result set based on a condition before the GROUP BY clause,0
+47,876543,72,AND,5
+47,876543,73,Updates existing data in a table,0
+47,876543,74,MAX(),0
+47,876543,75,To filter the result set based on a specified condition,5
+47,876543,76,False,5
+47,876543,77,False,5
+47,876543,78,True,0
+47,876543,79,False,5
+47,876543,80,True,0
+47,109024,201,Creative Style Sheets,0
+47,109024,202,bgcolor,0
+47,109024,203,font-size,5
+47,109024,204,spacing,0
+47,109024,205,font-style,0
+47,109024,206,text-decoration,5
+47,109024,207,font-fg,0
+47,109024,208,list-style-type,5
+47,109024,209,line-height,5
+47,109024,210,height,0
+47,109024,211,size,0
+47,109024,212,background,0
+47,109024,213,align,0
+47,109024,214,z-index,5
+47,109024,215,bgcolor,0
+47,109024,216,True,0
+47,109024,217,True,0
+47,109024,218,True,0
+47,109024,219,True,0
+47,109024,220,False,5
+47,234567,41,6 6,0
+47,234567,42,static,0
+47,234567,43,2,0
+47,234567,44,Zero,0
+47,234567,45,Deallocate memory,0
+47,234567,46,1 byte,5
+47,234567,47,2,0
+47,234567,48,Both A and C,0
+47,234567,49,/,0
+47,234567,50,2 2,0
+47,234567,51,<conio.h>,0
+47,234567,52,10,0
+47,234567,53,To ignore errors in cin,0
+47,234567,54,while loop,0
+47,234567,55,Compiler Error,0
+47,234567,56,True,0
+47,234567,57,False,5
+47,234567,58,True,0
+47,234567,59,False,5
+47,234567,60,False,5
+48,765432,101,An operating system,0
+48,765432,102,They are not scalable,0
+48,765432,103,A programming language,5
+48,765432,104,It is a database management system,0
+48,765432,105,To secure and back up data,5
+48,765432,106,It is a database management system,0
+48,765432,107,An integrated development environment,5
+48,765432,108,It is an infrastructure software,5
+48,765432,109,To manage web services,0
+48,765432,110,It is an operating system,0
+48,765432,111,A programming language,0
+48,765432,112,They are a database management system,0
+48,765432,113,A clustering database technology,5
+48,765432,114,It is a programming language,0
+48,765432,115,A programming language,0
+48,765432,116,False,5
+48,765432,117,False,0
+48,765432,118,True,5
+48,765432,119,True,5
+48,765432,120,True,5
+48,567890,161,Home Tool Markup Language,0
+48,567890,162,<ol>,0
+48,567890,163,<newline>,0
+48,567890,164,class,0
+48,567890,165,<h>,0
+48,567890,166,<tab>,0
+48,567890,167,<li>,0
+48,567890,168,<header>,0
+48,567890,169,image,0
+48,567890,170,<paragraph>,0
+48,567890,171,<image alt='image.jpg'>,0
+48,567890,172,length,0
+48,567890,173,<th>,5
+48,567890,174,<check>,0
+48,567890,175,design,0
+48,567890,176,True,0
+48,567890,177,False,5
+48,567890,178,True,0
+48,567890,179,False,5
+48,567890,180,True,0
+49,987652,181,Ctrl + C,0
+49,987652,182,Eraser Tool,0
+49,987652,183,"Rotate, Gradient, Blur",0
+49,987652,184,TIFF,0
+49,987652,185,Layer > New > Layer,0
+49,987652,186,A non-destructive way to hide or reveal parts of a layer,5
+49,987652,187,Healing Brush Tool,5
+49,987652,188,To create custom brushes,0
+49,987652,189,Color Replacement Tool,0
+49,987652,190,To remove unwanted elements from an image,5
+49,987652,191,Image > Adjustments > Brightness/Contrast,0
+49,987652,192,The transparency of a layer or tool,5
+49,987652,193,Shape Tool,5
+49,987652,194,Image > Adjustments > Brightness/Contrast,0
+49,987652,195,To create custom gradients,0
+49,987652,196,True,0
+49,987652,197,False,5
+49,987652,198,True,0
+49,987652,199,True,0
+49,987652,200,True,0
+49,789012,241,User Interaction,0
+49,789012,242,Feedback,5
+49,789012,243,To showcase final design to clients,0
+49,789012,244,The organization and structure of content,0
+49,789012,245,Monochromatic,5
+49,789012,246,A type of wireframe,5
+49,789012,247,To conduct competitor analysis,0
+49,789012,248,Aesthetic Appeal,0
+49,789012,249,The visual appearance of a user interface element,0
+49,789012,250,To showcase design concepts to clients,5
+49,789012,251,The ability to adapt to different screen sizes,0
+49,789012,252,To navigate to the homepage,0
+49,789012,253,Creating wireframes and prototypes,5
+49,789012,254,Simplicity,0
+49,789012,255,To create wireframes,0
+49,789012,256,False,0
+49,789012,257,False,5
+49,789012,258,True,5
+49,789012,259,False,5
+49,789012,260,True,5
+50,119002,221,A framework for building web applications,5
+50,119002,222,Python,0
+50,119002,223,Angular 10,5
+50,119002,224,To write CSS code,0
+50,119002,225,A built-in function,0
+50,119002,226,A method for handling events,0
+50,119002,227,To style the application,0
+50,119002,228,For styling components,0
+50,119002,229,A form of testing in Angular,0
+50,119002,230,To create animations,0
+50,119002,231,To define routes,0
+50,119002,232,A way to create custom HTML elements,0
+50,119002,233,A method for optimizing images,0
+50,119002,234,A type of testing,0
+50,119002,235,To define routes,0
+50,119002,236,False,5
+50,119002,237,False,5
+50,119002,238,False,5
+50,119002,239,True,0
+50,119002,240,False,5
+50,128979,281,Preventing all cyberattacks,0
+50,128979,282,password123,0
+50,128979,283,Tricking people into revealing sensitive information,0
+50,128979,284,Secures communication over the internet,5
+50,128979,285,Monitors network traffic and filters out unauthorized access,5
+50,128979,286,Retina scan and voice recognition,0
+50,128979,287,Encrypting physical files,0
+50,128979,288,Installing malware on a computer,0
+50,128979,289,Using advanced algorithms to predict social behavior,0
+50,128979,290,Analyzing software code for bugs,0
+50,128979,291,Defining rules and guidelines for securing information and resources,5
+50,128979,292,Spyware,0
+50,128979,293,Assessing physical security measures,0
+50,128979,294,Preventing unauthorized access to a network,0
+50,128979,295,Scans for viruses on a computer's hard drive,0
+50,128979,296,False,5
+50,128979,297,True,0
+50,128979,298,False,5
+50,128979,299,True,0
+50,128979,300,True,0
+50,654321,141,The graphical user interface of Linux,0
+50,654321,142,cd,0
+50,654321,143,Bash,5
+50,654321,144,time,0
+50,654321,145,To search for files and directories,0
+50,654321,146,ls,0
+50,654321,147,To compress files into an archive,0
+50,654321,148,cd,0
+50,654321,149,To list directory contents,0
+50,654321,150,cd,0
+50,654321,151,To display the system information,5
+50,654321,152,ls,0
+50,654321,153,To display the contents of a file,0
+50,654321,154,search,0
+50,654321,155,To display the current date and time,0
+50,654321,156,False,0
+50,654321,157,False,0
+50,654321,158,True,5
+50,654321,159,True,5
+50,654321,160,True,0
+51,987654,21,Mobile App Development,0
+51,987654,22,final,5
+51,987654,23,True,0
+51,987654,24,boolean,0
+51,987654,25,16,0
+51,987654,26,extends,5
+51,987654,27,To create an instance of a class,0
+51,987654,28,Runtime Error,0
+51,987654,29,ArrayList,5
+51,987654,30,Skips the current iteration of a loop,0
+51,987654,31,catch,0
+51,987654,32,A compiler,0
+51,987654,33,public,0
+51,987654,34,To indicate that a variable is final,0
+51,987654,35,try,0
+51,987654,36,False,5
+51,987654,37,False,5
+51,987654,38,False,5
+51,987654,39,True,0
+51,987654,40,True,0
+51,345678,81,An operating system,0
+51,345678,82,Python,0
+51,345678,83,Concurrency control,0
+51,345678,84,Sequential Query Language,0
+51,345678,85,View,0
+51,345678,86,To store database records,0
+51,345678,87,SELECT,0
+51,345678,88,REPEATABLE READ,0
+51,345678,89,255,0
+51,345678,90,VARCHAR2,0
+51,345678,91,To enforce data integrity constraints,0
+51,345678,92,DROP,0
+51,345678,93,To delete records from a table,0
+51,345678,94,INDEX,5
+51,345678,95,To update the schema definition,0
+51,345678,96,True,5
+51,345678,97,False,0
+51,345678,98,False,0
+51,345678,99,True,5
+51,345678,100,True,0
+52,764269,1,A function in a class,0
+52,764269,2,Inheriting properties from a parent class,0
+52,764269,3,The ability of a class to inherit properties and behavior from another class,5
+52,764269,4,The ability of a class to override methods,0
+52,764269,5,A method that destroys an instance of a class,0
+52,764269,6,A blueprint for creating objects,5
+52,764269,7,A function that is independent of any class,0
+52,764269,8,A design technique to create parent-child relationships,0
+52,764269,9,A method that can only be called by a subclass,0
+52,764269,10,Defining multiple methods with different names,0
+52,764269,11,Defining a method inside another method,0
+52,764269,12,A method that is inherited from a parent class,0
+52,764269,13,A function that is defined inside a class,0
+52,764269,14,A function that is inherited from a parent class,0
+52,764269,15,A virtual function that is inherited from a parent class,0
+52,764269,16,False,5
+52,764269,17,True,0
+52,764269,18,False,5
+52,764269,19,True,0
+52,764269,20,False,5
+52,990465,261,A web browser,0
+52,990465,262,Facebook,0
+52,990465,263,To process and analyze big data,5
+52,990465,264,C++,0
+52,990465,265,MapReduce,0
+52,990465,266,Data storage,0
+52,990465,267,To create web applications,0
+52,990465,268,Structured data,5
+52,990465,269,Lower cost,5
+52,990465,270,Pig,0
+52,990465,271,Data processing,5
+52,990465,272,Hive,0
+52,990465,273,Data warehousing,5
+52,990465,274,Hive,0
+52,990465,275,Data visualization,0
+52,990465,276,False,5
+52,990465,277,False,5
+52,990465,278,False,5
+52,990465,279,False,5
+52,990465,280,True,0
+52,456789,121,A web framework,0
+52,456789,122,Automatic memory management,0
+52,456789,123,To write stored procedures and functions,5
+52,456789,124,To synchronize data across multiple databases,5
+52,456789,125,It is a single-tier architecture,0
+52,456789,126,It allows for efficient data retrieval,0
+52,456789,127,Views,0
+52,456789,128,To generate unique numbers,5
+52,456789,129,SQL*Plus,5
+52,456789,130,To design user interfaces,0
+52,456789,131,PGA (Program Global Area),0
+52,456789,132,To generate reports,0
+52,456789,133,Triggers,0
+52,456789,134,To manage data concurrency,0
+52,456789,135,Datafiles,5
+52,456789,136,False,5
+52,456789,137,False,0
+52,456789,138,False,0
+52,456789,139,False,5
+52,456789,140,True,0
+53,876543,61,Structured Question Language,0
+53,876543,62,UPDATE,0
+53,876543,63,A column that contains only numeric values,0
+53,876543,64,INSERT,0
+53,876543,65,Updates existing data in a table,0
+53,876543,66,SELECT,0
+53,876543,67,To limit the number of rows returned in a result set,0
+53,876543,68,SELECT,0
+53,876543,69,To group rows based on a specified column,5
+53,876543,70,COUNT(),0
+53,876543,71,To limit the number of rows returned in a result set,0
+53,876543,72,AND,5
+53,876543,73,Returns only unique values from a specified column,5
+53,876543,74,AVG(),0
+53,876543,75,To filter the result set based on a specified condition,5
+53,876543,76,True,0
+53,876543,77,True,0
+53,876543,78,False,5
+53,876543,79,False,5
+53,876543,80,False,5
+53,109024,201,Computer Style Sheets,0
+53,109024,202,background,0
+53,109024,203,text-style,0
+53,109024,204,border,0
+53,109024,205,font-style,0
+53,109024,206,decoration,0
+53,109024,207,font-fg,0
+53,109024,208,list-style-type,5
+53,109024,209,line-height,5
+53,109024,210,length,0
+53,109024,211,height,5
+53,109024,212,background,0
+53,109024,213,push,0
+53,109024,214,top-index,0
+53,109024,215,background-color,5
+53,109024,216,True,0
+53,109024,217,False,5
+53,109024,218,False,5
+53,109024,219,True,0
+53,109024,220,True,0
+53,789012,241,User Interaction,0
+53,789012,242,Feedback,5
+53,789012,243,To define the visual layout,0
+53,789012,244,The visual design of a website,0
+53,789012,245,Analogous,0
+53,789012,246,A type of user interface element,0
+53,789012,247,To conduct competitor analysis,0
+53,789012,248,Aesthetic Appeal,0
+53,789012,249,The ability to easily navigate a website,5
+53,789012,250,To showcase design concepts to clients,5
+53,789012,251,The visual appeal of a design,5
+53,789012,252,To guide users towards a desired action,0
+53,789012,253,Studying the visual design of a website,0
+53,789012,254,Simplicity,0
+53,789012,255,To conduct user interviews,5
+53,789012,256,True,5
+53,789012,257,False,5
+53,789012,258,True,5
+53,789012,259,False,5
+53,789012,260,False,0
+54,119002,221,A database management system,0
+54,119002,222,Python,0
+54,119002,223,Angular 8,0
+54,119002,224,To write CSS code,0
+54,119002,225,A database table,0
+54,119002,226,A type of authentication,0
+54,119002,227,To style the application,0
+54,119002,228,For creating forms,0
+54,119002,229,A form of testing in Angular,0
+54,119002,230,To handle user input and perform two-way data binding,5
+54,119002,231,To loop through an array and render elements,5
+54,119002,232,A way to control the behavior of DOM elements,5
+54,119002,233,A type of authentication,0
+54,119002,234,Ahead-of-Time compilation: A way to compile the application before it is deployed,5
+54,119002,235,To create animations,0
+54,119002,236,True,0
+54,119002,237,False,5
+54,119002,238,False,5
+54,119002,239,True,0
+54,119002,240,True,0
+54,567890,161,Home Tool Markup Language,0
+54,567890,162,<li>,0
+54,567890,163,<newline>,0
+54,567890,164,name,0
+54,567890,165,<h>,0
+54,567890,166,<tr>,0
+54,567890,167,<ul>,0
+54,567890,168,<header>,0
+54,567890,169,image,0
+54,567890,170,<p>,5
+54,567890,171,<img src='image.jpg'>,5
+54,567890,172,size,0
+54,567890,173,<table-header>,0
+54,567890,174,<input type='check'>,0
+54,567890,175,design,0
+54,567890,176,False,5
+54,567890,177,True,0
+54,567890,178,True,0
+54,567890,179,False,5
+54,567890,180,False,5
+54,234567,41,5 6,0
+54,234567,42,auto,0
+54,234567,43,8,0
+54,234567,44,Error,5
+54,234567,45,Deallocate memory,0
+54,234567,46,Depends on the system,0
+54,234567,47,2,0
+54,234567,48,int ptr[];,0
+54,234567,49,*,0
+54,234567,50,2.5 2.5,0
+54,234567,51,<stdlib.h>,0
+54,234567,52,10,0
+54,234567,53,None of the above,0
+54,234567,54,do-while loop,0
+54,234567,55,B,0
+54,234567,56,False,5
+54,234567,57,False,5
+54,234567,58,True,0
+54,234567,59,False,5
+54,234567,60,True,0
+55,987652,181,Ctrl + X,0
+55,987652,182,Clone Stamp Tool,0
+55,987652,183,"Rotate, Gradient, Blur",0
+55,987652,184,TIFF,0
+55,987652,185,Layer > New > Layer,0
+55,987652,186,A technique for merging multiple layers into one,0
+55,987652,187,Healing Brush Tool,5
+55,987652,188,To adjust the brightness and contrast of an image,5
+55,987652,189,Lasso Tool,0
+55,987652,190,To remove unwanted elements from an image,5
+55,987652,191,Edit > Transform > Scale,0
+55,987652,192,The sharpness of an image,0
+55,987652,193,Shape Tool,5
+55,987652,194,Filter > Blur > Gaussian Blur,5
+55,987652,195,To select and sample colors from an image,5
+55,987652,196,False,5
+55,987652,197,True,0
+55,987652,198,False,5
+55,987652,199,False,5
+55,987652,200,False,5
+55,765432,101,A web browser,0
+55,765432,102,They support relational database management,5
+55,765432,103,A web browser,0
+55,765432,104,It is a programming language,0
+55,765432,105,To manage web services,0
+55,765432,106,It is a programming language,0
+55,765432,107,A programming language,0
+55,765432,108,It is an operating system,0
+55,765432,109,To optimize database performance,0
+55,765432,110,It is an operating system,0
+55,765432,111,A database management system,0
+55,765432,112,They are a database management system,0
+55,765432,113,A database management system,0
+55,765432,114,It is an operating system,0
+55,765432,115,A feature that reduces storage costs and improves performance,5
+55,765432,116,True,0
+55,765432,117,True,5
+55,765432,118,False,0
+55,765432,119,True,5
+55,765432,120,False,0
+55,128979,281,Minimizing the impact of cyberattacks,5
+55,128979,282,SecurePassword123!,5
+55,128979,283,Tricking people into revealing sensitive information,0
+55,128979,284,Protects against viruses,0
+55,128979,285,Blocks physical access to a computer,0
+55,128979,286,Security questions,5
+55,128979,287,Encrypting physical files,0
+55,128979,288,Gaining unauthorized access to a network,0
+55,128979,289,Using advanced algorithms to predict social behavior,0
+55,128979,290,Testing the strength of physical locks,0
+55,128979,291,Creating backup copies of sensitive data,0
+55,128979,292,Trojan horse,0
+55,128979,293,Scanning for viruses on a computer,0
+55,128979,294,Creating strong passwords for users,0
+55,128979,295,Scans for viruses on a computer's hard drive,0
+55,128979,296,False,5
+55,128979,297,True,0
+55,128979,298,True,0
+55,128979,299,True,0
+55,128979,300,True,0
+56,345678,81,A programming language,5
+56,345678,82,Python,0
+56,345678,83,Concurrency control,0
+56,345678,84,Sequential Query Language,0
+56,345678,85,Table,0
+56,345678,86,To enforce data integrity,0
+56,345678,87,INSERT,5
+56,345678,88,READ COMMITTED,5
+56,345678,89,Unlimited,0
+56,345678,90,NUMBER,0
+56,345678,91,To define a relationship between two tables,5
+56,345678,92,DROP,0
+56,345678,93,To roll back a transaction,0
+56,345678,94,PRIMARY KEY,0
+56,345678,95,To update the schema definition,0
+56,345678,96,False,0
+56,345678,97,False,0
+56,345678,98,True,5
+56,345678,99,False,0
+56,345678,100,True,0
+56,654321,141,The graphical user interface of Linux,0
+56,654321,142,ls,0
+56,654321,143,Bash,5
+56,654321,144,date,5
+56,654321,145,To search for files and directories,0
+56,654321,146,ls,0
+56,654321,147,To display the contents of a file,0
+56,654321,148,rmdir,0
+56,654321,149,To display network interface configuration,5
+56,654321,150,cd,0
+56,654321,151,To display the current user,0
+56,654321,152,pwd,0
+56,654321,153,To search for files and directories,0
+56,654321,154,search,0
+56,654321,155,To create a new file,0
+56,654321,156,False,0
+56,654321,157,False,0
+56,654321,158,False,0
+56,654321,159,True,5
+56,654321,160,True,0
+57,456789,121,A database management system,5
+57,456789,122,Object-oriented programming,5
+57,456789,123,To create web applications,0
+57,456789,124,To backup and restore data,0
+57,456789,125,It is a three-tier architecture,5
+57,456789,126,It enforces referential integrity,0
+57,456789,127,Views,0
+57,456789,128,To generate unique numbers,5
+57,456789,129,Oracle Reports,0
+57,456789,130,To develop web applications,0
+57,456789,131,None of the above,0
+57,456789,132,To generate reports,0
+57,456789,133,Indexes,0
+57,456789,134,To enforce data integrity,0
+57,456789,135,Datafiles,5
+57,456789,136,True,0
+57,456789,137,True,5
+57,456789,138,False,0
+57,456789,139,True,0
+57,456789,140,False,5
+57,789012,241,User Interaction,0
+57,789012,242,Accessibility,0
+57,789012,243,To plan the structure and layout,5
+57,789012,244,The process of gathering user feedback,5
+57,789012,245,Analogous,0
+57,789012,246,A style of font,0
+57,789012,247,To identify and fix visual design issues,0
+57,789012,248,Accessibility,0
+57,789012,249,The ability to easily navigate a website,5
+57,789012,250,To conduct user interviews,0
+57,789012,251,The ease of use for people with disabilities,0
+57,789012,252,To guide users towards a desired action,0
+57,789012,253,Creating wireframes and prototypes,5
+57,789012,254,Simplicity,0
+57,789012,255,To conduct user interviews,5
+57,789012,256,False,0
+57,789012,257,False,5
+57,789012,258,False,0
+57,789012,259,True,0
+57,789012,260,False,0
+58,987654,21,General-purpose Programming,5
+58,987654,22,private,0
+58,987654,23,True,0
+58,987654,24,decimal,5
+58,987654,25,11,5
+58,987654,26,extends,5
+58,987654,27,To create an instance of a class,0
+58,987654,28,False,0
+58,987654,29,HashSet,0
+58,987654,30,Throws an exception,0
+58,987654,31,try,5
+58,987654,32,A hardware component,0
+58,987654,33,protected,0
+58,987654,34,To access static members of a class,0
+58,987654,35,finally,0
+58,987654,36,False,5
+58,987654,37,False,5
+58,987654,38,True,0
+58,987654,39,True,0
+58,987654,40,True,0
+58,119002,221,A database management system,0
+58,119002,222,Java,0
+58,119002,223,Angular 8,0
+58,119002,224,To generate a new Angular project,5
+58,119002,225,A database table,0
+58,119002,226,A way to bind data in both HTML and TypeScript,5
+58,119002,227,To define routes,0
+58,119002,228,For styling components,0
+58,119002,229,A built-in data storage system,0
+58,119002,230,To fetch data from a server,0
+58,119002,231,To create animations,0
+58,119002,232,A method for handling events,0
+58,119002,233,A type of authentication,0
+58,119002,234,A way to optimize database queries,0
+58,119002,235,To create animations,0
+58,119002,236,True,0
+58,119002,237,False,5
+58,119002,238,True,0
+58,119002,239,False,5
+58,119002,240,True,0
+59,764269,1,A variable in a class,0
+59,764269,2,Inheriting properties from a parent class,0
+59,764269,3,The ability of a class to have private members,0
+59,764269,4,The ability of a class to have private members,0
+59,764269,5,A method that is inherited from a parent class,0
+59,764269,6,A variable in a program,0
+59,764269,7,A variable that is independent of any class,0
+59,764269,8,A design technique to create parent-child relationships,0
+59,764269,9,A method that cannot access instance-level variables,0
+59,764269,10,Defining multiple methods with the same name and same parameters,0
+59,764269,11,Providing a new implementation for a method inherited from a parent class,5
+59,764269,12,A method that updates class properties,0
+59,764269,13,A function that is defined inside a class,0
+59,764269,14,A function that can access private members of a class,0
+59,764269,15,A virtual function that is not implemented in the base class,5
+59,764269,16,False,5
+59,764269,17,False,5
+59,764269,18,False,5
+59,764269,19,False,5
+59,764269,20,True,0
+59,109024,201,Colorful Style Sheets,0
+59,109024,202,bgcolor,0
+59,109024,203,font-size,5
+59,109024,204,margin,5
+59,109024,205,text-weight,0
+59,109024,206,text-underline,0
+59,109024,207,font-fg,0
+59,109024,208,marker-type,0
+59,109024,209,text-spacing,0
+59,109024,210,length,0
+59,109024,211,width,0
+59,109024,212,background,0
+59,109024,213,side,0
+59,109024,214,z-index,5
+59,109024,215,background-color,5
+59,109024,216,False,5
+59,109024,217,True,0
+59,109024,218,True,0
+59,109024,219,True,0
+59,109024,220,False,5
+59,876543,61,Search Query Language,5
+59,876543,62,DELETE,5
+59,876543,63,A column that is used to sort the data in a table,0
+59,876543,64,SELECT,0
+59,876543,65,Inserts new data into a table,0
+59,876543,66,UPDATE,0
+59,876543,67,To limit the number of rows returned in a result set,0
+59,876543,68,SELECT,0
+59,876543,69,To group rows based on a specified column,5
+59,876543,70,COUNT(),0
+59,876543,71,To filter the result set based on a condition after the GROUP BY clause,5
+59,876543,72,AND,5
+59,876543,73,Returns only unique values from a specified column,5
+59,876543,74,COUNT(),5
+59,876543,75,To filter the result set based on a specified condition,5
+59,876543,76,False,5
+59,876543,77,True,0
+59,876543,78,False,5
+59,876543,79,False,5
+59,876543,80,False,5
+60,990465,261,A type of database,0
+60,990465,262,Microsoft,0
+60,990465,263,To process and analyze big data,5
+60,990465,264,Ruby,0
+60,990465,265,MapReduce,0
+60,990465,266,Data encryption,0
+60,990465,267,To create web applications,0
+60,990465,268,Audio files,0
+60,990465,269,Limited scalability,0
+60,990465,270,Hive,5
+60,990465,271,Data storage,0
+60,990465,272,Hive,0
+60,990465,273,Data processing,0
+60,990465,274,Flume,5
+60,990465,275,Data visualization,0
+60,990465,276,False,5
+60,990465,277,True,0
+60,990465,278,True,0
+60,990465,279,False,5
+60,990465,280,False,5
+60,234567,41,5 7,0
+60,234567,42,constant,5
+60,234567,43,Depends on the system,0
+60,234567,44,Infinity,0
+60,234567,45,None of the above,0
+60,234567,46,1 byte,5
+60,234567,47,3,0
+60,234567,48,Both A and C,0
+60,234567,49,/,0
+60,234567,50,2.5 2,0
+60,234567,51,<conio.h>,0
+60,234567,52,16,0
+60,234567,53,To clear the input buffer,5
+60,234567,54,None of the above,0
+60,234567,55,65,5
+60,234567,56,True,0
+60,234567,57,True,0
+60,234567,58,False,5
+60,234567,59,False,5
+60,234567,60,True,0
+61,567890,161,Hyperlinks and Text Markup Language,0
+61,567890,162,<dl>,0
+61,567890,163,<newline>,0
+61,567890,164,id,5
+61,567890,165,<hyperlink>,0
+61,567890,166,<tr>,0
+61,567890,167,<li>,0
+61,567890,168,<title>,5
+61,567890,169,image,0
+61,567890,170,<paragraph>,0
+61,567890,171,<image alt='image.jpg'>,0
+61,567890,172,size,0
+61,567890,173,<thead>,0
+61,567890,174,<input type='check'>,0
+61,567890,175,css,0
+61,567890,176,True,0
+61,567890,177,True,0
+61,567890,178,False,5
+61,567890,179,True,0
+61,567890,180,False,5
+61,765432,101,An operating system,0
+61,765432,102,They support relational database management,5
+61,765432,103,A database management system,0
+61,765432,104,It is a database management system,0
+61,765432,105,To optimize database performance,0
+61,765432,106,It is an operating system,0
+61,765432,107,A programming language,0
+61,765432,108,It is an infrastructure software,5
+61,765432,109,To manage web services,0
+61,765432,110,It is a database management system,0
+61,765432,111,An engineered system for running Oracle Database,5
+61,765432,112,They are a scalable and customizable compute option,5
+61,765432,113,A programming language,0
+61,765432,114,It is a programming language,0
+61,765432,115,A feature that reduces storage costs and improves performance,5
+61,765432,116,False,5
+61,765432,117,False,0
+61,765432,118,False,0
+61,765432,119,False,0
+61,765432,120,True,5
+62,234567,41,6 6,0
+62,234567,42,register,0
+62,234567,43,8,0
+62,234567,44,Error,5
+62,234567,45,None of the above,0
+62,234567,46,1 byte,5
+62,234567,47,3,0
+62,234567,48,int* ptr;,5
+62,234567,49,+,0
+62,234567,50,2 2.5,5
+62,234567,51,<stdio.h>,0
+62,234567,52,16,0
+62,234567,53,To skip a line in input,0
+62,234567,54,do-while loop,0
+62,234567,55,66,0
+62,234567,56,True,0
+62,234567,57,True,0
+62,234567,58,False,5
+62,234567,59,False,5
+62,234567,60,False,5
+62,654321,141,The core component of the Linux operating system,5
+62,654321,142,mkdir,5
+62,654321,143,Bash,5
+62,654321,144,time,0
+62,654321,145,To compress files into an archive,0
+62,654321,146,top,0
+62,654321,147,To compress files into an archive,0
+62,654321,148,mv,0
+62,654321,149,To list directory contents,0
+62,654321,150,cp,5
+62,654321,151,To list the logged-in users,0
+62,654321,152,mv,0
+62,654321,153,To change file permissions,0
+62,654321,154,locate,0
+62,654321,155,To create a new file,0
+62,654321,156,False,0
+62,654321,157,False,0
+62,654321,158,True,5
+62,654321,159,True,5
+62,654321,160,True,0
+62,109024,201,Computer Style Sheets,0
+62,109024,202,bgcolor,0
+62,109024,203,font-style,0
+62,109024,204,padding,0
+62,109024,205,text-weight,0
+62,109024,206,text-decoration,5
+62,109024,207,font-fg,0
+62,109024,208,marker-style,0
+62,109024,209,line-height,5
+62,109024,210,size,0
+62,109024,211,length,0
+62,109024,212,background-attachment,0
+62,109024,213,push,0
+62,109024,214,layer,0
+62,109024,215,bg-color,0
+62,109024,216,False,5
+62,109024,217,True,0
+62,109024,218,True,0
+62,109024,219,True,0
+62,109024,220,False,5
+63,764269,1,A class constructor,0
+63,764269,2,Inheriting properties from a parent class,0
+63,764269,3,The ability of a class to have multiple parent classes,0
+63,764269,4,The ability of a class to be instantiated,0
+63,764269,5,A method that destroys an instance of a class,0
+63,764269,6,A variable in a program,0
+63,764269,7,A variable that is independent of any class,0
+63,764269,8,A design technique to model is-a relationships,0
+63,764269,9,A method that cannot access class-level variables,0
+63,764269,10,Defining multiple methods with the same name but different parameters,5
+63,764269,11,Defining multiple methods with the same name but different parameters,0
+63,764269,12,A method that destroys an instance of a class,5
+63,764269,13,A function that is inherited from a parent class,0
+63,764269,14,A function that is defined in a base class and can be overridden by a subclass,5
+63,764269,15,A virtual function that is automatically called when an object is destroyed,0
+63,764269,16,False,5
+63,764269,17,False,5
+63,764269,18,False,5
+63,764269,19,False,5
+63,764269,20,False,5
+63,345678,81,An operating system,0
+63,345678,82,C++,0
+63,345678,83,All of the above,5
+63,345678,84,Sequential Query Language,0
+63,345678,85,Procedure,5
+63,345678,86,To enforce data integrity,0
+63,345678,87,DELETE,0
+63,345678,88,SERIALIZABLE,0
+63,345678,89,Unlimited,0
+63,345678,90,VARCHAR2,0
+63,345678,91,To create an index for faster searching,0
+63,345678,92,TRUNCATE,0
+63,345678,93,To delete records from a table,0
+63,345678,94,FOREIGN KEY,0
+63,345678,95,To delete records from a table,0
+63,345678,96,True,5
+63,345678,97,True,5
+63,345678,98,False,0
+63,345678,99,False,0
+63,345678,100,False,5
+63,765432,101,A web browser,0
+63,765432,102,They are not scalable,0
+63,765432,103,An operating system,0
+63,765432,104,It is a programming language,0
+63,765432,105,To optimize database performance,0
+63,765432,106,It is an operating system,0
+63,765432,107,A database management system,0
+63,765432,108,It is an infrastructure software,5
+63,765432,109,To manage web services,0
+63,765432,110,It is a database management system,0
+63,765432,111,An engineered system for running Oracle Database,5
+63,765432,112,They are a database management system,0
+63,765432,113,An operating system,0
+63,765432,114,It is an operating system,0
+63,765432,115,A database management system,0
+63,765432,116,True,0
+63,765432,117,False,0
+63,765432,118,False,0
+63,765432,119,True,5
+63,765432,120,False,0
+64,789012,241,User Interface,5
+64,789012,242,Feedback,5
+64,789012,243,To define the visual layout,0
+64,789012,244,The organization and structure of content,0
+64,789012,245,Analogous,0
+64,789012,246,A type of user interface element,0
+64,789012,247,To identify and fix visual design issues,0
+64,789012,248,Aesthetic Appeal,0
+64,789012,249,The ability to easily navigate a website,5
+64,789012,250,To define the visual and functional elements of a design,0
+64,789012,251,The ability to adapt to different screen sizes,0
+64,789012,252,To provide contact information,0
+64,789012,253,Conducting usability testing,0
+64,789012,254,Feedback,0
+64,789012,255,To generate design concepts,0
+64,789012,256,True,5
+64,789012,257,False,5
+64,789012,258,False,0
+64,789012,259,True,0
+64,789012,260,False,0
+64,987654,21,Mobile App Development,0
+64,987654,22,static,0
+64,987654,23,,0
+64,987654,24,decimal,5
+64,987654,25,None of the above,0
+64,987654,26,this,0
+64,987654,27,To create an instance of a class,0
+64,987654,28,Runtime Error,0
+64,987654,29,HashMap,0
+64,987654,30,Skips the current iteration of a loop,0
+64,987654,31,finally,0
+64,987654,32,A compiler,0
+64,987654,33,protected,0
+64,987654,34,To create an instance of a class,0
+64,987654,35,finally,0
+64,987654,36,False,5
+64,987654,37,True,0
+64,987654,38,True,0
+64,987654,39,True,0
+64,987654,40,False,5
+64,987652,181,Ctrl + X,0
+64,987652,182,Brush Tool,0
+64,987652,183,"Rotate, Gradient, Blur",0
+64,987652,184,JPEG,0
+64,987652,185,Image > Adjustments > Canvas Size,5
+64,987652,186,A technique for merging multiple layers into one,0
+64,987652,187,Pen Tool,0
+64,987652,188,To adjust the brightness and contrast of an image,5
+64,987652,189,Magic Wand Tool,5
+64,987652,190,To remove unwanted elements from an image,5
+64,987652,191,File > New > Layer,0
+64,987652,192,The sharpness of an image,0
+64,987652,193,Brush Tool,0
+64,987652,194,Layer > New Adjustment Layer > Levels,0
+64,987652,195,To select and sample colors from an image,5
+64,987652,196,True,0
+64,987652,197,False,5
+64,987652,198,True,0
+64,987652,199,True,0
+64,987652,200,True,0
+65,990465,261,A type of database,0
+65,990465,262,Microsoft,0
+65,990465,263,To play video games,0
+65,990465,264,Ruby,0
+65,990465,265,MapReduce,0
+65,990465,266,Data processing,5
+65,990465,267,To perform analytics,0
+65,990465,268,Structured data,5
+65,990465,269,Lower cost,5
+65,990465,270,Flume,0
+65,990465,271,Data visualization,0
+65,990465,272,Hive,0
+65,990465,273,Data encryption,0
+65,990465,274,Hive,0
+65,990465,275,Data visualization,0
+65,990465,276,False,5
+65,990465,277,False,5
+65,990465,278,False,5
+65,990465,279,True,0
+65,990465,280,False,5
+65,876543,61,Structured Query Language,0
+65,876543,62,UPDATE,0
+65,876543,63,A column that contains only numeric values,0
+65,876543,64,INSERT,0
+65,876543,65,Combines rows from two or more tables based on a related column between them,5
+65,876543,66,UPDATE,0
+65,876543,67,To limit the number of rows returned in a result set,0
+65,876543,68,DELETE,0
+65,876543,69,To filter the result set based on a specified condition,0
+65,876543,70,MAX(),0
+65,876543,71,To filter the result set based on a condition after the GROUP BY clause,5
+65,876543,72,OR,0
+65,876543,73,Updates existing data in a table,0
+65,876543,74,MAX(),0
+65,876543,75,To limit the number of rows returned in a result set,0
+65,876543,76,False,5
+65,876543,77,False,5
+65,876543,78,False,5
+65,876543,79,False,5
+65,876543,80,True,0
+66,654321,141,The core component of the Linux operating system,5
+66,654321,142,rm,0
+66,654321,143,Bash,5
+66,654321,144,date,5
+66,654321,145,To search for files and directories,0
+66,654321,146,top,0
+66,654321,147,To display the contents of a file,0
+66,654321,148,rm,5
+66,654321,149,To list directory contents,0
+66,654321,150,cd,0
+66,654321,151,To list the logged-in users,0
+66,654321,152,mv,0
+66,654321,153,To compress files into an archive,5
+66,654321,154,locate,0
+66,654321,155,To display the current date and time,0
+66,654321,156,True,5
+66,654321,157,False,0
+66,654321,158,True,5
+66,654321,159,True,5
+66,654321,160,True,0
+66,567890,161,Home Tool Markup Language,0
+66,567890,162,<dl>,0
+66,567890,163,,5
+66,567890,164,name,0
+66,567890,165,<a>,5
+66,567890,166,<tab>,0
+66,567890,167,<ul>,0
+66,567890,168,<header>,0
+66,567890,169,image,0
+66,567890,170,<para>,0
+66,567890,171,<img alt='image.jpg'>,0
+66,567890,172,dimension,0
+66,567890,173,<thead>,0
+66,567890,174,<input type='check'>,0
+66,567890,175,css,0
+66,567890,176,False,5
+66,567890,177,True,0
+66,567890,178,True,0
+66,567890,179,True,0
+66,567890,180,True,0
+67,128979,281,Minimizing the impact of cyberattacks,5
+67,128979,282,password123,0
+67,128979,283,Tricking people into revealing sensitive information,0
+67,128979,284,Secures communication over the internet,5
+67,128979,285,Monitors network traffic and filters out unauthorized access,5
+67,128979,286,Security questions,5
+67,128979,287,Blocking malicious websites,0
+67,128979,288,Gaining unauthorized access to a network,0
+67,128979,289,Manipulating people into revealing confidential information,5
+67,128979,290,Analyzing software code for bugs,0
+67,128979,291,Defining rules and guidelines for securing information and resources,5
+67,128979,292,Worm,0
+67,128979,293,Encrypting data for secure transmission,0
+67,128979,294,Encrypting sensitive files on a computer,0
+67,128979,295,Prevents physical access to a computer,0
+67,128979,296,False,5
+67,128979,297,True,0
+67,128979,298,True,0
+67,128979,299,False,5
+67,128979,300,True,0
+67,109024,201,Computer Style Sheets,0
+67,109024,202,background-color,5
+67,109024,203,font-size,5
+67,109024,204,spacing,0
+67,109024,205,text-weight,0
+67,109024,206,text-decoration,5
+67,109024,207,text-color,0
+67,109024,208,marker-style,0
+67,109024,209,line-height,5
+67,109024,210,width,5
+67,109024,211,length,0
+67,109024,212,background-attachment,0
+67,109024,213,push,0
+67,109024,214,layer,0
+67,109024,215,bg-color,0
+67,109024,216,True,0
+67,109024,217,False,5
+67,109024,218,False,5
+67,109024,219,True,0
+67,109024,220,True,0
+67,345678,81,An operating system,0
+67,345678,82,SQL,5
+67,345678,83,Data encryption,0
+67,345678,84,Sequential Query Language,0
+67,345678,85,Index,0
+67,345678,86,To store database records,0
+67,345678,87,DELETE,0
+67,345678,88,REPEATABLE READ,0
+67,345678,89,Unlimited,0
+67,345678,90,BOOLEAN,5
+67,345678,91,To enforce data integrity constraints,0
+67,345678,92,ALTER,0
+67,345678,93,To save changes made to the database,5
+67,345678,94,INDEX,5
+67,345678,95,To delete records from a table,0
+67,345678,96,True,5
+67,345678,97,False,0
+67,345678,98,True,5
+67,345678,99,True,5
+67,345678,100,True,0
+68,456789,121,A web framework,0
+68,456789,122,Automatic memory management,0
+68,456789,123,To create web applications,0
+68,456789,124,To backup and restore data,0
+68,456789,125,It is a two-tier architecture,0
+68,456789,126,It provquestion_ides data encryption,0
+68,456789,127,Constraints,0
+68,456789,128,To store temporary data,0
+68,456789,129,Oracle Forms,0
+68,456789,130,To design user interfaces,0
+68,456789,131,SGA and PGA both,5
+68,456789,132,To enforce referential integrity,0
+68,456789,133,Triggers,0
+68,456789,134,To enforce data integrity,0
+68,456789,135,Datafiles,5
+68,456789,136,False,5
+68,456789,137,True,5
+68,456789,138,True,5
+68,456789,139,False,5
+68,456789,140,True,0
+68,765432,101,An operating system,0
+68,765432,102,They can only be accessed locally,0
+68,765432,103,A programming language,5
+68,765432,104,It is a web server,5
+68,765432,105,To secure and back up data,5
+68,765432,106,It is a programming language,0
+68,765432,107,An integrated development environment,5
+68,765432,108,It is a programming language,0
+68,765432,109,To manage web services,0
+68,765432,110,It is a hardware and software bundle,5
+68,765432,111,An operating system,0
+68,765432,112,They are an operating system,0
+68,765432,113,A clustering database technology,5
+68,765432,114,It is a database management system,0
+68,765432,115,An operating system,0
+68,765432,116,True,0
+68,765432,117,True,5
+68,765432,118,True,5
+68,765432,119,True,5
+68,765432,120,True,5
+68,119002,221,A database management system,0
+68,119002,222,Python,0
+68,119002,223,Angular 9,0
+68,119002,224,To write CSS code,0
+68,119002,225,A reusable piece of UI,5
+68,119002,226,A type of authentication,0
+68,119002,227,To create animations,0
+68,119002,228,For creating forms,0
+68,119002,229,A type of animation,0
+68,119002,230,To fetch data from a server,0
+68,119002,231,To handle events,0
+68,119002,232,A way to create custom HTML elements,0
+68,119002,233,A type of authentication,0
+68,119002,234,A type of testing,0
+68,119002,235,To create animations,0
+68,119002,236,False,5
+68,119002,237,True,0
+68,119002,238,True,0
+68,119002,239,True,0
+68,119002,240,True,0
+69,876543,61,Search Query Language,5
+69,876543,62,INSERT,0
+69,876543,63,A column that is used to sort the data in a table,0
+69,876543,64,INSERT,0
+69,876543,65,Updates existing data in a table,0
+69,876543,66,DELETE,5
+69,876543,67,To sort the result set in ascending or descending order,5
+69,876543,68,INSERT,0
+69,876543,69,To group rows based on a specified column,5
+69,876543,70,COUNT(),0
+69,876543,71,To filter the result set based on a condition before the GROUP BY clause,0
+69,876543,72,AND,5
+69,876543,73,Deletes all data from a table,0
+69,876543,74,MAX(),0
+69,876543,75,To join multiple tables together,0
+69,876543,76,True,0
+69,876543,77,True,0
+69,876543,78,True,0
+69,876543,79,True,0
+69,876543,80,False,5
+69,764269,1,A function in a class,0
+69,764269,2,Creating multiple instances of a class,0
+69,764269,3,The ability of a class to inherit properties and behavior from another class,5
+69,764269,4,The ability of a class to override methods,0
+69,764269,5,A method that is used to update class properties,0
+69,764269,6,A variable in a program,0
+69,764269,7,A function that is independent of any class,0
+69,764269,8,A design technique to create multiple instances of a class,0
+69,764269,9,A method that cannot access instance-level variables,0
+69,764269,10,Defining multiple methods with different names,0
+69,764269,11,Defining a method inside another method,0
+69,764269,12,A method that destroys an instance of a class,5
+69,764269,13,A function that is defined inside a class,0
+69,764269,14,A function that is defined in a base class and can be overridden by a subclass,5
+69,764269,15,A virtual function that is automatically called when an object is destroyed,0
+69,764269,16,True,0
+69,764269,17,True,0
+69,764269,18,True,0
+69,764269,19,False,5
+69,764269,20,False,5
+69,987654,21,General-purpose Programming,5
+69,987654,22,static,0
+69,987654,23,,0
+69,987654,24,float,0
+69,987654,25,10,0
+69,987654,26,extends,5
+69,987654,27,To prevent inheritance,0
+69,987654,28,True,5
+69,987654,29,HashMap,0
+69,987654,30,Exits the loop or switch statement,5
+69,987654,31,finally,0
+69,987654,32,A hardware component,0
+69,987654,33,private,0
+69,987654,34,To create an instance of a class,0
+69,987654,35,finally,0
+69,987654,36,False,5
+69,987654,37,False,5
+69,987654,38,True,0
+69,987654,39,True,0
+69,987654,40,False,5
+70,234567,41,5 6,0
+70,234567,42,constant,5
+70,234567,43,8,0
+70,234567,44,Depends on the compiler,0
+70,234567,45,Deallocate memory,0
+70,234567,46,2 bytes,0
+70,234567,47,3,0
+70,234567,48,int* ptr;,5
+70,234567,49,-,5
+70,234567,50,2 2,0
+70,234567,51,<conio.h>,0
+70,234567,52,None of the above,0
+70,234567,53,None of the above,0
+70,234567,54,for loop,5
+70,234567,55,65,5
+70,234567,56,False,5
+70,234567,57,False,5
+70,234567,58,True,0
+70,234567,59,True,0
+70,234567,60,False,5
+70,990465,261,A type of database,0
+70,990465,262,Yahoo,5
+70,990465,263,To browse the internet,0
+70,990465,264,C++,0
+70,990465,265,Hive,0
+70,990465,266,Data visualization,0
+70,990465,267,To store and retrieve data,0
+70,990465,268,Images,0
+70,990465,269,Limited scalability,0
+70,990465,270,Hive,5
+70,990465,271,Data visualization,0
+70,990465,272,Pig,0
+70,990465,273,Data storage,0
+70,990465,274,Hive,0
+70,990465,275,Data encryption,0
+70,990465,276,False,5
+70,990465,277,False,5
+70,990465,278,False,5
+70,990465,279,False,5
+70,990465,280,False,5
+71,119002,221,A framework for building web applications,5
+71,119002,222,C#,0
+71,119002,223,Angular 8,0
+71,119002,224,To write CSS code,0
+71,119002,225,A database table,0
+71,119002,226,A type of authentication,0
+71,119002,227,To manage shared data or logic,5
+71,119002,228,For fetching data from a server,0
+71,119002,229,A form of testing in Angular,0
+71,119002,230,To define routes,0
+71,119002,231,To define routes,0
+71,119002,232,A way to create custom HTML elements,0
+71,119002,233,A way to handle asynchronous code,0
+71,119002,234,A method for handling errors,0
+71,119002,235,To define routes,0
+71,119002,236,False,5
+71,119002,237,False,5
+71,119002,238,False,5
+71,119002,239,False,5
+71,119002,240,False,5
+71,128979,281,Preventing all cyberattacks,0
+71,128979,282,SecurePassword123!,5
+71,128979,283,Installing malware on a computer,5
+71,128979,284,Protects against viruses,0
+71,128979,285,Encrypts data in transit,0
+71,128979,286,Username and password,0
+71,128979,287,Hiding a computer's IP address,5
+71,128979,288,Gaining unauthorized access to a network,0
+71,128979,289,Using advanced algorithms to predict social behavior,0
+71,128979,290,Analyzing software code for bugs,0
+71,128979,291,Creating backup copies of sensitive data,0
+71,128979,292,Spyware,0
+71,128979,293,Encrypting data for secure transmission,0
+71,128979,294,Outlining steps to take in the event of a security breach,5
+71,128979,295,Encrypts data for secure transmission,0
+71,128979,296,True,0
+71,128979,297,True,0
+71,128979,298,True,0
+71,128979,299,False,5
+71,128979,300,False,5
+72,987652,181,Ctrl + Y,0
+72,987652,182,Eraser Tool,0
+72,987652,183,"Resize, Gamma, Brightness",0
+72,987652,184,GIF,5
+72,987652,185,Image > Adjustments > Canvas Size,5
+72,987652,186,A tool for cropping images,0
+72,987652,187,Pen Tool,0
+72,987652,188,To change the color temperature of an image,0
+72,987652,189,Lasso Tool,0
+72,987652,190,To apply artistic filters to an image,0
+72,987652,191,Image > Adjustments > Brightness/Contrast,0
+72,987652,192,The sharpness of an image,0
+72,987652,193,Gradient Tool,0
+72,987652,194,Image > Adjustments > Brightness/Contrast,0
+72,987652,195,To measure the size of an image,0
+72,987652,196,False,5
+72,987652,197,False,5
+72,987652,198,False,5
+72,987652,199,False,5
+72,987652,200,False,5
+72,789012,241,User Input,0
+72,789012,242,Feedback,5
+72,789012,243,To define the visual layout,0
+72,789012,244,The process of gathering user feedback,5
+72,789012,245,Complementary,0
+72,789012,246,A type of wireframe,5
+72,789012,247,To evaluate the effectiveness of a design with real users,0
+72,789012,248,User Flow,0
+72,789012,249,The visual appearance of a user interface element,0
+72,789012,250,To showcase design concepts to clients,5
+72,789012,251,The ease of use for people with disabilities,0
+72,789012,252,To navigate to the homepage,0
+72,789012,253,Conducting usability testing,0
+72,789012,254,Feedback,0
+72,789012,255,To conduct user interviews,5
+72,789012,256,True,5
+72,789012,257,False,5
+72,789012,258,True,5
+72,789012,259,False,5
+72,789012,260,True,5
+73,567890,161,Home Tool Markup Language,0
+73,567890,162,<li>,0
+73,567890,163,<newline>,0
+73,567890,164,class,0
+73,567890,165,<link>,0
+73,567890,166,<tbl>,0
+73,567890,167,<list>,0
+73,567890,168,<title>,5
+73,567890,169,src,0
+73,567890,170,<p>,5
+73,567890,171,<img alt='image.jpg'>,0
+73,567890,172,width,5
+73,567890,173,<thead>,0
+73,567890,174,<input type='check'>,0
+73,567890,175,inline,0
+73,567890,176,False,5
+73,567890,177,True,0
+73,567890,178,False,5
+73,567890,179,False,5
+73,567890,180,False,5
+73,456789,121,An operating system,0
+73,456789,122,Automatic memory management,0
+73,456789,123,To create web applications,0
+73,456789,124,To synchronize data across multiple databases,5
+73,456789,125,It is a two-tier architecture,0
+73,456789,126,It enforces referential integrity,0
+73,456789,127,Constraints,0
+73,456789,128,To implement data valquestion_idation rules,0
+73,456789,129,Oracle Reports,0
+73,456789,130,To perform system testing,0
+73,456789,131,SGA and PGA both,5
+73,456789,132,To enforce referential integrity,0
+73,456789,133,Indexes,0
+73,456789,134,To manage data concurrency,0
+73,456789,135,Control files,0
+73,456789,136,True,0
+73,456789,137,False,0
+73,456789,138,False,0
+73,456789,139,True,0
+73,456789,140,True,0
+74,345678,81,A database management system,0
+74,345678,82,C++,0
+74,345678,83,Data encryption,0
+74,345678,84,System Query Language,0
+74,345678,85,Procedure,5
+74,345678,86,To improve query performance,5
+74,345678,87,DELETE,0
+74,345678,88,SERIALIZABLE,0
+74,345678,89,4000,5
+74,345678,90,DATE,0
+74,345678,91,To enforce data integrity constraints,0
+74,345678,92,TRUNCATE,0
+74,345678,93,To update the schema definition,0
+74,345678,94,FOREIGN KEY,0
+74,345678,95,To update the schema definition,0
+74,345678,96,False,0
+74,345678,97,True,5
+74,345678,98,False,0
+74,345678,99,False,0
+74,345678,100,True,0
+74,654321,141,The core component of the Linux operating system,5
+74,654321,142,ls,0
+74,654321,143,Zsh,0
+74,654321,144,date,5
+74,654321,145,To compress files into an archive,0
+74,654321,146,ls,0
+74,654321,147,To search for files and directories,0
+74,654321,148,rm,5
+74,654321,149,To display network interface configuration,5
+74,654321,150,mv,0
+74,654321,151,To display the current user,0
+74,654321,152,pwd,0
+74,654321,153,To change file permissions,0
+74,654321,154,find,5
+74,654321,155,To print text or variables,5
+74,654321,156,False,0
+74,654321,157,False,0
+74,654321,158,True,5
+74,654321,159,False,0
+74,654321,160,True,0
+74,990465,261,A programming language,0
+74,990465,262,Yahoo,5
+74,990465,263,To send emails,0
+74,990465,264,Ruby,0
+74,990465,265,Hadoop Distributed File System (HDFS),5
+74,990465,266,Data processing,5
+74,990465,267,To perform analytics,0
+74,990465,268,Audio files,0
+74,990465,269,Lower cost,5
+74,990465,270,Flume,0
+74,990465,271,Data encryption,0
+74,990465,272,Pig,0
+74,990465,273,Data warehousing,5
+74,990465,274,Sqoop,0
+74,990465,275,Data visualization,0
+74,990465,276,False,5
+74,990465,277,False,5
+74,990465,278,True,0
+74,990465,279,True,0
+74,990465,280,True,0
+75,765432,101,A database management system,5
+75,765432,102,They support relational database management,5
+75,765432,103,An operating system,0
+75,765432,104,It is an operating system,0
+75,765432,105,To manage web services,0
+75,765432,106,It is an operating system,0
+75,765432,107,A web browser,0
+75,765432,108,It is an infrastructure software,5
+75,765432,109,To manage web services,0
+75,765432,110,It is a programming language,0
+75,765432,111,A programming language,0
+75,765432,112,They are an operating system,0
+75,765432,113,A database management system,0
+75,765432,114,It is a comprehensive management solution,5
+75,765432,115,An operating system,0
+75,765432,116,True,0
+75,765432,117,True,5
+75,765432,118,True,5
+75,765432,119,False,0
+75,765432,120,True,5
+75,234567,41,6 6,0
+75,234567,42,register,0
+75,234567,43,4,5
+75,234567,44,Depends on the compiler,0
+75,234567,45,Deallocate memory,0
+75,234567,46,4 bytes,0
+75,234567,47,True,0
+75,234567,48,int ptr;,0
+75,234567,49,+,0
+75,234567,50,2 2,0
+75,234567,51,<stdlib.h>,0
+75,234567,52,11,5
+75,234567,53,To ignore errors in cin,0
+75,234567,54,for loop,5
+75,234567,55,Compiler Error,0
+75,234567,56,False,5
+75,234567,57,True,0
+75,234567,58,True,0
+75,234567,59,False,5
+75,234567,60,False,5
+75,109024,201,Computer Style Sheets,0
+75,109024,202,background,0
+75,109024,203,text-style,0
+75,109024,204,spacing,0
+75,109024,205,bold,0
+75,109024,206,decoration,0
+75,109024,207,color,5
+75,109024,208,marker-style,0
+75,109024,209,line-spacing,0
+75,109024,210,height,0
+75,109024,211,width,0
+75,109024,212,background-image,5
+75,109024,213,align,0
+75,109024,214,top-index,0
+75,109024,215,background-color,5
+75,109024,216,False,5
+75,109024,217,False,5
+75,109024,218,False,5
+75,109024,219,True,0
+75,109024,220,False,5
+76,764269,1,A variable in a class,0
+76,764269,2,Creating multiple instances of a class,0
+76,764269,3,The ability of a class to inherit properties and behavior from another class,5
+76,764269,4,The ability of a class to have multiple forms or behaviors,5
+76,764269,5,A method that creates an instance of a class,5
+76,764269,6,A blueprint for creating objects,5
+76,764269,7,A variable that is independent of any class,0
+76,764269,8,A design technique to create multiple instances of a class,0
+76,764269,9,A method that can be called without an instance of the class,5
+76,764269,10,Defining multiple methods with the same name and same parameters,0
+76,764269,11,Defining a method inside another method,0
+76,764269,12,A method that is inherited from a parent class,0
+76,764269,13,A function that can access private members of a class,5
+76,764269,14,A function that can access private members of a class,0
+76,764269,15,A virtual function that is not implemented in the base class,5
+76,764269,16,False,5
+76,764269,17,True,0
+76,764269,18,False,5
+76,764269,19,False,5
+76,764269,20,True,0
+76,987654,21,Game Development,0
+76,987654,22,private,0
+76,987654,23,False,0
+76,987654,24,int,0
+76,987654,25,11,5
+76,987654,26,extends,5
+76,987654,27,To create an instance of a class,0
+76,987654,28,Runtime Error,0
+76,987654,29,HashMap,0
+76,987654,30,Exits the loop or switch statement,5
+76,987654,31,throw,0
+76,987654,32,A hardware component,0
+76,987654,33,package,5
+76,987654,34,To create an instance of a class,0
+76,987654,35,throw,5
+76,987654,36,True,0
+76,987654,37,False,5
+76,987654,38,True,0
+76,987654,39,True,0
+76,987654,40,False,5
+76,128979,281,Preventing all cyberattacks,0
+76,128979,282,SecurePassword123!,5
+76,128979,283,Tricking people into revealing sensitive information,0
+76,128979,284,Secures communication over the internet,5
+76,128979,285,Prevents software from being installed,0
+76,128979,286,Username and password,0
+76,128979,287,Hiding a computer's IP address,5
+76,128979,288,Gaining unauthorized access to a network,0
+76,128979,289,Using advanced algorithms to predict social behavior,0
+76,128979,290,Evaluating and assessing security measures and policies,5
+76,128979,291,Creating backup copies of sensitive data,0
+76,128979,292,Trojan horse,0
+76,128979,293,Scanning for viruses on a computer,0
+76,128979,294,Preventing unauthorized access to a network,0
+76,128979,295,Encrypts data for secure transmission,0
+76,128979,296,False,5
+76,128979,297,False,5
+76,128979,298,False,5
+76,128979,299,False,5
+76,128979,300,False,5
+77,876543,61,Structured Question Language,0
+77,876543,62,UPDATE,0
+77,876543,63,A column that uniquely identifies each row in a table,0
+77,876543,64,INSERT,0
+77,876543,65,Deletes all data from a table,0
+77,876543,66,UPDATE,0
+77,876543,67,To limit the number of rows returned in a result set,0
+77,876543,68,UPDATE,5
+77,876543,69,To join multiple tables together,0
+77,876543,70,SUM(),0
+77,876543,71,To filter the result set based on a condition before the GROUP BY clause,0
+77,876543,72,NOT,0
+77,876543,73,Returns only unique values from a specified column,5
+77,876543,74,AVG(),0
+77,876543,75,To group rows based on a specified column,0
+77,876543,76,False,5
+77,876543,77,True,0
+77,876543,78,False,5
+77,876543,79,True,0
+77,876543,80,False,5
+77,567890,161,Home Tool Markup Language,0
+77,567890,162,<dl>,0
+77,567890,163,<newline>,0
+77,567890,164,id,5
+77,567890,165,<link>,0
+77,567890,166,<tab>,0
+77,567890,167,<ol>,5
+77,567890,168,<title>,5
+77,567890,169,src,0
+77,567890,170,<para>,0
+77,567890,171,<image alt='image.jpg'>,0
+77,567890,172,length,0
+77,567890,173,<thead>,0
+77,567890,174,<input type='check'>,0
+77,567890,175,inline,0
+77,567890,176,False,5
+77,567890,177,False,5
+77,567890,178,False,5
+77,567890,179,False,5
+77,567890,180,True,0
+77,987652,181,Ctrl + C,0
+77,987652,182,Eraser Tool,0
+77,987652,183,"Red, Green, Blue",5
+77,987652,184,GIF,5
+77,987652,185,Layer > New > Layer,0
+77,987652,186,A tool for cropping images,0
+77,987652,187,Healing Brush Tool,5
+77,987652,188,To create custom brushes,0
+77,987652,189,Quick Selection Tool,0
+77,987652,190,To add text to an image,0
+77,987652,191,Layer > Duplicate Layer,5
+77,987652,192,The size of a brush,0
+77,987652,193,Crop Tool,0
+77,987652,194,Filter > Blur > Gaussian Blur,5
+77,987652,195,To measure the size of an image,0
+77,987652,196,False,5
+77,987652,197,False,5
+77,987652,198,True,0
+77,987652,199,False,5
+77,987652,200,True,0
+77,789012,241,User Interface,5
+77,789012,242,Accessibility,0
+77,789012,243,To create a high-fidelity prototype,0
+77,789012,244,The study of user behavior,0
+77,789012,245,Analogous,0
+77,789012,246,A type of wireframe,5
+77,789012,247,To conduct competitor analysis,0
+77,789012,248,Aesthetic Appeal,0
+77,789012,249,The arrangement of elements on a page,0
+77,789012,250,To define the visual and functional elements of a design,0
+77,789012,251,The ease of use for people with disabilities,0
+77,789012,252,To navigate to the homepage,0
+77,789012,253,Gathering data to understand user behavior and needs,0
+77,789012,254,Feedback,0
+77,789012,255,To generate design concepts,0
+77,789012,256,True,5
+77,789012,257,True,0
+77,789012,258,False,0
+77,789012,259,True,0
+77,789012,260,True,5
+77,119002,221,A programming language,0
+77,119002,222,TypeScript,5
+77,119002,223,Angular 10,5
+77,119002,224,To generate a new Angular project,5
+77,119002,225,A type of service,0
+77,119002,226,A type of authentication,0
+77,119002,227,To style the application,0
+77,119002,228,For handling navigation and routing,5
+77,119002,229,A library for building UI components,5
+77,119002,230,To handle user input and perform two-way data binding,5
+77,119002,231,To define routes,0
+77,119002,232,A way to create custom HTML elements,0
+77,119002,233,A type of authentication,0
+77,119002,234,A type of testing,0
+77,119002,235,To initialize data or logic in a component,5
+77,119002,236,True,0
+77,119002,237,False,5
+77,119002,238,True,0
+77,119002,239,True,0
+77,119002,240,False,5
+78,456789,121,A database management system,5
+78,456789,122,Data encryption,0
+78,456789,123,To manage database security,0
+78,456789,124,To synchronize data across multiple databases,5
+78,456789,125,It is a four-tier architecture,0
+78,456789,126,It ensures data integrity,5
+78,456789,127,Triggers,0
+78,456789,128,To store temporary data,0
+78,456789,129,Oracle Reports,0
+78,456789,130,To design user interfaces,0
+78,456789,131,SGA (System Global Area),0
+78,456789,132,To perform automatic data backups,0
+78,456789,133,Constraints,0
+78,456789,134,To manage data concurrency,0
+78,456789,135,Datafiles,5
+78,456789,136,True,0
+78,456789,137,True,5
+78,456789,138,True,5
+78,456789,139,True,0
+78,456789,140,True,0
+78,234567,41,6 6,0
+78,234567,42,constant,5
+78,234567,43,8,0
+78,234567,44,Zero,0
+78,234567,45,None of the above,0
+78,234567,46,2 bytes,0
+78,234567,47,True,0
+78,234567,48,int ptr;,0
+78,234567,49,+,0
+78,234567,50,2.5 2.5,0
+78,234567,51,<stdlib.h>,0
+78,234567,52,16,0
+78,234567,53,None of the above,0
+78,234567,54,do-while loop,0
+78,234567,55,66,0
+78,234567,56,False,5
+78,234567,57,True,0
+78,234567,58,True,0
+78,234567,59,True,0
+78,234567,60,True,0
+78,765432,101,A database management system,5
+78,765432,102,They support relational database management,5
+78,765432,103,A database management system,0
+78,765432,104,It is an operating system,0
+78,765432,105,To manage web services,0
+78,765432,106,It is a database management system,0
+78,765432,107,A database management system,0
+78,765432,108,It is a database management system,0
+78,765432,109,To enable real-time data integration,5
+78,765432,110,It is a programming language,0
+78,765432,111,A programming language,0
+78,765432,112,They are a database management system,0
+78,765432,113,A database management system,0
+78,765432,114,It is a database management system,0
+78,765432,115,An operating system,0
+78,765432,116,False,5
+78,765432,117,True,5
+78,765432,118,True,5
+78,765432,119,True,5
+78,765432,120,True,5
+78,990465,261,A programming language,0
+78,990465,262,Google,0
+78,990465,263,To play video games,0
+78,990465,264,Python,0
+78,990465,265,YARN,0
+78,990465,266,Data storage,0
+78,990465,267,To perform analytics,0
+78,990465,268,Audio files,0
+78,990465,269,Lower cost,5
+78,990465,270,Flume,0
+78,990465,271,Data encryption,0
+78,990465,272,Sqoop,5
+78,990465,273,Data storage,0
+78,990465,274,Sqoop,0
+78,990465,275,Data encryption,0
+78,990465,276,False,5
+78,990465,277,False,5
+78,990465,278,True,0
+78,990465,279,False,5
+78,990465,280,True,0
+79,654321,141,The graphical user interface of Linux,0
+79,654321,142,ls,0
+79,654321,143,Fish,0
+79,654321,144,time,0
+79,654321,145,To search for files and directories,0
+79,654321,146,kill,0
+79,654321,147,To compress files into an archive,0
+79,654321,148,rm,5
+79,654321,149,To manage user accounts,0
+79,654321,150,mv,0
+79,654321,151,To display the system information,5
+79,654321,152,cd,5
+79,654321,153,To search for files and directories,0
+79,654321,154,grep,0
+79,654321,155,To create a new file,0
+79,654321,156,False,0
+79,654321,157,False,0
+79,654321,158,False,0
+79,654321,159,False,0
+79,654321,160,True,0
+79,345678,81,A web browser,0
+79,345678,82,Python,0
+79,345678,83,Concurrency control,0
+79,345678,84,Structured Query Language,5
+79,345678,85,Procedure,5
+79,345678,86,To store database records,0
+79,345678,87,INSERT,5
+79,345678,88,REPEATABLE READ,0
+79,345678,89,255,0
+79,345678,90,NUMBER,0
+79,345678,91,To define a relationship between two tables,5
+79,345678,92,DROP,0
+79,345678,93,To roll back a transaction,0
+79,345678,94,FOREIGN KEY,0
+79,345678,95,To save changes made to the database,0
+79,345678,96,True,5
+79,345678,97,False,0
+79,345678,98,True,5
+79,345678,99,False,0
+79,345678,100,False,5
+79,109024,201,Colorful Style Sheets,0
+79,109024,202,color,0
+79,109024,203,text-style,0
+79,109024,204,padding,0
+79,109024,205,font-weight,5
+79,109024,206,text-underline,0
+79,109024,207,color,5
+79,109024,208,marker-style,0
+79,109024,209,text-spacing,0
+79,109024,210,height,0
+79,109024,211,size,0
+79,109024,212,background-fixed,0
+79,109024,213,side,0
+79,109024,214,z-index,5
+79,109024,215,background-color,5
+79,109024,216,False,5
+79,109024,217,True,0
+79,109024,218,False,5
+79,109024,219,False,5
+79,109024,220,True,0
+79,119002,221,A framework for building web applications,5
+79,119002,222,Python,0
+79,119002,223,Angular 10,5
+79,119002,224,To create animations,0
+79,119002,225,A database table,0
+79,119002,226,A type of authentication,0
+79,119002,227,To define routes,0
+79,119002,228,For handling navigation and routing,5
+79,119002,229,A built-in data storage system,0
+79,119002,230,To handle user input and perform two-way data binding,5
+79,119002,231,To define routes,0
+79,119002,232,A way to create custom HTML elements,0
+79,119002,233,A type of authentication,0
+79,119002,234,Ahead-of-Time compilation: A way to compile the application before it is deployed,5
+79,119002,235,To define routes,0
+79,119002,236,True,0
+79,119002,237,False,5
+79,119002,238,False,5
+79,119002,239,True,0
+79,119002,240,False,5
+80,987652,181,Ctrl + Z,5
+80,987652,182,Eraser Tool,0
+80,987652,183,"Red, Green, Blue",5
+80,987652,184,GIF,5
+80,987652,185,Edit > Transform > Scale,0
+80,987652,186,A technique for merging multiple layers into one,0
+80,987652,187,Dodge Tool,0
+80,987652,188,To create custom brushes,0
+80,987652,189,Lasso Tool,0
+80,987652,190,To add text to an image,0
+80,987652,191,Layer > Duplicate Layer,5
+80,987652,192,The transparency of a layer or tool,5
+80,987652,193,Brush Tool,0
+80,987652,194,Edit > Transform > Scale,0
+80,987652,195,To create custom gradients,0
+80,987652,196,True,0
+80,987652,197,True,0
+80,987652,198,False,5
+80,987652,199,False,5
+80,987652,200,True,0
+80,764269,1,A class constructor,0
+80,764269,2,Creating multiple instances of a class,0
+80,764269,3,The ability of a class to have multiple parent classes,0
+80,764269,4,The ability of a class to be instantiated,0
+80,764269,5,A method that destroys an instance of a class,0
+80,764269,6,A blueprint for creating objects,5
+80,764269,7,A function that is independent of any class,0
+80,764269,8,A design technique to create parent-child relationships,0
+80,764269,9,A method that can only be called by a subclass,0
+80,764269,10,Defining multiple methods with different names,0
+80,764269,11,Providing a new implementation for a method inherited from a parent class,5
+80,764269,12,A method that creates an instance of a class,0
+80,764269,13,A function that can access private members of a class,5
+80,764269,14,A function that can access private members of a class,0
+80,764269,15,A virtual function that is not implemented in the base class,5
+80,764269,16,True,0
+80,764269,17,True,0
+80,764269,18,True,0
+80,764269,19,False,5
+80,764269,20,True,0
+80,128979,281,Minimizing the impact of cyberattacks,5
+80,128979,282,123456,0
+80,128979,283,Installing malware on a computer,5
+80,128979,284,Blocks unauthorized access to a network,0
+80,128979,285,Blocks physical access to a computer,0
+80,128979,286,Fingerprint and facial recognition,0
+80,128979,287,Securing physical access to a building,0
+80,128979,288,Gaining unauthorized access to a network,0
+80,128979,289,Manipulating people into revealing confidential information,5
+80,128979,290,Analyzing software code for bugs,0
+80,128979,291,Creating backup copies of sensitive data,0
+80,128979,292,Spyware,0
+80,128979,293,Assessing physical security measures,0
+80,128979,294,Outlining steps to take in the event of a security breach,5
+80,128979,295,Monitors and filters incoming and outgoing network traffic,5
+80,128979,296,False,5
+80,128979,297,True,0
+80,128979,298,False,5
+80,128979,299,True,0
+80,128979,300,False,5
+80,876543,61,Structured Query Language,0
+80,876543,62,DELETE,5
+80,876543,63,A column that is used to sort the data in a table,0
+80,876543,64,DELETE,0
+80,876543,65,Inserts new data into a table,0
+80,876543,66,DELETE,5
+80,876543,67,To limit the number of rows returned in a result set,0
+80,876543,68,SELECT,0
+80,876543,69,To limit the number of rows returned in a result set,0
+80,876543,70,COUNT(),0
+80,876543,71,To filter the result set based on a condition after the GROUP BY clause,5
+80,876543,72,NOT,0
+80,876543,73,Deletes all data from a table,0
+80,876543,74,SUM(),0
+80,876543,75,To group rows based on a specified column,0
+80,876543,76,False,5
+80,876543,77,False,5
+80,876543,78,False,5
+80,876543,79,True,0
+80,876543,80,False,5
+81,789012,241,Unified Interface,0
+81,789012,242,Feedback,5
+81,789012,243,To showcase final design to clients,0
+81,789012,244,The organization and structure of content,0
+81,789012,245,Triadic,0
+81,789012,246,A type of wireframe,5
+81,789012,247,To identify and fix visual design issues,0
+81,789012,248,Functionality,5
+81,789012,249,The visual appearance of a user interface element,0
+81,789012,250,To showcase design concepts to clients,5
+81,789012,251,The ability to adapt to different screen sizes,0
+81,789012,252,To display advertisements,5
+81,789012,253,Gathering data to understand user behavior and needs,0
+81,789012,254,Simplicity,0
+81,789012,255,To conduct user interviews,5
+81,789012,256,False,0
+81,789012,257,True,0
+81,789012,258,False,0
+81,789012,259,False,5
+81,789012,260,True,5
+81,990465,261,A web browser,0
+81,990465,262,Facebook,0
+81,990465,263,To play video games,0
+81,990465,264,Ruby,0
+81,990465,265,Hive,0
+81,990465,266,Data encryption,0
+81,990465,267,To store and retrieve data,0
+81,990465,268,Images,0
+81,990465,269,Inability to handle large volumes of data,0
+81,990465,270,Hive,5
+81,990465,271,Data storage,0
+81,990465,272,Pig,0
+81,990465,273,Data warehousing,5
+81,990465,274,Hive,0
+81,990465,275,Data processing,5
+81,990465,276,True,0
+81,990465,277,True,0
+81,990465,278,True,0
+81,990465,279,True,0
+81,990465,280,False,5
+81,567890,161,Hyper Text Markup Language,5
+81,567890,162,<li>,0
+81,567890,163,<newline>,0
+81,567890,164,name,0
+81,567890,165,<hyperlink>,0
+81,567890,166,<tr>,0
+81,567890,167,<list>,0
+81,567890,168,<header>,0
+81,567890,169,image,0
+81,567890,170,<p>,5
+81,567890,171,<img src='image.jpg'>,5
+81,567890,172,width,5
+81,567890,173,<thead>,0
+81,567890,174,<checkbox>,0
+81,567890,175,css,0
+81,567890,176,True,0
+81,567890,177,False,5
+81,567890,178,False,5
+81,567890,179,True,0
+81,567890,180,False,5
+82,234567,41,6 7,5
+82,234567,42,register,0
+82,234567,43,4,5
+82,234567,44,Zero,0
+82,234567,45,Deallocate memory,0
+82,234567,46,4 bytes,0
+82,234567,47,2,0
+82,234567,48,Both A and C,0
+82,234567,49,*,0
+82,234567,50,2 2,0
+82,234567,51,<iostream>,5
+82,234567,52,10,0
+82,234567,53,None of the above,0
+82,234567,54,do-while loop,0
+82,234567,55,65,5
+82,234567,56,True,0
+82,234567,57,False,5
+82,234567,58,False,5
+82,234567,59,True,0
+82,234567,60,True,0
+82,456789,121,An operating system,0
+82,456789,122,Automatic memory management,0
+82,456789,123,To write stored procedures and functions,5
+82,456789,124,To backup and restore data,0
+82,456789,125,It is a four-tier architecture,0
+82,456789,126,It allows for efficient data retrieval,0
+82,456789,127,Constraints,0
+82,456789,128,To generate unique numbers,5
+82,456789,129,Oracle Forms,0
+82,456789,130,To perform system testing,0
+82,456789,131,SGA and PGA both,5
+82,456789,132,To generate reports,0
+82,456789,133,Triggers,0
+82,456789,134,To enforce data integrity,0
+82,456789,135,Control files,0
+82,456789,136,False,5
+82,456789,137,True,5
+82,456789,138,False,0
+82,456789,139,False,5
+82,456789,140,True,0
+82,345678,81,A database management system,0
+82,345678,82,C++,0
+82,345678,83,Concurrency control,0
+82,345678,84,System Query Language,0
+82,345678,85,Index,0
+82,345678,86,To enforce data integrity,0
+82,345678,87,INSERT,5
+82,345678,88,SERIALIZABLE,0
+82,345678,89,Unlimited,0
+82,345678,90,VARCHAR2,0
+82,345678,91,To create an index for faster searching,0
+82,345678,92,CREATE,5
+82,345678,93,To update the schema definition,0
+82,345678,94,PRIMARY KEY,0
+82,345678,95,To update the schema definition,0
+82,345678,96,True,5
+82,345678,97,False,0
+82,345678,98,False,0
+82,345678,99,False,0
+82,345678,100,False,5
+82,109024,201,Computer Style Sheets,0
+82,109024,202,color,0
+82,109024,203,font-size,5
+82,109024,204,spacing,0
+82,109024,205,font-weight,5
+82,109024,206,decoration,0
+82,109024,207,font-fg,0
+82,109024,208,list-marker,0
+82,109024,209,text-height,0
+82,109024,210,height,0
+82,109024,211,size,0
+82,109024,212,background-image,5
+82,109024,213,float,5
+82,109024,214,layer,0
+82,109024,215,background-color,5
+82,109024,216,False,5
+82,109024,217,False,5
+82,109024,218,True,0
+82,109024,219,True,0
+82,109024,220,True,0
+83,764269,1,A function in a class,0
+83,764269,2,Inheriting properties from a parent class,0
+83,764269,3,The ability of a class to override methods from its parent class,0
+83,764269,4,The ability of a class to have multiple forms or behaviors,5
+83,764269,5,A method that is used to update class properties,0
+83,764269,6,A variable in a program,0
+83,764269,7,A variable that belongs to a class,0
+83,764269,8,A design technique to create parent-child relationships,0
+83,764269,9,A method that cannot access class-level variables,0
+83,764269,10,Defining multiple methods with the same name and same parameters,0
+83,764269,11,Providing a new implementation for a method inherited from a parent class,5
+83,764269,12,A method that updates class properties,0
+83,764269,13,A function that is inherited from a parent class,0
+83,764269,14,A function that is defined inside a class,0
+83,764269,15,A virtual function that is not implemented in the base class,5
+83,764269,16,True,0
+83,764269,17,False,5
+83,764269,18,True,0
+83,764269,19,True,0
+83,764269,20,False,5
+83,128979,281,Preventing all cyberattacks,0
+83,128979,282,123456,0
+83,128979,283,Installing malware on a computer,5
+83,128979,284,Prevents phishing attacks,0
+83,128979,285,Prevents software from being installed,0
+83,128979,286,Fingerprint and facial recognition,0
+83,128979,287,Hiding a computer's IP address,5
+83,128979,288,Stealing sensitive information,0
+83,128979,289,Using advanced algorithms to predict social behavior,0
+83,128979,290,Inspecting firewalls for vulnerabilities,0
+83,128979,291,Defining rules and guidelines for securing information and resources,5
+83,128979,292,Worm,0
+83,128979,293,Assessing physical security measures,0
+83,128979,294,Outlining steps to take in the event of a security breach,5
+83,128979,295,Prevents physical access to a computer,0
+83,128979,296,True,0
+83,128979,297,False,5
+83,128979,298,True,0
+83,128979,299,False,5
+83,128979,300,True,0
+83,456789,121,An operating system,0
+83,456789,122,Data integrity constraints,0
+83,456789,123,To create web applications,0
+83,456789,124,To backup and restore data,0
+83,456789,125,It is a four-tier architecture,0
+83,456789,126,It ensures data integrity,5
+83,456789,127,Triggers,0
+83,456789,128,To define table relationships,0
+83,456789,129,Oracle Reports,0
+83,456789,130,To perform system testing,0
+83,456789,131,None of the above,0
+83,456789,132,To generate reports,0
+83,456789,133,Triggers,0
+83,456789,134,To enforce data integrity,0
+83,456789,135,Datafiles,5
+83,456789,136,False,5
+83,456789,137,True,5
+83,456789,138,True,5
+83,456789,139,False,5
+83,456789,140,True,0
+84,987652,181,Ctrl + C,0
+84,987652,182,Move Tool,5
+84,987652,183,"Resize, Gamma, Brightness",0
+84,987652,184,JPEG,0
+84,987652,185,Layer > New > Layer,0
+84,987652,186,A tool for cropping images,0
+84,987652,187,Healing Brush Tool,5
+84,987652,188,To adjust the brightness and contrast of an image,5
+84,987652,189,Lasso Tool,0
+84,987652,190,To change the size of an image,0
+84,987652,191,Edit > Transform > Scale,0
+84,987652,192,The sharpness of an image,0
+84,987652,193,Gradient Tool,0
+84,987652,194,Filter > Blur > Gaussian Blur,5
+84,987652,195,To select and sample colors from an image,5
+84,987652,196,False,5
+84,987652,197,False,5
+84,987652,198,False,5
+84,987652,199,True,0
+84,987652,200,False,5
+84,876543,61,Simple Query Language,0
+84,876543,62,DELETE,5
+84,876543,63,A column that stores the data types of the other columns,5
+84,876543,64,INSERT,0
+84,876543,65,Combines rows from two or more tables based on a related column between them,5
+84,876543,66,SELECT,0
+84,876543,67,To limit the number of rows returned in a result set,0
+84,876543,68,UPDATE,5
+84,876543,69,To limit the number of rows returned in a result set,0
+84,876543,70,SUM(),0
+84,876543,71,To join multiple tables together,0
+84,876543,72,NOT,0
+84,876543,73,Deletes all data from a table,0
+84,876543,74,SUM(),0
+84,876543,75,To join multiple tables together,0
+84,876543,76,False,5
+84,876543,77,True,0
+84,876543,78,True,0
+84,876543,79,True,0
+84,876543,80,False,5
+85,765432,101,A web browser,0
+85,765432,102,They are not scalable,0
+85,765432,103,A database management system,0
+85,765432,104,It is a programming language,0
+85,765432,105,To manage web services,0
+85,765432,106,It is a cloud computing platform,5
+85,765432,107,An integrated development environment,5
+85,765432,108,It is a database management system,0
+85,765432,109,To manage web services,0
+85,765432,110,It is a database management system,0
+85,765432,111,A programming language,0
+85,765432,112,They are used for managing web services,0
+85,765432,113,A database management system,0
+85,765432,114,It is a programming language,0
+85,765432,115,A programming language,0
+85,765432,116,True,0
+85,765432,117,False,0
+85,765432,118,False,0
+85,765432,119,False,0
+85,765432,120,True,5
+85,119002,221,A framework for building web applications,5
+85,119002,222,Python,0
+85,119002,223,Angular 8,0
+85,119002,224,To generate a new Angular project,5
+85,119002,225,A built-in function,0
+85,119002,226,A way to loop through an array,0
+85,119002,227,To define routes,0
+85,119002,228,For styling components,0
+85,119002,229,A library for building UI components,5
+85,119002,230,To handle user input and perform two-way data binding,5
+85,119002,231,To loop through an array and render elements,5
+85,119002,232,A way to control the behavior of DOM elements,5
+85,119002,233,A way to delay the loading of certain parts of the application,5
+85,119002,234,A way to optimize database queries,0
+85,119002,235,To initialize data or logic in a component,5
+85,119002,236,False,5
+85,119002,237,False,5
+85,119002,238,True,0
+85,119002,239,False,5
+85,119002,240,True,0
+86,234567,41,6 7,5
+86,234567,42,register,0
+86,234567,43,Depends on the system,0
+86,234567,44,Error,5
+86,234567,45,Allocate memory,5
+86,234567,46,1 byte,5
+86,234567,47,True,0
+86,234567,48,int ptr[];,0
+86,234567,49,/,0
+86,234567,50,2 2.5,5
+86,234567,51,<iostream>,5
+86,234567,52,16,0
+86,234567,53,To ignore errors in cin,0
+86,234567,54,do-while loop,0
+86,234567,55,Compiler Error,0
+86,234567,56,False,5
+86,234567,57,False,5
+86,234567,58,True,0
+86,234567,59,True,0
+86,234567,60,False,5
+86,109024,201,Colorful Style Sheets,0
+86,109024,202,color,0
+86,109024,203,text-style,0
+86,109024,204,border,0
+86,109024,205,font-style,0
+86,109024,206,text-underline,0
+86,109024,207,color,5
+86,109024,208,list-marker,0
+86,109024,209,line-spacing,0
+86,109024,210,height,0
+86,109024,211,width,0
+86,109024,212,background-image,5
+86,109024,213,float,5
+86,109024,214,layer,0
+86,109024,215,color,0
+86,109024,216,False,5
+86,109024,217,False,5
+86,109024,218,True,0
+86,109024,219,True,0
+86,109024,220,False,5
+86,345678,81,A programming language,5
+86,345678,82,C++,0
+86,345678,83,Automatic memory management,0
+86,345678,84,Standard Query Language,0
+86,345678,85,Table,0
+86,345678,86,To improve query performance,5
+86,345678,87,INSERT,5
+86,345678,88,READ UNCOMMITTED,0
+86,345678,89,4000,5
+86,345678,90,VARCHAR2,0
+86,345678,91,To define a relationship between two tables,5
+86,345678,92,TRUNCATE,0
+86,345678,93,To save changes made to the database,5
+86,345678,94,CHECK,0
+86,345678,95,To update the schema definition,0
+86,345678,96,False,0
+86,345678,97,False,0
+86,345678,98,True,5
+86,345678,99,False,0
+86,345678,100,False,5
+87,990465,261,A web browser,0
+87,990465,262,Google,0
+87,990465,263,To send emails,0
+87,990465,264,Python,0
+87,990465,265,Hadoop Distributed File System (HDFS),5
+87,990465,266,Data processing,5
+87,990465,267,To store and retrieve data,0
+87,990465,268,Images,0
+87,990465,269,Lower cost,5
+87,990465,270,Hive,5
+87,990465,271,Data encryption,0
+87,990465,272,Pig,0
+87,990465,273,Data encryption,0
+87,990465,274,Flume,5
+87,990465,275,Data processing,5
+87,990465,276,True,0
+87,990465,277,True,0
+87,990465,278,False,5
+87,990465,279,False,5
+87,990465,280,False,5
+87,567890,161,None of the above,0
+87,567890,162,<ul>,5
+87,567890,163,,5
+87,567890,164,name,0
+87,567890,165,<link>,0
+87,567890,166,<tbl>,0
+87,567890,167,<ul>,0
+87,567890,168,<header>,0
+87,567890,169,text,0
+87,567890,170,<paragraph>,0
+87,567890,171,<image src='image.jpg'>,0
+87,567890,172,length,0
+87,567890,173,<thead>,0
+87,567890,174,<input type='check'>,0
+87,567890,175,design,0
+87,567890,176,False,5
+87,567890,177,True,0
+87,567890,178,True,0
+87,567890,179,True,0
+87,567890,180,True,0
+87,876543,61,Structured Question Language,0
+87,876543,62,UPDATE,0
+87,876543,63,A column that uniquely identifies each row in a table,0
+87,876543,64,UPDATE,5
+87,876543,65,Combines rows from two or more tables based on a related column between them,5
+87,876543,66,UPDATE,0
+87,876543,67,To limit the number of rows returned in a result set,0
+87,876543,68,DELETE,0
+87,876543,69,To limit the number of rows returned in a result set,0
+87,876543,70,SUM(),0
+87,876543,71,To limit the number of rows returned in a result set,0
+87,876543,72,AND,5
+87,876543,73,Returns only unique values from a specified column,5
+87,876543,74,MAX(),0
+87,876543,75,To join multiple tables together,0
+87,876543,76,True,0
+87,876543,77,False,5
+87,876543,78,True,0
+87,876543,79,True,0
+87,876543,80,False,5
+87,765432,101,An operating system,0
+87,765432,102,They can only be accessed locally,0
+87,765432,103,A programming language,5
+87,765432,104,It is a programming language,0
+87,765432,105,To optimize database performance,0
+87,765432,106,It is a database management system,0
+87,765432,107,A web browser,0
+87,765432,108,It is a database management system,0
+87,765432,109,To enable real-time data integration,5
+87,765432,110,It is a hardware and software bundle,5
+87,765432,111,A database management system,0
+87,765432,112,They are a scalable and customizable compute option,5
+87,765432,113,A programming language,0
+87,765432,114,It is an operating system,0
+87,765432,115,A database management system,0
+87,765432,116,False,5
+87,765432,117,True,5
+87,765432,118,True,5
+87,765432,119,False,0
+87,765432,120,True,5
+88,990465,261,A type of database,0
+88,990465,262,Microsoft,0
+88,990465,263,To play video games,0
+88,990465,264,C++,0
+88,990465,265,MapReduce,0
+88,990465,266,Data storage,0
+88,990465,267,To manage resources and schedule jobs,5
+88,990465,268,Images,0
+88,990465,269,Faster processing speed,0
+88,990465,270,Hive,5
+88,990465,271,Data processing,5
+88,990465,272,Sqoop,5
+88,990465,273,Data warehousing,5
+88,990465,274,Sqoop,0
+88,990465,275,Data encryption,0
+88,990465,276,False,5
+88,990465,277,False,5
+88,990465,278,True,0
+88,990465,279,False,5
+88,990465,280,False,5
+88,456789,121,A web framework,0
+88,456789,122,Automatic memory management,0
+88,456789,123,To manage database security,0
+88,456789,124,To manage user access control,0
+88,456789,125,It is a single-tier architecture,0
+88,456789,126,It allows for efficient data retrieval,0
+88,456789,127,Views,0
+88,456789,128,To implement data valquestion_idation rules,0
+88,456789,129,Oracle APEX,0
+88,456789,130,To perform system testing,0
+88,456789,131,PGA (Program Global Area),0
+88,456789,132,To enforce referential integrity,0
+88,456789,133,Indexes,0
+88,456789,134,To manage data concurrency,0
+88,456789,135,Control files,0
+88,456789,136,False,5
+88,456789,137,True,5
+88,456789,138,False,0
+88,456789,139,False,5
+88,456789,140,True,0
+89,765432,101,A programming language,0
+89,765432,102,They support relational database management,5
+89,765432,103,A programming language,5
+89,765432,104,It is a programming language,0
+89,765432,105,To manage web services,0
+89,765432,106,It is a cloud computing platform,5
+89,765432,107,A programming language,0
+89,765432,108,It is an infrastructure software,5
+89,765432,109,To manage web services,0
+89,765432,110,It is an operating system,0
+89,765432,111,An operating system,0
+89,765432,112,They are a database management system,0
+89,765432,113,A programming language,0
+89,765432,114,It is a comprehensive management solution,5
+89,765432,115,An operating system,0
+89,765432,116,False,5
+89,765432,117,True,5
+89,765432,118,False,0
+89,765432,119,True,5
+89,765432,120,True,5
+89,764269,1,A specific instance of a class,5
+89,764269,2,Binding data and methods that operate on the data,5
+89,764269,3,The ability of a class to have private members,0
+89,764269,4,The ability of a class to have multiple forms or behaviors,5
+89,764269,5,A method that is used to update class properties,0
+89,764269,6,A variable in a program,0
+89,764269,7,A variable that is independent of any class,0
+89,764269,8,A design technique to create multiple instances of a class,0
+89,764269,9,A method that cannot access instance-level variables,0
+89,764269,10,Defining multiple methods with different names,0
+89,764269,11,Providing a new implementation for a method inherited from a parent class,5
+89,764269,12,A method that updates class properties,0
+89,764269,13,A function that is defined inside a class,0
+89,764269,14,A function that is inherited from a parent class,0
+89,764269,15,A virtual function that is automatically called when an object is created,0
+89,764269,16,True,0
+89,764269,17,False,5
+89,764269,18,True,0
+89,764269,19,False,5
+89,764269,20,True,0
+90,345678,81,An operating system,0
+90,345678,82,SQL,5
+90,345678,83,Concurrency control,0
+90,345678,84,Sequential Query Language,0
+90,345678,85,Table,0
+90,345678,86,To store database records,0
+90,345678,87,DELETE,0
+90,345678,88,READ UNCOMMITTED,0
+90,345678,89,4000,5
+90,345678,90,DATE,0
+90,345678,91,To enforce data integrity constraints,0
+90,345678,92,CREATE,5
+90,345678,93,To delete records from a table,0
+90,345678,94,PRIMARY KEY,0
+90,345678,95,To save changes made to the database,0
+90,345678,96,True,5
+90,345678,97,True,5
+90,345678,98,True,5
+90,345678,99,True,5
+90,345678,100,True,0
+90,876543,61,Simple Query Language,0
+90,876543,62,DELETE,5
+90,876543,63,A column that is used to sort the data in a table,0
+90,876543,64,UPDATE,5
+90,876543,65,Updates existing data in a table,0
+90,876543,66,DELETE,5
+90,876543,67,To filter the result set based on a specified condition,0
+90,876543,68,UPDATE,5
+90,876543,69,To join multiple tables together,0
+90,876543,70,SUM(),0
+90,876543,71,To join multiple tables together,0
+90,876543,72,BETWEEN,0
+90,876543,73,Deletes all data from a table,0
+90,876543,74,COUNT(),5
+90,876543,75,To filter the result set based on a specified condition,5
+90,876543,76,True,0
+90,876543,77,True,0
+90,876543,78,False,5
+90,876543,79,False,5
+90,876543,80,False,5
+90,789012,241,User Input,0
+90,789012,242,Feedback,5
+90,789012,243,To plan the structure and layout,5
+90,789012,244,The process of gathering user feedback,5
+90,789012,245,Analogous,0
+90,789012,246,A type of user interface element,0
+90,789012,247,To evaluate the effectiveness of a design with real users,0
+90,789012,248,User Flow,0
+90,789012,249,The arrangement of elements on a page,0
+90,789012,250,To showcase design concepts to clients,5
+90,789012,251,The visual appeal of a design,5
+90,789012,252,To display advertisements,5
+90,789012,253,Gathering data to understand user behavior and needs,0
+90,789012,254,Hierarchy,0
+90,789012,255,To compare two different versions of a design to determine which performs better,0
+90,789012,256,True,5
+90,789012,257,False,5
+90,789012,258,False,0
+90,789012,259,True,0
+90,789012,260,False,0
+90,128979,281,Minimizing the impact of cyberattacks,5
+90,128979,282,P@ssw0rd!,0
+90,128979,283,Tricking people into revealing sensitive information,0
+90,128979,284,Protects against viruses,0
+90,128979,285,Prevents software from being installed,0
+90,128979,286,Retina scan and voice recognition,0
+90,128979,287,Blocking malicious websites,0
+90,128979,288,Disrupting or disabling a target's services,5
+90,128979,289,Exploiting vulnerabilities in social media platforms,0
+90,128979,290,Inspecting firewalls for vulnerabilities,0
+90,128979,291,Creating backup copies of sensitive data,0
+90,128979,292,Trojan horse,0
+90,128979,293,Scanning for viruses on a computer,0
+90,128979,294,Preventing unauthorized access to a network,0
+90,128979,295,Monitors and filters incoming and outgoing network traffic,5
+90,128979,296,False,5
+90,128979,297,True,0
+90,128979,298,True,0
+90,128979,299,False,5
+90,128979,300,False,5
+91,987652,181,Ctrl + Y,0
+91,987652,182,Brush Tool,0
+91,987652,183,Random Graphics Buffer,0
+91,987652,184,TIFF,0
+91,987652,185,Edit > Transform > Scale,0
+91,987652,186,A filter applied to a layer,0
+91,987652,187,Healing Brush Tool,5
+91,987652,188,To apply special effects to an image,0
+91,987652,189,Quick Selection Tool,0
+91,987652,190,To change the size of an image,0
+91,987652,191,Image > Adjustments > Brightness/Contrast,0
+91,987652,192,The size of a brush,0
+91,987652,193,Gradient Tool,0
+91,987652,194,Image > Adjustments > Brightness/Contrast,0
+91,987652,195,To apply special effects to an image,0
+91,987652,196,False,5
+91,987652,197,True,0
+91,987652,198,True,0
+91,987652,199,False,5
+91,987652,200,False,5
+91,234567,41,5 6,0
+91,234567,42,auto,0
+91,234567,43,4,5
+91,234567,44,Zero,0
+91,234567,45,Create a new object,0
+91,234567,46,2 bytes,0
+91,234567,47,2,0
+91,234567,48,Both A and C,0
+91,234567,49,*,0
+91,234567,50,2.5 2,0
+91,234567,51,<stdio.h>,0
+91,234567,52,10,0
+91,234567,53,To skip a line in input,0
+91,234567,54,while loop,0
+91,234567,55,65,5
+91,234567,56,True,0
+91,234567,57,False,5
+91,234567,58,False,5
+91,234567,59,True,0
+91,234567,60,False,5
+91,567890,161,None of the above,0
+91,567890,162,<ul>,5
+91,567890,163,<newline>,0
+91,567890,164,identifier,0
+91,567890,165,<hyperlink>,0
+91,567890,166,<tr>,0
+91,567890,167,<ul>,0
+91,567890,168,<h1>,0
+91,567890,169,text,0
+91,567890,170,<paragraph>,0
+91,567890,171,<image alt='image.jpg'>,0
+91,567890,172,length,0
+91,567890,173,<header>,0
+91,567890,174,<input type='check'>,0
+91,567890,175,style,5
+91,567890,176,False,5
+91,567890,177,False,5
+91,567890,178,False,5
+91,567890,179,True,0
+91,567890,180,True,0
+91,456789,121,A programming language,0
+91,456789,122,Data encryption,0
+91,456789,123,To write stored procedures and functions,5
+91,456789,124,To manage user access control,0
+91,456789,125,It is a two-tier architecture,0
+91,456789,126,It enforces referential integrity,0
+91,456789,127,Triggers,0
+91,456789,128,To implement data valquestion_idation rules,0
+91,456789,129,Oracle APEX,0
+91,456789,130,To design user interfaces,0
+91,456789,131,SGA (System Global Area),0
+91,456789,132,To automatically execute a set of SQL statements,5
+91,456789,133,Indexes,0
+91,456789,134,To optimize database performance,5
+91,456789,135,Redo logs,0
+91,456789,136,True,0
+91,456789,137,True,5
+91,456789,138,False,0
+91,456789,139,False,5
+91,456789,140,False,5
+92,119002,221,A framework for building web applications,5
+92,119002,222,Java,0
+92,119002,223,Angular 7,0
+92,119002,224,To generate a new Angular project,5
+92,119002,225,A reusable piece of UI,5
+92,119002,226,A way to loop through an array,0
+92,119002,227,To create animations,0
+92,119002,228,For creating forms,0
+92,119002,229,A built-in data storage system,0
+92,119002,230,To create animations,0
+92,119002,231,To loop through an array and render elements,5
+92,119002,232,A method for handling events,0
+92,119002,233,A way to delay the loading of certain parts of the application,5
+92,119002,234,A way to optimize database queries,0
+92,119002,235,To handle HTTP requests,0
+92,119002,236,False,5
+92,119002,237,False,5
+92,119002,238,False,5
+92,119002,239,True,0
+92,119002,240,True,0
+92,990465,261,A type of database,0
+92,990465,262,Facebook,0
+92,990465,263,To browse the internet,0
+92,990465,264,Java,5
+92,990465,265,Hadoop Distributed File System (HDFS),5
+92,990465,266,Data visualization,0
+92,990465,267,To create web applications,0
+92,990465,268,Audio files,0
+92,990465,269,Limited scalability,0
+92,990465,270,Pig,0
+92,990465,271,Data encryption,0
+92,990465,272,Pig,0
+92,990465,273,Data warehousing,5
+92,990465,274,Hive,0
+92,990465,275,Data processing,5
+92,990465,276,True,0
+92,990465,277,False,5
+92,990465,278,False,5
+92,990465,279,False,5
+92,990465,280,True,0
+92,987654,21,Game Development,0
+92,987654,22,final,5
+92,987654,23,Depends on the data type,5
+92,987654,24,decimal,5
+92,987654,25,11,5
+92,987654,26,super,0
+92,987654,27,To prevent inheritance,0
+92,987654,28,False,0
+92,987654,29,ArrayList,5
+92,987654,30,Continues to the next iteration of a loop,0
+92,987654,31,try,5
+92,987654,32,An interpreter,0
+92,987654,33,private,0
+92,987654,34,To indicate that a variable is final,0
+92,987654,35,finally,0
+92,987654,36,True,0
+92,987654,37,True,0
+92,987654,38,True,0
+92,987654,39,False,5
+92,987654,40,False,5
+92,109024,201,Computer Style Sheets,0
+92,109024,202,color,0
+92,109024,203,font-size,5
+92,109024,204,border,0
+92,109024,205,font-weight,5
+92,109024,206,text-decoration,5
+92,109024,207,font-color,0
+92,109024,208,marker-style,0
+92,109024,209,text-spacing,0
+92,109024,210,size,0
+92,109024,211,height,5
+92,109024,212,background-image,5
+92,109024,213,push,0
+92,109024,214,z-index,5
+92,109024,215,bgcolor,0
+92,109024,216,False,5
+92,109024,217,True,0
+92,109024,218,True,0
+92,109024,219,False,5
+92,109024,220,True,0
+93,654321,141,The core component of the Linux operating system,5
+93,654321,142,ls,0
+93,654321,143,Csh,0
+93,654321,144,time,0
+93,654321,145,To search for files and directories,0
+93,654321,146,kill,0
+93,654321,147,To filter text based on patterns,5
+93,654321,148,rm,5
+93,654321,149,To list directory contents,0
+93,654321,150,mv,0
+93,654321,151,To display the system information,5
+93,654321,152,mv,0
+93,654321,153,To display the contents of a file,0
+93,654321,154,search,0
+93,654321,155,To remove files and directories,0
+93,654321,156,True,5
+93,654321,157,False,0
+93,654321,158,False,0
+93,654321,159,False,0
+93,654321,160,True,0
+93,876543,61,Structured Question Language,0
+93,876543,62,INSERT,0
+93,876543,63,A column that is used to sort the data in a table,0
+93,876543,64,DELETE,0
+93,876543,65,Combines rows from two or more tables based on a related column between them,5
+93,876543,66,UPDATE,0
+93,876543,67,To join multiple tables together,0
+93,876543,68,INSERT,0
+93,876543,69,To join multiple tables together,0
+93,876543,70,COUNT(),0
+93,876543,71,To limit the number of rows returned in a result set,0
+93,876543,72,OR,0
+93,876543,73,Returns only unique values from a specified column,5
+93,876543,74,COUNT(),5
+93,876543,75,To group rows based on a specified column,0
+93,876543,76,False,5
+93,876543,77,True,0
+93,876543,78,False,5
+93,876543,79,True,0
+93,876543,80,True,0
+94,987652,181,Ctrl + Y,0
+94,987652,182,Move Tool,5
+94,987652,183,"Resize, Gamma, Brightness",0
+94,987652,184,JPEG,0
+94,987652,185,Edit > Transform > Scale,0
+94,987652,186,A technique for merging multiple layers into one,0
+94,987652,187,Healing Brush Tool,5
+94,987652,188,To change the color temperature of an image,0
+94,987652,189,Magic Wand Tool,5
+94,987652,190,To apply artistic filters to an image,0
+94,987652,191,Layer > Duplicate Layer,5
+94,987652,192,The sharpness of an image,0
+94,987652,193,Brush Tool,0
+94,987652,194,Image > Adjustments > Brightness/Contrast,0
+94,987652,195,To measure the size of an image,0
+94,987652,196,True,0
+94,987652,197,False,5
+94,987652,198,True,0
+94,987652,199,True,0
+94,987652,200,True,0
+94,109024,201,Creative Style Sheets,0
+94,109024,202,background,0
+94,109024,203,font-size,5
+94,109024,204,border,0
+94,109024,205,font-weight,5
+94,109024,206,underline,0
+94,109024,207,color,5
+94,109024,208,list-marker,0
+94,109024,209,text-height,0
+94,109024,210,height,0
+94,109024,211,width,0
+94,109024,212,background,0
+94,109024,213,push,0
+94,109024,214,layer,0
+94,109024,215,background-color,5
+94,109024,216,False,5
+94,109024,217,True,0
+94,109024,218,False,5
+94,109024,219,True,0
+94,109024,220,True,0
+95,345678,81,An operating system,0
+95,345678,82,C++,0
+95,345678,83,All of the above,5
+95,345678,84,System Query Language,0
+95,345678,85,Procedure,5
+95,345678,86,To create data backups,0
+95,345678,87,INSERT,5
+95,345678,88,REPEATABLE READ,0
+95,345678,89,255,0
+95,345678,90,NUMBER,0
+95,345678,91,To uniquely identify a row in a table,0
+95,345678,92,DROP,0
+95,345678,93,To roll back a transaction,0
+95,345678,94,PRIMARY KEY,0
+95,345678,95,To update the schema definition,0
+95,345678,96,True,5
+95,345678,97,False,0
+95,345678,98,True,5
+95,345678,99,True,5
+95,345678,100,False,5
+95,654321,141,A programming language used in Linux,0
+95,654321,142,mkdir,5
+95,654321,143,Fish,0
+95,654321,144,clock,0
+95,654321,145,To search for files and directories,0
+95,654321,146,kill,0
+95,654321,147,To display the contents of a file,0
+95,654321,148,cd,0
+95,654321,149,To manage user accounts,0
+95,654321,150,cp,5
+95,654321,151,To display the current user,0
+95,654321,152,cd,5
+95,654321,153,To display the contents of a file,0
+95,654321,154,locate,0
+95,654321,155,To create a new file,0
+95,654321,156,False,0
+95,654321,157,True,5
+95,654321,158,True,5
+95,654321,159,False,0
+95,654321,160,True,0
+95,456789,121,An operating system,0
+95,456789,122,Data encryption,0
+95,456789,123,To create web applications,0
+95,456789,124,To manage user access control,0
+95,456789,125,It is a three-tier architecture,5
+95,456789,126,It ensures data integrity,5
+95,456789,127,Constraints,0
+95,456789,128,To implement data valquestion_idation rules,0
+95,456789,129,SQL*Plus,5
+95,456789,130,To design user interfaces,0
+95,456789,131,None of the above,0
+95,456789,132,To generate reports,0
+95,456789,133,Triggers,0
+95,456789,134,To manage data concurrency,0
+95,456789,135,Tablespaces,0
+95,456789,136,False,5
+95,456789,137,False,0
+95,456789,138,True,5
+95,456789,139,False,5
+95,456789,140,True,0
+96,764269,1,A variable in a class,0
+96,764269,2,Creating multiple instances of a class,0
+96,764269,3,The ability of a class to inherit properties and behavior from another class,5
+96,764269,4,The ability of a class to have private members,0
+96,764269,5,A method that creates an instance of a class,5
+96,764269,6,A specific instance of an object,0
+96,764269,7,A variable that is independent of any class,0
+96,764269,8,A design technique to model is-a relationships,0
+96,764269,9,A method that cannot access instance-level variables,0
+96,764269,10,Defining multiple methods with the same name and same parameters,0
+96,764269,11,Providing a new implementation for a method inherited from a parent class,5
+96,764269,12,A method that is inherited from a parent class,0
+96,764269,13,A function that is inherited from a parent class,0
+96,764269,14,A function that is defined in a base class and can be overridden by a subclass,5
+96,764269,15,A virtual function that is not implemented in the base class,5
+96,764269,16,False,5
+96,764269,17,True,0
+96,764269,18,False,5
+96,764269,19,False,5
+96,764269,20,True,0
+96,234567,41,6 7,5
+96,234567,42,register,0
+96,234567,43,2,0
+96,234567,44,Infinity,0
+96,234567,45,None of the above,0
+96,234567,46,2 bytes,0
+96,234567,47,Runtime error,5
+96,234567,48,int ptr;,0
+96,234567,49,+,0
+96,234567,50,2 2,0
+96,234567,51,<conio.h>,0
+96,234567,52,None of the above,0
+96,234567,53,To clear the input buffer,5
+96,234567,54,while loop,0
+96,234567,55,66,0
+96,234567,56,False,5
+96,234567,57,True,0
+96,234567,58,True,0
+96,234567,59,True,0
+96,234567,60,True,0
+96,109024,201,Computer Style Sheets,0
+96,109024,202,background,0
+96,109024,203,text-size,0
+96,109024,204,spacing,0
+96,109024,205,bold,0
+96,109024,206,text-underline,0
+96,109024,207,font-fg,0
+96,109024,208,list-style-type,5
+96,109024,209,text-spacing,0
+96,109024,210,length,0
+96,109024,211,size,0
+96,109024,212,background,0
+96,109024,213,align,0
+96,109024,214,stack-order,0
+96,109024,215,background-color,5
+96,109024,216,True,0
+96,109024,217,False,5
+96,109024,218,False,5
+96,109024,219,True,0
+96,109024,220,True,0
+97,654321,141,A programming language used in Linux,0
+97,654321,142,ls,0
+97,654321,143,Bash,5
+97,654321,144,time,0
+97,654321,145,To compress files into an archive,0
+97,654321,146,top,0
+97,654321,147,To filter text based on patterns,5
+97,654321,148,mv,0
+97,654321,149,To change file permissions,0
+97,654321,150,cd,0
+97,654321,151,To list the logged-in users,0
+97,654321,152,pwd,0
+97,654321,153,To change file permissions,0
+97,654321,154,find,5
+97,654321,155,To print text or variables,5
+97,654321,156,True,5
+97,654321,157,False,0
+97,654321,158,True,5
+97,654321,159,False,0
+97,654321,160,True,0
+97,345678,81,A web browser,0
+97,345678,82,C++,0
+97,345678,83,Concurrency control,0
+97,345678,84,System Query Language,0
+97,345678,85,Procedure,5
+97,345678,86,To store database records,0
+97,345678,87,INSERT,5
+97,345678,88,READ UNCOMMITTED,0
+97,345678,89,4000,5
+97,345678,90,DATE,0
+97,345678,91,To uniquely identify a row in a table,0
+97,345678,92,CREATE,5
+97,345678,93,To roll back a transaction,0
+97,345678,94,FOREIGN KEY,0
+97,345678,95,To update the schema definition,0
+97,345678,96,False,0
+97,345678,97,True,5
+97,345678,98,False,0
+97,345678,99,False,0
+97,345678,100,True,0
+98,456789,121,A web framework,0
+98,456789,122,Automatic memory management,0
+98,456789,123,To optimize query performance,0
+98,456789,124,To backup and restore data,0
+98,456789,125,It is a three-tier architecture,5
+98,456789,126,It allows for efficient data retrieval,0
+98,456789,127,Indexes,5
+98,456789,128,To implement data valquestion_idation rules,0
+98,456789,129,Oracle Forms,0
+98,456789,130,To develop web applications,0
+98,456789,131,SGA (System Global Area),0
+98,456789,132,To enforce referential integrity,0
+98,456789,133,Materialized views,5
+98,456789,134,To enforce data integrity,0
+98,456789,135,Control files,0
+98,456789,136,True,0
+98,456789,137,True,5
+98,456789,138,False,0
+98,456789,139,True,0
+98,456789,140,True,0
+98,987652,181,Ctrl + Z,5
+98,987652,182,Move Tool,5
+98,987652,183,Random Graphics Buffer,0
+98,987652,184,GIF,5
+98,987652,185,Layer > New > Layer,0
+98,987652,186,A technique for merging multiple layers into one,0
+98,987652,187,Healing Brush Tool,5
+98,987652,188,To create custom brushes,0
+98,987652,189,Lasso Tool,0
+98,987652,190,To change the size of an image,0
+98,987652,191,Edit > Transform > Scale,0
+98,987652,192,The size of a brush,0
+98,987652,193,Gradient Tool,0
+98,987652,194,Image > Adjustments > Brightness/Contrast,0
+98,987652,195,To measure the size of an image,0
+98,987652,196,True,0
+98,987652,197,False,5
+98,987652,198,False,5
+98,987652,199,False,5
+98,987652,200,False,5
+98,765432,101,A programming language,0
+98,765432,102,They support relational database management,5
+98,765432,103,A database management system,0
+98,765432,104,It is an operating system,0
+98,765432,105,To optimize database performance,0
+98,765432,106,It is a programming language,0
+98,765432,107,A web browser,0
+98,765432,108,It is an operating system,0
+98,765432,109,To optimize database performance,0
+98,765432,110,It is a programming language,0
+98,765432,111,A programming language,0
+98,765432,112,They are a scalable and customizable compute option,5
+98,765432,113,A clustering database technology,5
+98,765432,114,It is an operating system,0
+98,765432,115,An operating system,0
+98,765432,116,True,0
+98,765432,117,False,0
+98,765432,118,False,0
+98,765432,119,True,5
+98,765432,120,False,0
+98,764269,1,A variable in a class,0
+98,764269,2,Binding data and methods that operate on the data,5
+98,764269,3,The ability of a class to inherit properties and behavior from another class,5
+98,764269,4,The ability of a class to have multiple forms or behaviors,5
+98,764269,5,A method that is inherited from a parent class,0
+98,764269,6,A variable in a program,0
+98,764269,7,A function that belongs to a class,5
+98,764269,8,A design technique to model is-a relationships,0
+98,764269,9,A method that cannot access class-level variables,0
+98,764269,10,Defining multiple methods with the same name and same parameters,0
+98,764269,11,Defining a method inside another method,0
+98,764269,12,A method that is inherited from a parent class,0
+98,764269,13,A function that is defined inside a class,0
+98,764269,14,A function that is defined in a base class and can be overridden by a subclass,5
+98,764269,15,A virtual function that is automatically called when an object is created,0
+98,764269,16,False,5
+98,764269,17,True,0
+98,764269,18,False,5
+98,764269,19,True,0
+98,764269,20,False,5
+99,234567,41,6 6,0
+99,234567,42,static,0
+99,234567,43,Depends on the system,0
+99,234567,44,Error,5
+99,234567,45,Deallocate memory,0
+99,234567,46,4 bytes,0
+99,234567,47,2,0
+99,234567,48,int ptr[];,0
+99,234567,49,+,0
+99,234567,50,2 2,0
+99,234567,51,<stdlib.h>,0
+99,234567,52,16,0
+99,234567,53,None of the above,0
+99,234567,54,None of the above,0
+99,234567,55,Compiler Error,0
+99,234567,56,True,0
+99,234567,57,True,0
+99,234567,58,True,0
+99,234567,59,True,0
+99,234567,60,True,0
+99,876543,61,Structured Question Language,0
+99,876543,62,INSERT,0
+99,876543,63,A column that stores the data types of the other columns,5
+99,876543,64,DELETE,0
+99,876543,65,Updates existing data in a table,0
+99,876543,66,INSERT,0
+99,876543,67,To filter the result set based on a specified condition,0
+99,876543,68,UPDATE,5
+99,876543,69,To group rows based on a specified column,5
+99,876543,70,MAX(),0
+99,876543,71,To join multiple tables together,0
+99,876543,72,BETWEEN,0
+99,876543,73,Deletes all data from a table,0
+99,876543,74,COUNT(),5
+99,876543,75,To group rows based on a specified column,0
+99,876543,76,False,5
+99,876543,77,True,0
+99,876543,78,False,5
+99,876543,79,False,5
+99,876543,80,False,5
+99,128979,281,Minimizing the impact of cyberattacks,5
+99,128979,282,P@ssw0rd!,0
+99,128979,283,Performing a DDoS attack,0
+99,128979,284,Prevents phishing attacks,0
+99,128979,285,Prevents software from being installed,0
+99,128979,286,Username and password,0
+99,128979,287,Encrypting physical files,0
+99,128979,288,Gaining unauthorized access to a network,0
+99,128979,289,Exploiting vulnerabilities in social media platforms,0
+99,128979,290,Evaluating and assessing security measures and policies,5
+99,128979,291,Ensuring physical safety within the workplace,0
+99,128979,292,Worm,0
+99,128979,293,Scanning for viruses on a computer,0
+99,128979,294,Creating strong passwords for users,0
+99,128979,295,Scans for viruses on a computer's hard drive,0
+99,128979,296,True,0
+99,128979,297,False,5
+99,128979,298,False,5
+99,128979,299,True,0
+99,128979,300,False,5
+99,765432,101,A database management system,5
+99,765432,102,They are not scalable,0
+99,765432,103,A web browser,0
+99,765432,104,It is an operating system,0
+99,765432,105,To manage web services,0
+99,765432,106,It is a programming language,0
+99,765432,107,An integrated development environment,5
+99,765432,108,It is an infrastructure software,5
+99,765432,109,To enable real-time data integration,5
+99,765432,110,It is a database management system,0
+99,765432,111,An operating system,0
+99,765432,112,They are a database management system,0
+99,765432,113,An operating system,0
+99,765432,114,It is a programming language,0
+99,765432,115,A feature that reduces storage costs and improves performance,5
+99,765432,116,False,5
+99,765432,117,False,0
+99,765432,118,True,5
+99,765432,119,False,0
+99,765432,120,False,0
+100,119002,221,A programming language,0
+100,119002,222,Python,0
+100,119002,223,Angular 9,0
+100,119002,224,To write CSS code,0
+100,119002,225,A type of service,0
+100,119002,226,A type of authentication,0
+100,119002,227,To manage shared data or logic,5
+100,119002,228,For styling components,0
+100,119002,229,A type of animation,0
+100,119002,230,To create animations,0
+100,119002,231,To loop through an array and render elements,5
+100,119002,232,A way to create custom HTML elements,0
+100,119002,233,A way to handle asynchronous code,0
+100,119002,234,A method for handling errors,0
+100,119002,235,To handle HTTP requests,0
+100,119002,236,False,5
+100,119002,237,True,0
+100,119002,238,True,0
+100,119002,239,False,5
+100,119002,240,True,0
+100,789012,241,User Interface,5
+100,789012,242,Consistency,0
+100,789012,243,To create a high-fidelity prototype,0
+100,789012,244,The process of gathering user feedback,5
+100,789012,245,Monochromatic,5
+100,789012,246,A type of user interface element,0
+100,789012,247,To conduct competitor analysis,0
+100,789012,248,Aesthetic Appeal,0
+100,789012,249,The ability to easily navigate a website,5
+100,789012,250,To showcase design concepts to clients,5
+100,789012,251,The speed at which a website loads,0
+100,789012,252,To display advertisements,5
+100,789012,253,Studying the visual design of a website,0
+100,789012,254,Consistency,5
+100,789012,255,To generate design concepts,0
+100,789012,256,True,5
+100,789012,257,False,5
+100,789012,258,False,0
+100,789012,259,False,5
+100,789012,260,False,0
+100,987654,21,Game Development,0
+100,987654,22,static,0
+100,987654,23,Depends on the data type,5
+100,987654,24,boolean,0
+100,987654,25,None of the above,0
+100,987654,26,extends,5
+100,987654,27,To create an instance of a class,0
+100,987654,28,False,0
+100,987654,29,HashSet,0
+100,987654,30,Continues to the next iteration of a loop,0
+100,987654,31,finally,0
+100,987654,32,A virtual processor that executes Java bytecode,5
+100,987654,33,private,0
+100,987654,34,To call a superclass method or constructor,5
+100,987654,35,try,0
+100,987654,36,True,0
+100,987654,37,False,5
+100,987654,38,True,0
+100,987654,39,False,5
+100,987654,40,False,5
+100,990465,261,A programming language,0
+100,990465,262,Facebook,0
+100,990465,263,To browse the internet,0
+100,990465,264,Java,5
+100,990465,265,Hadoop Distributed File System (HDFS),5
+100,990465,266,Data processing,5
+100,990465,267,To create web applications,0
+100,990465,268,Audio files,0
+100,990465,269,Lower cost,5
+100,990465,270,Hive,5
+100,990465,271,Data storage,0
+100,990465,272,Pig,0
+100,990465,273,Data processing,0
+100,990465,274,Flume,5
+100,990465,275,Data encryption,0
+100,990465,276,True,0
+100,990465,277,False,5
+100,990465,278,False,5
+100,990465,279,True,0
+100,990465,280,False,5
