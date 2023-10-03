@@ -1,19 +1,83 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="10/2/2023 11:43:40 PM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="DESKTOP-2CKEHLN"
   DTS:CreatorName="DESKTOP-2CKEHLN\MONEM"
-  DTS:DTSID="{6BB3475A-127D-4D0B-9914-FBE4082E872F}"
+  DTS:DTSID="{7E9AD069-6013-40AD-B291-AF688ACE777C}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="16.0.5270.0"
   DTS:LocaleID="1033"
-  DTS:ObjectName="Package1"
+  DTS:ObjectName="Std_Exam_Grade"
   DTS:PackageType="5"
-  DTS:VersionGUID="{8DEBFAC4-0623-4575-8F6E-3897830AB3D1}">
+  DTS:VersionBuild="6"
+  DTS:VersionGUID="{F35955B2-A2BD-40A6-B290-7CA5B41415BE}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DESKTOP-2CKEHLN.exam_system]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{89CC0365-B3ED-4FE0-BCDD-0CA1016E877F}"
+      DTS:ObjectName="DESKTOP-2CKEHLN.exam_system">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=DESKTOP-2CKEHLN;Initial Catalog=exam_system;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Std_Exam_Grade-{89CC0365-B3ED-4FE0-BCDD-0CA1016E877F}DESKTOP-2CKEHLN.exam_system;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Std_Exam_Grade.txt]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{6F5991E4-09B3-44AB-A3DD-1E1568AA817C}"
+      DTS:ObjectName="Std_Exam_Grade.txt">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Users\MONEM\Desktop\ITIgraduationpro\data in txt file\Std_Exam_Grade.txt" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
   <DTS:Variables />
-  <DTS:Executables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Bulk Insert Task"
+      DTS:CreationName="Microsoft.BulkInsertTask"
+      DTS:Description="Bulk Insert Task"
+      DTS:DTSID="{D02D4180-D866-480D-9CE9-84C9819372D7}"
+      DTS:ExecutableType="Microsoft.BulkInsertTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Bulk Insert Task"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <BulkInsertTask:BulkInsertTaskData
+          BulkInsertTask:SourceConnectionName="{6F5991E4-09B3-44AB-A3DD-1E1568AA817C}"
+          BulkInsertTask:DestinationConnectionName="{89CC0365-B3ED-4FE0-BCDD-0CA1016E877F}"
+          BulkInsertTask:DestinationTableName="[dbo].[ST_Exam_Grade]"
+          BulkInsertTask:FieldTerminator="Comma {,}" xmlns:BulkInsertTask="www.microsoft.com/sqlserver/dts/tasks/bulkinserttask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="8">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        <NodeLayout
+          Size="154.4,41.6"
+          Id="Package\Bulk Insert Task"
+          TopLeft="266.428575965823,127.705884143968" />
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+</Objects>]]></DTS:DesignTimeProperties>
 </DTS:Executable>

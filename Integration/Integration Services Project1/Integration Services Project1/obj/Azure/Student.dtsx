@@ -1,41 +1,41 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
-  DTS:CreationDate="10/2/2023 11:42:51 PM"
+  DTS:CreationDate="10/2/2023 11:44:01 PM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="DESKTOP-2CKEHLN"
   DTS:CreatorName="DESKTOP-2CKEHLN\MONEM"
-  DTS:DTSID="{C39A7BF3-3B92-4EE7-9ADE-7578DBBD8F0F}"
+  DTS:DTSID="{55598E26-5518-49C2-A961-C663E2E03707}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="16.0.5270.0"
   DTS:LocaleID="1033"
-  DTS:ObjectName="Question"
+  DTS:ObjectName="Student"
   DTS:PackageType="5"
-  DTS:VersionBuild="5"
-  DTS:VersionGUID="{224220C3-3F99-4E1A-88C0-1546BB670B23}">
+  DTS:VersionBuild="12"
+  DTS:VersionGUID="{A5000542-0FC4-4576-A4D9-E6268E49CD58}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[DESKTOP-2CKEHLN.exam_system]"
       DTS:CreationName="OLEDB"
-      DTS:DTSID="{BDE8E69B-AE7C-4ACD-B8E5-17B09356080E}"
+      DTS:DTSID="{46B8BB52-9E95-4488-9C87-4A87274F1F8F}"
       DTS:ObjectName="DESKTOP-2CKEHLN.exam_system">
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="1"
           DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=DESKTOP-2CKEHLN;Initial Catalog=exam_system;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Question-{BDE8E69B-AE7C-4ACD-B8E5-17B09356080E}DESKTOP-2CKEHLN.exam_system;Auto Translate=False;" />
+          DTS:ConnectionString="Data Source=DESKTOP-2CKEHLN;Initial Catalog=exam_system;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Student-{46B8BB52-9E95-4488-9C87-4A87274F1F8F}DESKTOP-2CKEHLN.exam_system;Auto Translate=False;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
-      DTS:refId="Package.ConnectionManagers[Question.txt]"
+      DTS:refId="Package.ConnectionManagers[Student.txt]"
       DTS:CreationName="FILE"
-      DTS:DTSID="{1420AA8D-9928-4052-9516-3FBB432EB048}"
-      DTS:ObjectName="Question.txt">
+      DTS:DTSID="{4E83F1E3-E797-4204-8566-0D1724201886}"
+      DTS:ObjectName="Student.txt">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="C:\Users\MONEM\Desktop\ITIgraduationpro\data in txt file\Question.txt" />
+          DTS:ConnectionString="C:\Users\MONEM\Desktop\ITIgraduationpro\data in txt file\Student.txt" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
@@ -45,7 +45,7 @@
       DTS:refId="Package\Bulk Insert Task"
       DTS:CreationName="Microsoft.BulkInsertTask"
       DTS:Description="Bulk Insert Task"
-      DTS:DTSID="{4C5356B5-0F94-4A3B-9F7A-D55781905EC9}"
+      DTS:DTSID="{111FFAD6-926F-46AB-9BBE-9F8B42C71AC8}"
       DTS:ExecutableType="Microsoft.BulkInsertTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Bulk Insert Task"
@@ -53,9 +53,9 @@
       <DTS:Variables />
       <DTS:ObjectData>
         <BulkInsertTask:BulkInsertTaskData
-          BulkInsertTask:SourceConnectionName="{1420AA8D-9928-4052-9516-3FBB432EB048}"
-          BulkInsertTask:DestinationConnectionName="{BDE8E69B-AE7C-4ACD-B8E5-17B09356080E}"
-          BulkInsertTask:DestinationTableName="[dbo].[QUESTION]"
+          BulkInsertTask:SourceConnectionName="{4E83F1E3-E797-4204-8566-0D1724201886}"
+          BulkInsertTask:DestinationConnectionName="{46B8BB52-9E95-4488-9C87-4A87274F1F8F}"
+          BulkInsertTask:DestinationTableName="[dbo].[STUDENT]"
           BulkInsertTask:FieldTerminator="Comma {,}" xmlns:BulkInsertTask="www.microsoft.com/sqlserver/dts/tasks/bulkinserttask" />
       </DTS:ObjectData>
     </DTS:Executable>
@@ -75,7 +75,7 @@
         <NodeLayout
           Size="154.4,41.6"
           Id="Package\Bulk Insert Task"
-          TopLeft="281.928576136122,160.735296294763" />
+          TopLeft="267.142861692273,94.8235307416287" />
       </GraphLayout>
     </LayoutInfo>
   </Package>

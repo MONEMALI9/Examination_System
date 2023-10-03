@@ -1,19 +1,145 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="10/2/2023 11:21:48 PM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="DESKTOP-2CKEHLN"
   DTS:CreatorName="DESKTOP-2CKEHLN\MONEM"
-  DTS:DTSID="{CABEF036-7D54-48FB-8123-3AADC20FA174}"
+  DTS:DTSID="{7DE59572-5418-439C-8F21-30D1D17282F6}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="16.0.5270.0"
   DTS:LocaleID="1033"
-  DTS:ObjectName="Package1"
+  DTS:ObjectName="Exam"
   DTS:PackageType="5"
-  DTS:VersionGUID="{DB3D1B40-16EC-4B1D-9CE6-971E3314E3CF}">
+  DTS:VersionBuild="3"
+  DTS:VersionGUID="{D93BD86F-43F2-4943-B957-E63F8B6FA571}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[DESKTOP-2CKEHLN.exam_system]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{EF666F8E-671E-4060-A6AE-F0F79BC64324}"
+      DTS:ObjectName="DESKTOP-2CKEHLN.exam_system">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=DESKTOP-2CKEHLN;Initial Catalog=exam_system;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Exam-{EF666F8E-671E-4060-A6AE-F0F79BC64324}DESKTOP-2CKEHLN.exam_system;Auto Translate=False;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[Exam.txt]"
+      DTS:CreationName="FILE"
+      DTS:DTSID="{FAE5A983-24E2-4E1B-B555-BD0487510156}"
+      DTS:ObjectName="Exam.txt">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="C:\Users\MONEM\Desktop\ITIgraduationpro\data in txt file\Exam.txt" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
   <DTS:Variables />
-  <DTS:Executables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Bulk Insert Task"
+      DTS:CreationName="Microsoft.BulkInsertTask"
+      DTS:Description="Bulk Insert Task"
+      DTS:DTSID="{7BDF456D-C3BB-4340-825B-B3FDE77CBF91}"
+      DTS:ExecutableType="Microsoft.BulkInsertTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Bulk Insert Task"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <BulkInsertTask:BulkInsertTaskData
+          BulkInsertTask:SourceConnectionName="{FAE5A983-24E2-4E1B-B555-BD0487510156}"
+          BulkInsertTask:DestinationConnectionName="{EF666F8E-671E-4060-A6AE-F0F79BC64324}" xmlns:BulkInsertTask="www.microsoft.com/sqlserver/dts/tasks/bulkinserttask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Execute SQL Task"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{D64A5B87-8C5B-409B-A4A2-3A89C9C7844F}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Execute SQL Task"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{EF666F8E-671E-4060-A6AE-F0F79BC64324}"
+          SQLTask:SqlStatementSource="truncate  table;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:PrecedenceConstraints>
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint]"
+      DTS:CreationName=""
+      DTS:DTSID="{9AAC311E-2F99-4E03-B58F-948A7D044DAB}"
+      DTS:From="Package\Execute SQL Task"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint"
+      DTS:To="Package\Bulk Insert Task" />
+  </DTS:PrecedenceConstraints>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="8">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="154.4,41.6"
+          Id="Package\Bulk Insert Task"
+          TopLeft="310.500005194119,173.735296477084" />
+        <NodeLayout
+          Size="162.4,41.6"
+          Id="Package\Execute SQL Task"
+          TopLeft="317.142862543768,26.7647062577178" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint]"
+          TopLeft="398.342862543768,68.3647062577178">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-10.6428573496488,105.370590219366"
+              Start="0,0"
+              End="-10.6428573496488,97.8705902193657">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,48.6852951096829" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,48.6852951096829"
+                    Point2="0,52.6852951096829"
+                    Point3="-4,52.6852951096829" />
+                  <mssgle:LineSegment
+                    End="-6.64285734964875,52.6852951096829" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-6.64285734964875,52.6852951096829"
+                    Point2="-10.6428573496488,52.6852951096829"
+                    Point3="-10.6428573496488,56.6852951096829" />
+                  <mssgle:LineSegment
+                    End="-10.6428573496488,97.8705902193657" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+</Objects>]]></DTS:DesignTimeProperties>
 </DTS:Executable>
