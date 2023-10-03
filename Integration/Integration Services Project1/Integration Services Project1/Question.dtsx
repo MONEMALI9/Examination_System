@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Question"
   DTS:PackageType="5"
-  DTS:VersionBuild="5"
-  DTS:VersionGUID="{224220C3-3F99-4E1A-88C0-1546BB670B23}">
+  DTS:VersionBuild="7"
+  DTS:VersionGUID="{CD002A40-9CFB-47FA-8AFB-9C4B139F554F}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -75,7 +75,7 @@
         <NodeLayout
           Size="154.4,41.6"
           Id="Package\Bulk Insert Task"
-          TopLeft="281.928576136122,160.735296294763" />
+          TopLeft="282.642861862572,83.5000010939201" />
       </GraphLayout>
     </LayoutInfo>
   </Package>

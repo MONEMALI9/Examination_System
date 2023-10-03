@@ -38,69 +38,21 @@
 38,Java Virtual Machine (JVM) is platform-independent.,t/f,5,136,False
 39,Java allows the use of pointers.,t/f,5,138,False
 40,Java is a strongly-typed language.,t/f,5,140,False
-41,"What is the output of the following C++ code?
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    int x = 5;
-    cout << x++ << "" "" << ++x;
-    return 0;
-}
-```
-",mcq,5,142,6 7
+41,"What is the output of the following C++ code?```cpp #include <iostream> using namespace std; int main() { int x = 5; cout << x++ << "" "" << ++x; return 0; }```",mcq,5,142,6 7
 42,Which of the following is not a storage class specifier in C++?,mcq,5,147,constant
 43,What is the result of the expression 'sizeof(3.14)' in C++?,mcq,5,149,4
 44,"In C++, what is the result of dividing an integer by zero?",mcq,5,153,Error
 45,What does the 'new' operator in C++ do?,mcq,5,157,Allocate memory
 46,"In C++, what is the size of 'char' data type?",mcq,5,161,1 byte
-47,"What is the output of the following code?
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    int arr[5] = {1, 2, 3, 4, 5};
-    cout << arr[5];
-    return 0;
-}
-```
-",mcq,5,168,Runtime error
+47,"What is the output of the following code?```cpp#include <iostream>using namespace std;int main() {int arr[5] = {1, 2, 3, 4, 5};cout << arr[5];return 0;}```",mcq,5,168,Runtime error
 48,What is the correct way to declare a pointer in C++?,mcq,5,169,int* ptr;
 49,Which of the following is an example of a unary operator in C++?,mcq,5,174,-
-50,"What is the output of the following code?
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << 5/2 << endl;
-    cout << 5/2.0 << endl;
-    return 0;
-}
-```
-",mcq,5,177,2 2.5
+50,"What is the output of the following code?```cpp#include <iostream>using namespace std;int main() {cout << 5/2 << endl;cout << 5/2.0 << endl;return 0;}```",mcq,5,177,2 2.5
 51,Which header file should be included to use 'cin' and 'cout' in C++?,mcq,5,182,<iostream>
 52,What is the result of the expression '5 + 3 * 2' in C++?,mcq,5,186,11
 53,What is the purpose of 'cin.ignore()' in C++?,mcq,5,189,To clear the input buffer
 54,"In C++, which type of loop is ideal when the number of iterations is known?",mcq,5,193,for loop
-55,"What is the output of the following code?
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    char ch = 'A';
-    cout << ch + 1;
-    return 0;
-}
-```
-",mcq,5,197,65
+55,"What is the output of the following code?```cpp#include <iostream>using namespace std;int main() {char ch = 'A';cout << ch + 1;return 0;}```S",mcq,5,197,65
 56,C++ supports multiple inheritance.,t/f,5,202,False
 57,A C++ function can return more than one value.,t/f,5,204,False
 58,Pointers in C++ are used to store the memory address of variables.,t/f,5,206,False

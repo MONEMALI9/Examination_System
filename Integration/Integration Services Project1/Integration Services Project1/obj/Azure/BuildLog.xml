@@ -2,83 +2,88 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>Integration Services Project1</Name>
-    <LastWriteTime>2023-10-02T23:29:31.6135788Z</LastWriteTime>
+    <LastWriteTime>2023-10-03T13:39:39.6619651Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>Choice.dtsx</Name>
-      <LastWriteTime>2023-10-02T21:44:10.0766804Z</LastWriteTime>
+      <LastWriteTime>2023-10-03T20:24:54.9724409Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Course.dtsx</Name>
-      <LastWriteTime>2023-10-02T21:45:18.2293174Z</LastWriteTime>
+      <LastWriteTime>2023-10-03T14:41:34.8729045Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Crs_evaluatuon.dtsx</Name>
-      <LastWriteTime>2023-10-02T21:46:21.5263833Z</LastWriteTime>
+      <LastWriteTime>2023-10-03T18:34:59.1709642Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Department.dtsx</Name>
-      <LastWriteTime>2023-10-02T21:47:10.3471286Z</LastWriteTime>
+      <LastWriteTime>2023-10-03T14:36:02.5469024Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Exam.dtsx</Name>
-      <LastWriteTime>2023-10-02T21:48:14.1184879Z</LastWriteTime>
+      <LastWriteTime>2023-10-03T15:15:14.7283715Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Exam_Question.dtsx</Name>
-      <LastWriteTime>2023-10-02T21:48:58.7577164Z</LastWriteTime>
+      <LastWriteTime>2023-10-03T20:38:13.1916395Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Instructor.dtsx</Name>
-      <LastWriteTime>2023-10-02T21:49:49.5385175Z</LastWriteTime>
+      <LastWriteTime>2023-10-03T14:42:56.3706507Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Job_offer.dtsx</Name>
-      <LastWriteTime>2023-10-02T21:56:46.4787414Z</LastWriteTime>
+      <LastWriteTime>2023-10-03T15:12:25.6649202Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>KPI.dtsx</Name>
-      <LastWriteTime>2023-10-02T21:56:12.2458771Z</LastWriteTime>
+      <LastWriteTime>2023-10-03T15:14:17.4985752Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Question.dtsx</Name>
-      <LastWriteTime>2023-10-02T23:56:36.5886078Z</LastWriteTime>
+      <LastWriteTime>2023-10-03T13:23:19.5086879Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Std_Answer.dtsx</Name>
-      <LastWriteTime>2023-10-02T21:54:07.8862307Z</LastWriteTime>
+      <LastWriteTime>2023-10-03T18:36:17.1778623Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Std_course.dtsx</Name>
-      <LastWriteTime>2023-10-02T21:53:14.9510548Z</LastWriteTime>
+      <LastWriteTime>2023-10-03T18:36:15.1044303Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Std_Exam_Grade.dtsx</Name>
-      <LastWriteTime>2023-10-02T23:42:11.7524359Z</LastWriteTime>
+      <LastWriteTime>2023-10-03T18:34:50.6461235Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Student.dtsx</Name>
-      <LastWriteTime>2023-10-02T23:38:13.4014338Z</LastWriteTime>
+      <LastWriteTime>2023-10-03T15:11:39.0319607Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Topic.dtsx</Name>
-      <LastWriteTime>2023-10-02T21:55:30.5625209Z</LastWriteTime>
+      <LastWriteTime>2023-10-03T14:43:22.3367018Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Package1.dtsx</Name>
+      <LastWriteTime>2023-10-03T20:37:21.0162426Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

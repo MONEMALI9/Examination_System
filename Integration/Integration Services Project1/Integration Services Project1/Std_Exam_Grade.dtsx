@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Std_Exam_Grade"
   DTS:PackageType="5"
-  DTS:VersionBuild="6"
-  DTS:VersionGUID="{F35955B2-A2BD-40A6-B290-7CA5B41415BE}">
+  DTS:VersionBuild="10"
+  DTS:VersionGUID="{E668788B-8E68-40AD-962A-F3FF9675B675}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
