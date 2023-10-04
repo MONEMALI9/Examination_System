@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionBuild="29"
-  DTS:VersionGUID="{2BA16441-4600-464C-9C41-E0E21284F943}">
+  DTS:VersionBuild="30"
+  DTS:VersionGUID="{0B2C8E91-7F4F-4C6A-AADC-EE4BE298B607}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -73,7 +73,7 @@
                 <property
                   dataType="System.String"
                   description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">Exam_Question$</property>
+                  name="OpenRowset">Std_Answer$</property>
                 <property
                   dataType="System.String"
                   description="Specifies the variable that contains the name of the database object used to open a rowset."
@@ -128,6 +128,34 @@
                       lineageId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].Columns[Quest_id]"
                       name="Quest_id"
                       truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].Columns[Std_id]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].ExternalColumns[Std_id]"
+                      lineageId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].Columns[Std_id]"
+                      name="Std_id"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].Columns[Std_ans]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].ExternalColumns[Std_ans]"
+                      length="255"
+                      lineageId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].Columns[Std_ans]"
+                      name="Std_ans"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].Columns[Std_qs_grade]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].ExternalColumns[Std_qs_grade]"
+                      lineageId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].Columns[Std_qs_grade]"
+                      name="Std_qs_grade"
+                      truncationRowDisposition="FailComponent" />
                   </outputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -139,6 +167,19 @@
                       refId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].ExternalColumns[Quest_id]"
                       dataType="r8"
                       name="Quest_id" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].ExternalColumns[Std_id]"
+                      dataType="r8"
+                      name="Std_id" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].ExternalColumns[Std_ans]"
+                      dataType="wstr"
+                      length="255"
+                      name="Std_ans" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].ExternalColumns[Std_qs_grade]"
+                      dataType="r8"
+                      name="Std_qs_grade" />
                   </externalMetadataColumns>
                 </output>
                 <output
@@ -146,6 +187,11 @@
                   isErrorOut="true"
                   name="Excel Source Error Output">
                   <outputColumns>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Error Output].Columns[Std_id]"
+                      dataType="r8"
+                      lineageId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Error Output].Columns[Std_id]"
+                      name="Std_id" />
                     <outputColumn
                       refId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Error Output].Columns[Exam_id]"
                       dataType="r8"
@@ -156,6 +202,17 @@
                       dataType="r8"
                       lineageId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Error Output].Columns[Quest_id]"
                       name="Quest_id" />
+                    <outputColumn
+                      refId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Error Output].Columns[Std_ans]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Error Output].Columns[Std_ans]"
+                      name="Std_ans" />
+                    <outputColumn
+                      refId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Error Output].Columns[Std_qs_grade]"
+                      dataType="r8"
+                      lineageId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Error Output].Columns[Std_qs_grade]"
+                      name="Std_qs_grade" />
                     <outputColumn
                       refId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Error Output].Columns[ErrorCode]"
                       dataType="i4"
@@ -189,7 +246,7 @@
                 <property
                   dataType="System.String"
                   description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">[dbo].[Exam_Question]</property>
+                  name="OpenRowset">[dbo].[Std_answer]</property>
                 <property
                   dataType="System.String"
                   description="Specifies the variable that contains the name of the database object used to open a rowset."
@@ -251,6 +308,31 @@
                       cachedName="Exam_id"
                       externalMetadataColumnId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Exam_id]"
                       lineageId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].Columns[Exam_id]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Std_id]"
+                      cachedDataType="r8"
+                      cachedName="Std_id"
+                      externalMetadataColumnId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Std_id]"
+                      lineageId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].Columns[Std_id]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Quest_id]"
+                      cachedDataType="r8"
+                      cachedName="Quest_id"
+                      externalMetadataColumnId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[question_id]"
+                      lineageId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].Columns[Quest_id]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Std_ans]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="Std_ans"
+                      externalMetadataColumnId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Std_ans]"
+                      lineageId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].Columns[Std_ans]" />
+                    <inputColumn
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Std_qs_grade]"
+                      cachedDataType="r8"
+                      cachedName="Std_qs_grade"
+                      externalMetadataColumnId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Std_qs_grade]"
+                      lineageId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].Columns[Std_qs_grade]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -259,9 +341,25 @@
                       dataType="i4"
                       name="Exam_id" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Quest_id]"
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Std_id]"
                       dataType="i4"
-                      name="Quest_id" />
+                      name="Std_id" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[question_id]"
+                      dataType="i4"
+                      name="question_id" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Std_ans]"
+                      codePage="1252"
+                      dataType="str"
+                      length="255"
+                      name="Std_ans" />
+                    <externalMetadataColumn
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Std_qs_grade]"
+                      codePage="1252"
+                      dataType="str"
+                      length="255"
+                      name="Std_qs_grade" />
                   </externalMetadataColumns>
                 </input>
               </inputs>
@@ -327,13 +425,13 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="170.4,41.6"
-          Id="Package\Data Flow Task\OLE DB Destination"
-          TopLeft="258.571432974874,134.588237181667" />
-        <NodeLayout
           Size="138.4,41.6"
           Id="Package\Data Flow Task\Excel Source"
           TopLeft="302.857148014769,28.0235296477084" />
+        <NodeLayout
+          Size="170.4,41.6"
+          Id="Package\Data Flow Task\OLE DB Destination"
+          TopLeft="258.571432974874,134.588237181667" />
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[Excel Source Output]"
           TopLeft="372.057148014769,69.6235296477084">
@@ -372,7 +470,7 @@
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Data Flow Task\OLE DB Destination">
+    design-time-name="Package\Data Flow Task\Excel Source">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -385,7 +483,7 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Data Flow Task\Excel Source">
+    design-time-name="Package\Data Flow Task\OLE DB Destination">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>

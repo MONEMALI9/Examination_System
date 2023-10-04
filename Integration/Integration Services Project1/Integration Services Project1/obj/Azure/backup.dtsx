@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="10/4/2023 5:03:27 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="DESKTOP-2CKEHLN"
+  DTS:CreatorName="DESKTOP-2CKEHLN\MONEM"
+  DTS:DTSID="{4C379E89-8B3B-4366-B201-F6BFF200C860}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5270.0"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="backup"
+  DTS:PackageType="5"
+  DTS:VersionBuild="2"
+  DTS:VersionGUID="{ED52F471-1FEB-4D9E-A529-BB259F6C5029}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[cin1]"
+      DTS:CreationName="ADO.NET:SQL"
+      DTS:DTSID="{1EDD64A1-F151-4225-AD93-F14303044C55}"
+      DTS:ObjectName="cin1">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectionString="Data Source=DESKTOP-2CKEHLN;Integrated Security=SSPI;Connect Timeout=30;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
+  <DTS:Variables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Back Up Database Task"
+      DTS:CreationName="Microsoft.DbMaintenanceBackupTask"
+      DTS:Description="Back Up Database Task"
+      DTS:DTSID="{8B24AC3F-671E-42C2-A454-242CD4A68EAC}"
+      DTS:ExecutableType="Microsoft.DbMaintenanceBackupTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Back Up Database Task"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{1EDD64A1-F151-4225-AD93-F14303044C55}"
+          SQLTask:DatabaseSelectionType="4"
+          SQLTask:ServerVersion="14"
+          SQLTask:ExtendedLogging="True"
+          SQLTask:LocalConnectionForLogging=""
+          SQLTask:TaskName=""
+          SQLTask:IgnoreDatabasesInNotOnlineState="False"
+          SQLTask:BackupAction="0"
+          SQLTask:BackupIsIncremental="False"
+          SQLTask:BackupFileGroupsFiles=""
+          SQLTask:BackupDeviceType="2"
+          SQLTask:BackupPhysicalDestinationType="2"
+          SQLTask:BackupDestinationType="0"
+          SQLTask:BackupDestinationAutoFolderPath="E:\"
+          SQLTask:BackupActionForExistingBackups="0"
+          SQLTask:BackupCreateSubFolder="False"
+          SQLTask:BackupFileExtension=""
+          SQLTask:BackupVerifyIntegrity="False"
+          SQLTask:ExpireDate="2023-10-18T00:00:00"
+          SQLTask:RetainDays="14"
+          SQLTask:InDays="True"
+          SQLTask:UseExpiration="False"
+          SQLTask:BackupCompressionAction="0"
+          SQLTask:CopyOnlyBackup="False"
+          SQLTask:IgnoreReplicaType="False"
+          SQLTask:CredentialName=""
+          SQLTask:ContainerName=""
+          SQLTask:UrlPrefix=""
+          SQLTask:IsBackupEncrypted="False"
+          SQLTask:BackupEncryptionAlgorithm="0"
+          SQLTask:BackupEncryptorType="0"
+          SQLTask:BackupEncryptorName=""
+          SQLTask:Checksum="False"
+          SQLTask:ContinueOnError="False"
+          SQLTask:IsBlockSizeUsed="False"
+          SQLTask:IsMaxTransferSizeUsed="False" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+          <SQLTask:SelectedDatabases
+            SQLTask:DatabaseName="exam_system" />
+        </SQLTask:SqlTaskData>
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="8">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        <NodeLayout
+          Size="188.8,41.6"
+          Id="Package\Back Up Database Task"
+          TopLeft="215.500003576279,55.2058830500474" />
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>
