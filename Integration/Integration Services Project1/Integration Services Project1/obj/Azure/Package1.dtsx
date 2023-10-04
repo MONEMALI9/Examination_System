@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionBuild="23"
-  DTS:VersionGUID="{16A95BF0-C611-478A-9D53-53571FBC289C}">
+  DTS:VersionBuild="29"
+  DTS:VersionGUID="{2BA16441-4600-464C-9C41-E0E21284F943}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -31,13 +31,13 @@
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[Excel Connection Manager]"
       DTS:CreationName="EXCEL"
-      DTS:DTSID="{2D63641D-9AB0-4772-894A-A1FA001E5BD2}"
+      DTS:DTSID="{285D8598-D5E4-408C-A6C3-A3E2C2A32A3F}"
       DTS:ObjectName="Excel Connection Manager">
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.16.0;Data Source=C:\Users\MONEM\Desktop\ITIgraduationpro\Final Data Set.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.16.0;Data Source=C:\Users\MONEM\Desktop\Final Data Set.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
@@ -211,7 +211,7 @@
                   dataType="System.Int32"
                   description="Specifies the mode used to access the database."
                   name="AccessMode"
-                  typeConverter="AccessMode">3</property>
+                  typeConverter="AccessMode">0</property>
                 <property
                   dataType="System.Boolean"
                   description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
@@ -251,12 +251,6 @@
                       cachedName="Exam_id"
                       externalMetadataColumnId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Exam_id]"
                       lineageId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].Columns[Exam_id]" />
-                    <inputColumn
-                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Quest_id]"
-                      cachedDataType="r8"
-                      cachedName="Quest_id"
-                      externalMetadataColumnId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Question_id]"
-                      lineageId="Package\Data Flow Task\Excel Source.Outputs[Excel Source Output].Columns[Quest_id]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -265,9 +259,9 @@
                       dataType="i4"
                       name="Exam_id" />
                     <externalMetadataColumn
-                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Question_id]"
+                      refId="Package\Data Flow Task\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Quest_id]"
                       dataType="i4"
-                      name="Question_id" />
+                      name="Quest_id" />
                   </externalMetadataColumns>
                 </input>
               </inputs>
@@ -333,27 +327,39 @@
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="177.6,41.6"
-          Id="Package\Data Flow Task\Excel Source"
-          TopLeft="255.500004257475,16.9705883961648" />
-        <NodeLayout
           Size="170.4,41.6"
           Id="Package\Data Flow Task\OLE DB Destination"
           TopLeft="258.571432974874,134.588237181667" />
+        <NodeLayout
+          Size="138.4,41.6"
+          Id="Package\Data Flow Task\Excel Source"
+          TopLeft="302.857148014769,28.0235296477084" />
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[Excel Source Output]"
-          TopLeft="344.035718616174,58.5705883961648">
+          TopLeft="372.057148014769,69.6235296477084">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,76.0176487855021"
+              EndConnector="-28.2857150398954,64.9647075339587"
               Start="0,0"
-              End="0,68.5176487855021">
+              End="-28.2857150398954,57.4647075339587">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,68.5176487855021" />
+                    End="0,28.4823537669793" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,28.4823537669793"
+                    Point2="0,32.4823537669793"
+                    Point3="-4,32.4823537669793" />
+                  <mssgle:LineSegment
+                    End="-24.2857150398954,32.4823537669793" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-24.2857150398954,32.4823537669793"
+                    Point2="-28.2857150398954,32.4823537669793"
+                    Point3="-28.2857150398954,36.4823537669793" />
+                  <mssgle:LineSegment
+                    End="-28.2857150398954,57.4647075339587" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -366,7 +372,7 @@
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Data Flow Task\Excel Source">
+    design-time-name="Package\Data Flow Task\OLE DB Destination">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -379,7 +385,7 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Data Flow Task\OLE DB Destination">
+    design-time-name="Package\Data Flow Task\Excel Source">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
