@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="backup"
   DTS:PackageType="5"
-  DTS:VersionBuild="2"
-  DTS:VersionGUID="{ED52F471-1FEB-4D9E-A529-BB259F6C5029}">
+  DTS:VersionBuild="3"
+  DTS:VersionGUID="{5EA93AD1-B0A3-4C33-A58A-7A1A94FCBEAA}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -59,7 +59,7 @@
           SQLTask:BackupCreateSubFolder="False"
           SQLTask:BackupFileExtension=""
           SQLTask:BackupVerifyIntegrity="False"
-          SQLTask:ExpireDate="2023-10-18T00:00:00"
+          SQLTask:ExpireDate="2023-10-19T00:00:00"
           SQLTask:RetainDays="14"
           SQLTask:InDays="True"
           SQLTask:UseExpiration="False"

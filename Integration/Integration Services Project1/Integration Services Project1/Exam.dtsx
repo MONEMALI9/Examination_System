@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Exam"
   DTS:PackageType="5"
-  DTS:VersionBuild="4"
-  DTS:VersionGUID="{45DB9EB8-CED6-43D7-92ED-75C6C963C3AA}">
+  DTS:VersionBuild="5"
+  DTS:VersionGUID="{C520C955-F7BA-47AB-B394-B35A6932E79D}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
