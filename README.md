@@ -1,6 +1,4 @@
-# Examination_System
-
-# Online Examination System README
+# Online Examination System 
 ## Overview
 This README provides an overview of the requirements and specifications for an automated online examination system along with its associated SQL database. This system is designed to facilitate online exams, manage exam-related data, and provide reporting capabilities for ITI (Information Technology Institute) staff.
 
